@@ -3,9 +3,67 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+# cacheUrl: https://rss2.duoweiti.eu.org/cache.json
+cacheUrl: https://BasicSix.github.io/rssosfeed/cache.json
+
+siteConfig:
+  title: "RSS-情报矩阵"
+  description: "24/7 自动巡检：AI 动态、行业资讯与创意灵感"
+cacheConfig:
+  expireInDays: 7
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  # === [视频] 创意素材与导演灵感 ===
+  - href: https://rsshub.app/bilibili/user/video/1358758877
+    title: "[视频] 程序员哈利 (B站)"
+  - href: https://rsshub.app/bilibili/user/video/3031494
+    title: "[视频] 刘悦的技术博客 (B站)"
+  - href: https://rsshub.app/bilibili/user/video/1954415159
+    title: "[视频] TED官方 (B站)"
+  - href: https://rsshub.app/bilibili/user/video/488141422
+    title: "[视频] TED英语官方 (B站)"
+  - href: https://rsshub.app/youtube/channel/UCvijahEyGtvMpmMHBu4FS2w
+    title: "[视频] 零度解说 (YT)"
+  - href: https://rsshub.app/youtube/channel/UCo2eY8Nk3lPOh6sef1sQx_Q
+    title: "[视频] 七七行銷筆記 (YT)"
+  - href: https://rsshub.app/youtube/channel/UCefuY8ao6vYFRqbTNcuj3aA
+    title: "[视频] 科技梦星云 (YT)"
+  - href: https://rsshub.app/youtube/channel/UCo0LN_BATQbaz8GfazzScvA
+    title: "[视频] 小琳解说 (YT)"
+  - href: https://rsshub.app/1x
+    title: "[视觉] 1x.com 摄影精选"
+
+  # === [资讯] 深度阅读与技术前沿 ===
+  - href: http://feeds.feedburner.com/ruanyifeng
+    title: "[资讯] 阮一峰的网络日志"
+  - href: https://rsshub.app/zaobao/realtime/world
+    title: "[资讯] 联合早报-国际"
+  - href: https://ducorn.com/feed.xml
+    title: "[资讯] 讀角獸"
+  - href: https://rsshub.app/github/trending/daily/any
+    title: "[开发] GitHub 今日趋势"
+  - href: https://wechat2rss.bestblogs.dev/feed/d993a885260f96057b9a4c96212cb2c95bb5054b.xml
+    title: "[AI] 魔搭ModelScope社区"
+  - href: https://wechat2rss.xlab.app/feed/808d3625c2b1915142f09e2d4bb2acd636aa956d.xml
+    title: "[工具] 阿虚同学"
+
+  # === [听觉] 播客与深度对话 ===
+  - href: https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/5e74b52c418a84a046ecaceb
+    title: "[播客] 科技早知道"
+  - href: https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/62694abdb221dd5908417d1e
+    title: "[播客] 纵横四海"
+  - href: https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/61358d971c5d56efe5bcb5d2
+    title: "[播客] 乱翻书"
+  - href: https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/640ee2438be5d40013fe4a87
+    title: "[播客] 硬地骇客"
+  - href: https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/62382c1103bea1ebfffa1c00
+    title: "[播客] 半拿铁"
+  - href: https://feeds.acast.com/public/shows/67587e77c705e441797aff96
+    title: "[播客] TED Talks Daily"
+
+  # === [个人] 随笔与记录 ===
+  - href: https://haikuoshijie.cn/rss.xml
+    title: "[生活] 小棉袄的百味人生"
+  - href: https://rsshub.app/telegram/channel/wxbyg
+    title: "[记录] 微信搬运工 (TG)"
+    
+  # 
