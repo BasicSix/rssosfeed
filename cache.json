@@ -63,6 +63,16 @@
       "siteUrl": "https://ducorn.com",
       "articles": [
         {
+          "id": "https://ducorn.com/tqqq-leverage",
+          "author": null,
+          "description": "股板說 TQQQ 定期定額七年勝率 100%。但那個七年的起點是 2012，換成 1999 起點做模擬，TQQQ 年化 5.62% 輸 QQQ 的 9.37%，最大回撤 99.91%。同一個工具差 13 年結論相反。這是起點的遊戲，進場日期你選不了。",
+          "link": "https://ducorn.com/tqqq-leverage",
+          "publishedOn": "2026-04-15T01:53:09.000Z",
+          "wordCount": 1705,
+          "title": "TQQQ 三倍槓桿放大了什麼？進場日期決定結論的遊戲",
+          "imageUrl": "https://ducorn.com/images/og/tqqq-leverage.webp"
+        },
+        {
           "id": "https://ducorn.com/longevity-drugs",
           "author": null,
           "description": "NMN 唯一的人體試驗：60 人、12 週、沒測壽命。Rapamycin 讓老鼠多活 38%，但花兩百萬美元做實驗的 Bryan Johnson 停藥了。三種抗老化分子的證據等級，跟廣告暗示的差了好幾個量級。三個互相看不順眼的專家，唯一共識是運動。",
@@ -387,6 +397,16 @@
       "siteUrl": "https://wechat2rss.xlab.app/feed/808d3625c2b1915142f09e2d4bb2acd636aa956d.xml",
       "articles": [
         {
+          "id": "https://mp.weixin.qq.com/s?__biz=MzkxNTUwODgzNA==&mid=2247539508&idx=1&sn=502a48b4c04170047cfc1293111d9724",
+          "author": null,
+          "description": "真的太懂设计师了！",
+          "link": "https://mp.weixin.qq.com/s?__biz=MzkxNTUwODgzNA==&mid=2247539508&idx=1&sn=502a48b4c04170047cfc1293111d9724",
+          "publishedOn": "2026-04-14T03:01:00.000Z",
+          "wordCount": 264,
+          "title": "太离谱了！一张图就能解锁上帝视角，360°无死角看美女……",
+          "imageUrl": null
+        },
+        {
           "id": "https://mp.weixin.qq.com/s?__biz=MzkxNTUwODgzNA==&mid=2247539506&idx=1&sn=d5207f3e9d3b5be6213f2471d6980e31",
           "author": null,
           "description": "一夜回到解放前",
@@ -514,16 +534,6 @@
           "publishedOn": "2026-03-18T03:59:00.000Z",
           "wordCount": 264,
           "title": "实测LibTV，一块画布搞定 AI 视频全流程！效率翻倍价格砍半",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s?__biz=MzkxNTUwODgzNA==&mid=2247538765&idx=1&sn=94c1476d938af523da8859c7c487d40a",
-          "author": null,
-          "description": "降维打击！24小时全自动生成 AI 短剧",
-          "link": "https://mp.weixin.qq.com/s?__biz=MzkxNTUwODgzNA==&mid=2247538765&idx=1&sn=94c1476d938af523da8859c7c487d40a",
-          "publishedOn": "2026-03-16T03:35:00.000Z",
-          "wordCount": 264,
-          "title": "用 Zopia ＋OpenClaw 做短剧赚AI漫剧第一桶金",
           "imageUrl": null
         }
       ]
@@ -772,6 +782,24 @@
       "feedUrl": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96",
       "siteUrl": "https://www.ted.com",
       "articles": [
+        {
+          "id": "69dc661af736e119c3a0659d",
+          "author": null,
+          "description": "Malala Yousafzai has spent her life advocating for girls' education — surviving an assassination attempt at 15, meeting with world leaders and then watching hard-won progress collapse when Afghanistan fell to the Taliban in 2021. That moment of despair forced her to completely rethink what it means to create change, and what she discovered replaced her shattered optimism with something more powerful and more honest. Hear how to keep fighting for the future you want, even when hope feels lost.\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
+          "link": "http://go.ted.com/malalayousafzai26",
+          "publishedOn": "2026-04-14T15:00:00.000Z",
+          "wordCount": null,
+          "title": "What I got wrong about changing the world | Malala Yousafzai",
+          "itunes": {
+            "duration": "13:25"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69dc661af736e119c3a0659d/media.mp3",
+            "length": "12981726",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "69d3cc4107bc2cbfc7b31714",
           "author": null,
