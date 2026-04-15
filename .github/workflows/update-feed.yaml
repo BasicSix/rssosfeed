@@ -1,36 +1,40 @@
-name: Build site on schedule or main branch update
+name: Build and Deploy Archive Feed
 
 on:
   push:
     branches:
       - main
   schedule:
-    # Adjust refresh schedule here. By default, it runs once per day.
-    # Syntax reference: https://docs.github.com/en/actions/reference/events-that-trigger-workflows#schedule
-    # Recommended tool: https://crontab.guru/
+    # 每天 UTC 00:00 (北京时间上午 8 点) 自动运行，执行存档任务
     - cron: "0 0 * * *"
-    # 比如改为每 1 小时执行一次 (UTC 时间)
-    # 每 2 小时更新："0 */2 * * *"
-    # 每 6 小时更新："0 */6 * * *"
-    # 每天 0 点更新："0 0 * * *"
-    # 每 30 分钟更新："*/30 * * * *"
+  workflow_dispatch: # 允许手动点击按钮触发，方便测试
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
       - name: Setup Node.js environment
-        uses: actions/setup-node@v2.1.4
+        uses: actions/setup-node@v4
         with:
-          node-version: "16"
+          node-version: "20" # 升级到最新的长期支持版 Node.js
+          cache: 'npm'       # 开启缓存，加速后续运行
+
       - name: Install dependencies
         run: npm i
+
       - name: Build the feed
         run: npm run build
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          # 【关键修复】在此强制指定域名，防止 GitHub Pages 自动解绑
+          cname: rss2.duoweiti.eu.org
+          # 保持历史记录，而不是强制覆盖 (可选，适用于存档需求)
+          force_orphan: false
