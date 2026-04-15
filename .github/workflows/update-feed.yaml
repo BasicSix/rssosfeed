@@ -5,13 +5,16 @@ on:
     branches:
       - main
   schedule:
-    # 每天 UTC 00:00 (北京时间上午 8 点) 自动运行，执行存档任务
     - cron: "0 0 * * *"
-  workflow_dispatch: # 允许手动点击按钮触发，方便测试
+  workflow_dispatch:
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    
+    # 解决 Node.js 24 警告，强制环境前瞻
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - name: Checkout Repository
@@ -20,11 +23,11 @@ jobs:
       - name: Setup Node.js environment
         uses: actions/setup-node@v4
         with:
-          node-version: "20" # 升级到最新的长期支持版 Node.js
-          cache: 'npm'       # 开启缓存，加速后续运行
+          node-version: "24" # 直接升级到 Node 24，消除警告
+          # 移除 cache: 'npm' 以解决找不到 lock 文件的报错
 
       - name: Install dependencies
-        run: npm i
+        run: npm install # 使用 install 确保即便没有 lock 文件也能生成依赖
 
       - name: Build the feed
         run: npm run build
@@ -34,7 +37,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          # 【关键修复】在此强制指定域名，防止 GitHub Pages 自动解绑
           cname: rss2.duoweiti.eu.org
-          # 保持历史记录，而不是强制覆盖 (可选，适用于存档需求)
           force_orphan: false
