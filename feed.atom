@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BasicSix.github.io/rssosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-16T02:33:34.923Z</updated>
+    <updated>2026-04-16T04:07:53.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://BasicSix.github.io/rssosfeed/index.html"/>
     <link rel="self" href="https://BasicSix.github.io/rssosfeed/feed.atom"/>
@@ -2455,19 +2455,6 @@ Special Guest: 王珏.]]></summary>
         <summary type="html"><![CDATA[靠抽奖做视频的时代已经过时]]></summary>
         <author>
             <name>阿虚同学</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is luck random — or can you cultivate it? | Christian Busch]]></title>
-        <id>69b96b762544cc2ce59a643f</id>
-        <link href="http://go.ted.com/christianbusch"/>
-        <updated>2026-03-17T15:00:14.000Z</updated>
-        <summary type="html"><![CDATA[When the 2025 Los Angeles wildfires destroyed his home and neighborhood, scientist Christian Busch encountered the opposite of serendipity: "zemblanity," or bad luck by design. Drawing on more than a decade of scientific research, he explores how people can navigate unpredictability by adopting a serendipity mindset that transforms setbacks into unexpected new beginnings. He asks: What if good luck isn't random but can actually be cultivated?
-Learn more about our flagship conference happening this April at attend.ted.com/podcast
-
- Hosted on Acast. See acast.com/privacy for more information.]]></summary>
-        <author>
-            <name>TED Talks Daily</name>
         </author>
     </entry>
 </feed>
