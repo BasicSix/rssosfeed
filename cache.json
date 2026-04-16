@@ -537,6 +537,20 @@
       "siteUrl": "https://1x.com/gallery/latest/awarded",
       "articles": [
         {
+          "id": "1x-3546517",
+          "author": "widiarto p.",
+          "description": "Legacy in Every Stitch by widiarto p.",
+          "link": "https://1x.com/photo/3546517",
+          "publishedOn": "2026-04-16T04:23:06.010Z",
+          "wordCount": 341,
+          "title": "Legacy in Every Stitch",
+          "enclosure": {
+            "url": "https://1x.com/images/user/f056bcd4edcaa0a1af93e9094dc0b31d-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/f056bcd4edcaa0a1af93e9094dc0b31d-hd4.jpg"
+        },
+        {
           "id": "1x-3542875",
           "author": "Jean-Claude Malet",
           "description": "You really thought I'd buy that story of yours ??!!. by Jean-Claude Malet",
