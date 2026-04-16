@@ -811,23 +811,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://www.xiaoyuzhoufm.com/episode/69b8eeb5caaea1fb3bb0fe23",
-          "author": null,
-          "description": "本期番外是我们的老朋友华夏基金和小宇宙联合举办的“红火开麦日——人生复利计划”的其中一场对话\n\n点击了解红色火箭🚀\n\n本场对话出场四人组分别是：\n\n《商业就是这样》肖文杰\n\n《三个火呛手》雷哥\n\n《半拿铁》刘飞\n\n《半拿铁》潇磊\n\n我们一起闲谈了一下“这些年我们经历过的商业品牌”，很自由的聊了聊：\n\n那些当年的和现在的“牌子”在大家心中是如何种下的？\n\n卡西欧、真维斯、班尼路这些品牌在当年是怎么样的存在？\n\n早期品牌广告投放与现在相比有何不同？\n\n市场变化对现在的产品及运营产生了哪些影响？\n\n什么样的品牌才能穿越周期？\n\n等等\n\n坐吧，来杯半拿铁，咱们边喝边唠～\n\n————\n\n时间轴：\n\n02:22 回忆童年护肤品与皮肤保养经验\n\n07:17 经典品牌复苏与消费者记忆\n\n09:51 从班尼路到耐克：品牌认知与消费观念的变迁\n\n16:34 上海品牌记忆与变迁：从自行车到服装\n\n19:56 哪些品牌能够持续引领潮流？哪些已经淡出市场？\n\n22:49 品牌兴衰原因与市场变迁观察：从饮品到电器的行业观察\n\n32:02 白牌、杂牌与山寨：消费者视角的品牌价值探讨\n\n36:30 大牌信任危机与消费心态探讨\n\n42:13 儿童用品选择与育儿经验分享\n\n50:44 无孩家庭的性价比消费与情感陪伴消费\n\n58:19 白牌与品牌价值：中国消费市场趋势探讨\n\n01:04:28 品牌传承与创新：老字号与新品牌的共生之道",
-          "link": "https://www.xiaoyuzhoufm.com/episode/69b8eeb5caaea1fb3bb0fe23",
-          "publishedOn": "2026-03-17T06:19:51.000Z",
-          "wordCount": null,
-          "title": "番外 13：聊聊真实世界里的商业品牌变换",
-          "itunes": {
-            "duration": "1:09:40"
-          },
-          "enclosure": {
-            "url": "https://media.xyzcdn.net/62382c1103bea1ebfffa1c00/ltvCKV0uDjK-GIa2zAsVxCyvZHOe.m4a",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -836,6 +819,24 @@
       "feedUrl": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96",
       "siteUrl": "https://www.ted.com",
       "articles": [
+        {
+          "id": "69dc62c9361823b7813b4f55",
+          "author": null,
+          "description": "Songs are the soundtrack of our lives. But why exactly do they make us feel the way they do? Songwriter Scarlet Keys sits down at a piano to deconstruct the tools musicians use to make a melody unforgettable — from tone and repetition to lyrics and chords — and sheds light on music's ability to transform moments into memories.\n\nThis talk originally aired in 2024.\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
+          "link": "http://go.ted.com/scarletkeys",
+          "publishedOn": "2026-04-15T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Why do you love your favorite songs? | Scarlet Keys (re-release)",
+          "itunes": {
+            "duration": "21:27"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69dc62c9361823b7813b4f55/media.mp3",
+            "length": "20706288",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "69dc661af736e119c3a0659d",
           "author": null,
