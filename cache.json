@@ -1,6 +1,53 @@
 {
   "sources": [
     {
+      "title": "七七行銷筆記",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCo2eY8Nk3lPOh6sef1sQx_Q",
+      "siteUrl": "https://www.youtube.com/channel/UCo2eY8Nk3lPOh6sef1sQx_Q",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=KxzHN8nAnMs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KxzHN8nAnMs",
+          "publishedOn": "2026-04-04T04:00:15.000Z",
+          "wordCount": null,
+          "title": "【保姆級】長輩AI教學！一部手機讓中老年學會買機票、辨詐騙、修老照片，Gemini完整教學，免費好用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=WZcNLBtFsMA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WZcNLBtFsMA",
+          "publishedOn": "2026-04-02T06:53:03.000Z",
+          "wordCount": null,
+          "title": "Nano banana2 15種神級玩法實測，電商產品圖、遊戲場景擴充、漫畫生成、知識圖解，解決中文亂碼問題，免費使用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vQPr1tKHE7Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vQPr1tKHE7Y",
+          "publishedOn": "2026-03-20T12:12:51.000Z",
+          "wordCount": null,
+          "title": "我用了上百個AI工具，只有這17個值得每天打開，很多還免費，日常寫作、圖像創作、語音轉文字、效率提升",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZFmGyBa2yq4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZFmGyBa2yq4",
+          "publishedOn": "2026-03-18T08:44:35.000Z",
+          "wordCount": null,
+          "title": "從零開始月賺2萬美金，23歲Connor用AI打破編程神話",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "小琳解说",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCo0LN_BATQbaz8GfazzScvA",
       "siteUrl": "https://www.youtube.com/channel/UCo0LN_BATQbaz8GfazzScvA",

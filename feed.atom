@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BasicSix.github.io/rssosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-16T04:47:02.950Z</updated>
+    <updated>2026-04-16T04:47:34.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://BasicSix.github.io/rssosfeed/index.html"/>
     <link rel="self" href="https://BasicSix.github.io/rssosfeed/feed.atom"/>
@@ -1651,6 +1651,15 @@ Learn more about our flagship conference happening this April at attend.ted.com
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【保姆級】長輩AI教學！一部手機讓中老年學會買機票、辨詐騙、修老照片，Gemini完整教學，免費好用]]></title>
+        <id>https://www.youtube.com/watch?v=KxzHN8nAnMs</id>
+        <link href="https://www.youtube.com/watch?v=KxzHN8nAnMs"/>
+        <updated>2026-04-04T04:00:15.000Z</updated>
+        <author>
+            <name>七七行銷筆記</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How I imitate nature's voices | Snow Raven (re-release)]]></title>
         <id>69cbe0fa92d007a76577a379</id>
         <link href="http://go.ted.com/snowraven"/>
@@ -1717,6 +1726,15 @@ Learn more about our flagship conference happening this April at attend.ted.com
  Hosted on Acast. See acast.com/privacy for more information.]]></summary>
         <author>
             <name>TED Talks Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nano banana2 15種神級玩法實測，電商產品圖、遊戲場景擴充、漫畫生成、知識圖解，解決中文亂碼問題，免費使用]]></title>
+        <id>https://www.youtube.com/watch?v=WZcNLBtFsMA</id>
+        <link href="https://www.youtube.com/watch?v=WZcNLBtFsMA"/>
+        <updated>2026-04-02T06:53:03.000Z</updated>
+        <author>
+            <name>七七行銷筆記</name>
         </author>
     </entry>
     <entry>
@@ -2708,6 +2726,15 @@ Learn more about our flagship conference happening this April at attend.ted.com
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[我用了上百個AI工具，只有這17個值得每天打開，很多還免費，日常寫作、圖像創作、語音轉文字、效率提升]]></title>
+        <id>https://www.youtube.com/watch?v=vQPr1tKHE7Y</id>
+        <link href="https://www.youtube.com/watch?v=vQPr1tKHE7Y"/>
+        <updated>2026-03-20T12:12:51.000Z</updated>
+        <author>
+            <name>七七行銷筆記</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[你買了 ETF，但你對指數投資的理解可能是錯的]]></title>
         <id>https://ducorn.com/index-investing</id>
         <link href="https://ducorn.com/index-investing"/>
@@ -2961,6 +2988,15 @@ Learn more about our flagship conference happening this April at attend.ted.com
 戎戈]]></summary>
         <author>
             <name>半拿铁 | 商业沉浮录</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[從零開始月賺2萬美金，23歲Connor用AI打破編程神話]]></title>
+        <id>https://www.youtube.com/watch?v=ZFmGyBa2yq4</id>
+        <link href="https://www.youtube.com/watch?v=ZFmGyBa2yq4"/>
+        <updated>2026-03-18T08:44:35.000Z</updated>
+        <author>
+            <name>七七行銷筆記</name>
         </author>
     </entry>
     <entry>
