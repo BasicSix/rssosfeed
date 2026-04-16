@@ -1,6 +1,163 @@
 {
   "sources": [
     {
+      "title": "零度解说",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvijahEyGtvMpmMHBu4FS2w",
+      "siteUrl": "https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=0dztupxdseE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0dztupxdseE",
+          "publishedOn": "2026-04-15T12:36:56.000Z",
+          "wordCount": null,
+          "title": "太爽了！Hermes Agent 发布UI了，本地对接最强开源 Gemma 4 模型+ 微信（免费无需Token）| 零度解说",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=oW6DOhGaVTs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oW6DOhGaVTs",
+          "publishedOn": "2026-04-13T12:55:26.000Z",
+          "wordCount": null,
+          "title": "Gemma 4 被越狱了！谷歌最强开源模型，这才是普通人真正需要的本地AI！| 零度解说",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gi7HV2WHxBs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gi7HV2WHxBs",
+          "publishedOn": "2026-04-11T13:03:46.000Z",
+          "wordCount": null,
+          "title": "删掉 OpenClaw！Hermes Agent 才是真王炸，一键本地部署 + TG接入全教程（避坑指南） | 零度解说",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=S5CF--dRwws",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=S5CF--dRwws",
+          "publishedOn": "2026-04-09T12:00:54.000Z",
+          "wordCount": null,
+          "title": "别再傻傻订阅一堆AI了！这个工具1个顶5个，帮你省下$1000月 | Skywork实测 | 零度解说",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZVdx9VmpE7g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZVdx9VmpE7g",
+          "publishedOn": "2026-04-08T12:45:18.000Z",
+          "wordCount": null,
+          "title": "Qwen3.6-Plus 太猛了！免费 + 百万上下文 + Agent + 视觉多模态AI能力拉满！| 零度解说",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bqjvxnVbfdE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bqjvxnVbfdE",
+          "publishedOn": "2026-04-06T12:15:10.000Z",
+          "wordCount": null,
+          "title": "零成本跑最强AI！Gemma 4手机本地部署（支持离线+多模态）安卓+iPhone全搞定 | 零度解说",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=y_mz59nDC0g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=y_mz59nDC0g",
+          "publishedOn": "2026-04-05T12:18:58.000Z",
+          "wordCount": null,
+          "title": "人类54年后再奔月！阿尔忒弥斯2号飞向深空，宇航员首次实时连线地球！ | 零度解说",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jTVKagbUA68",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jTVKagbUA68",
+          "publishedOn": "2026-04-04T12:16:52.000Z",
+          "wordCount": null,
+          "title": "Gemma 4 太猛了！谷歌最强开源模型，本地就能跑多模态（实测） | 零度解说",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=chcFg878840",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=chcFg878840",
+          "publishedOn": "2026-04-02T11:56:57.000Z",
+          "wordCount": null,
+          "title": "2026 最强 Cloudflare 免费VPN自建！无限复活、永久可用｜全球高速节点｜秒开4K8K | 零度解说",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IYmMyPfKvM8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IYmMyPfKvM8",
+          "publishedOn": "2026-03-31T12:02:12.000Z",
+          "wordCount": null,
+          "title": "OpenClaw 装进手机！即装即用，旧手机秒变随身AI（无需服务器）省电又便捷！| 零度解说",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=tM-mf3skkaA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tM-mf3skkaA",
+          "publishedOn": "2026-03-29T11:38:47.000Z",
+          "wordCount": null,
+          "title": "OpenClaw 装进U盘！即插即用，电脑秒变随身AI（3套免费方案）｜龙虾盘｜零度解说",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Vt-yMk3cie4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Vt-yMk3cie4",
+          "publishedOn": "2026-03-27T11:15:00.000Z",
+          "wordCount": null,
+          "title": "OpenClaw 爆了！黄仁勋一句话点破关键，英伟达紧急发布 NemoClaw｜零度解说",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vccu7RsPgfY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vccu7RsPgfY",
+          "publishedOn": "2026-03-25T12:09:18.000Z",
+          "wordCount": null,
+          "title": "NAS 部署 OpenClaw 太简单了！一篇搞定所有配置，实测100%成功（保姆级教程）| 零度解说",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ICJfRlLLft4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ICJfRlLLft4",
+          "publishedOn": "2026-03-23T11:59:58.000Z",
+          "wordCount": null,
+          "title": "Chrome / Edge 越用越卡？关闭这7个隐藏设置，速度直接翻倍！（2026实测）| 零度解说",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pw5DYaj65xo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pw5DYaj65xo",
+          "publishedOn": "2026-03-21T11:31:58.000Z",
+          "wordCount": null,
+          "title": "禁用这个功能！Windows 10/11 秒变流畅，彻底告别卡顿臃肿，老旧电脑也能起飞！ | 零度解说",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "七七行銷筆記",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCo2eY8Nk3lPOh6sef1sQx_Q",
       "siteUrl": "https://www.youtube.com/channel/UCo2eY8Nk3lPOh6sef1sQx_Q",
