@@ -1,6 +1,33 @@
 {
   "sources": [
     {
+      "title": "小琳解说",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCo0LN_BATQbaz8GfazzScvA",
+      "siteUrl": "https://www.youtube.com/channel/UCo0LN_BATQbaz8GfazzScvA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ZeIz0U21_Qc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZeIz0U21_Qc",
+          "publishedOn": "2026-04-01T11:30:16.000Z",
+          "wordCount": null,
+          "title": "免费eu.cc域名 喂饭教程  6分钟搞定 注册只需一个邮箱 支持托管Cloudflare  搭建代理节点等项目  #cloudflare |小琳解说",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=sH8KCLGnIOk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sH8KCLGnIOk",
+          "publishedOn": "2026-03-25T10:01:16.000Z",
+          "wordCount": null,
+          "title": "cloudflare代理节点优选IP扫描测速软件 安卓版发布 程序小巧 使用简单 |小琳解说",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "阮一峰的网络日志",
       "feedUrl": "http://feeds.feedburner.com/ruanyifeng",
       "siteUrl": "http://www.ruanyifeng.com/blog/",
