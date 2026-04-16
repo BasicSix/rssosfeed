@@ -3,14 +3,13 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-# cacheUrl: https://rss2.duoweiti.eu.org/cache.json
-
+cacheUrl: https://rss2.duoweiti.eu.org/cache.json
 cacheUrl: https://BasicSix.github.io/rssosfeed/cache.json
 siteConfig:
   title: "RSS-情报矩阵"
   description: "24/7 自动巡检：AI 动态、行业资讯与创意灵感"
 cacheConfig:
-  expireInDays: 7
+  expireInDays: 30
 sources:
   # === [视频] 创意素材与导演灵感 ===
   - href: https://basicsix-my-rsshub-hq.hf.space/bilibili/user/video/1358758877
