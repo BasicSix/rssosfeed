@@ -2,10 +2,803 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BasicSix.github.io/rssosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-17T02:29:37.841Z</updated>
+    <updated>2026-04-18T02:12:46.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://BasicSix.github.io/rssosfeed/index.html"/>
     <link rel="self" href="https://BasicSix.github.io/rssosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The road]]></title>
+        <id>1x-3546141</id>
+        <link href="https://1x.com/photo/3546141"/>
+        <updated>2026-04-18T02:12:45.922Z</updated>
+        <summary type="html"><![CDATA[The road by Andreas Klesse]]></summary>
+        <author>
+            <name>Andreas Klesse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“The Way Back”]]></title>
+        <id>1x-3547384</id>
+        <link href="https://1x.com/photo/3547384"/>
+        <updated>2026-04-18T02:12:45.919Z</updated>
+        <summary type="html"><![CDATA[“The Way Back” by Cristina Navarro]]></summary>
+        <author>
+            <name>Cristina Navarro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Osprey in Action]]></title>
+        <id>1x-3532708</id>
+        <link href="https://1x.com/photo/3532708"/>
+        <updated>2026-04-18T02:12:45.918Z</updated>
+        <summary type="html"><![CDATA[Osprey in Action by Johnny Chen]]></summary>
+        <author>
+            <name>Johnny Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pale Emergence]]></title>
+        <id>1x-3547967</id>
+        <link href="https://1x.com/photo/3547967"/>
+        <updated>2026-04-18T02:12:45.893Z</updated>
+        <summary type="html"><![CDATA[Pale Emergence by GoNagai]]></summary>
+        <author>
+            <name>GoNagai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Błękitna rapsodia]]></title>
+        <id>1x-3548388</id>
+        <link href="https://1x.com/photo/3548388"/>
+        <updated>2026-04-18T02:12:45.888Z</updated>
+        <summary type="html"><![CDATA[Błękitna rapsodia by Ewa Całkosińska-Kajzer]]></summary>
+        <author>
+            <name>Ewa Całkosińska-Kajzer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PATAGONIA ARGENTINA, PARQUE NACIONAL LOS GLACIARES - DJI--25]]></title>
+        <id>1x-3548575</id>
+        <link href="https://1x.com/photo/3548575"/>
+        <updated>2026-04-18T02:12:45.884Z</updated>
+        <summary type="html"><![CDATA[PATAGONIA ARGENTINA, PARQUE NACIONAL LOS GLACIARES - DJI--25 by Raimondo Restelli]]></summary>
+        <author>
+            <name>Raimondo Restelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Great Cormorant]]></title>
+        <id>1x-3548851</id>
+        <link href="https://1x.com/photo/3548851"/>
+        <updated>2026-04-18T02:12:45.839Z</updated>
+        <summary type="html"><![CDATA[Great Cormorant by Ahmed Elkahlawi]]></summary>
+        <author>
+            <name>Ahmed Elkahlawi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pandion haliaetus A]]></title>
+        <id>1x-3533647</id>
+        <link href="https://1x.com/photo/3533647"/>
+        <updated>2026-04-18T02:12:45.837Z</updated>
+        <summary type="html"><![CDATA[Pandion haliaetus A by Eldad Levin]]></summary>
+        <author>
+            <name>Eldad Levin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smile from Hoi An]]></title>
+        <id>1x-3548347</id>
+        <link href="https://1x.com/photo/3548347"/>
+        <updated>2026-04-18T02:12:45.835Z</updated>
+        <summary type="html"><![CDATA[Smile from Hoi An by Nevra Topalismailoglu]]></summary>
+        <author>
+            <name>Nevra Topalismailoglu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Noir Panther]]></title>
+        <id>1x-3544005</id>
+        <link href="https://1x.com/photo/3544005"/>
+        <updated>2026-04-18T02:12:45.833Z</updated>
+        <summary type="html"><![CDATA[Noir Panther by Tomoki Ishikawa]]></summary>
+        <author>
+            <name>Tomoki Ishikawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Other times, other lives]]></title>
+        <id>1x-3548361</id>
+        <link href="https://1x.com/photo/3548361"/>
+        <updated>2026-04-18T02:12:45.832Z</updated>
+        <summary type="html"><![CDATA[Other times, other lives by Jose C. Lobato]]></summary>
+        <author>
+            <name>Jose C. Lobato</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pinnacles]]></title>
+        <id>1x-3547319</id>
+        <link href="https://1x.com/photo/3547319"/>
+        <updated>2026-04-18T02:12:45.830Z</updated>
+        <summary type="html"><![CDATA[Pinnacles by R Suguri]]></summary>
+        <author>
+            <name>R Suguri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[City above the Clouds]]></title>
+        <id>1x-3511220</id>
+        <link href="https://1x.com/photo/3511220"/>
+        <updated>2026-04-18T02:12:45.826Z</updated>
+        <summary type="html"><![CDATA[City above the Clouds by Tomoaki Katsuba]]></summary>
+        <author>
+            <name>Tomoaki Katsuba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suspended Intent]]></title>
+        <id>1x-3547776</id>
+        <link href="https://1x.com/photo/3547776"/>
+        <updated>2026-04-18T02:12:45.823Z</updated>
+        <summary type="html"><![CDATA[Suspended Intent by Robert Zhang]]></summary>
+        <author>
+            <name>Robert Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Threshold]]></title>
+        <id>1x-3547272</id>
+        <link href="https://1x.com/photo/3547272"/>
+        <updated>2026-04-18T02:12:45.821Z</updated>
+        <summary type="html"><![CDATA[The Threshold by Ichiro.t]]></summary>
+        <author>
+            <name>Ichiro.t</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3544979</id>
+        <link href="https://1x.com/photo/3544979"/>
+        <updated>2026-04-18T02:12:45.819Z</updated>
+        <summary type="html"><![CDATA[Untitled by Yasutaka Watanuki]]></summary>
+        <author>
+            <name>Yasutaka Watanuki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3526988</id>
+        <link href="https://1x.com/photo/3526988"/>
+        <updated>2026-04-18T02:12:45.545Z</updated>
+        <summary type="html"><![CDATA[Untitled by Wagdy]]></summary>
+        <author>
+            <name>Wagdy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gracia]]></title>
+        <id>1x-3548795</id>
+        <link href="https://1x.com/photo/3548795"/>
+        <updated>2026-04-18T02:12:45.530Z</updated>
+        <summary type="html"><![CDATA[Gracia by Erik Jäderholm]]></summary>
+        <author>
+            <name>Erik Jäderholm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Great Egret with Lizard]]></title>
+        <id>1x-3546149</id>
+        <link href="https://1x.com/photo/3546149"/>
+        <updated>2026-04-18T02:12:45.524Z</updated>
+        <summary type="html"><![CDATA[Great Egret with Lizard by John Glaser]]></summary>
+        <author>
+            <name>John Glaser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[航运分析机构：霍尔木兹海峡船舶通行仍受限]]></title>
+        <id>https://www.zaobao.com/news/world/story20260418-8913777</id>
+        <link href="https://www.zaobao.com/news/world/story20260418-8913777"/>
+        <updated>2026-04-18T01:54:57.000Z</updated>
+        <summary type="html"><![CDATA[伊朗塔斯尼姆通讯社星期六（4月18日）报道，比利时航运分析机构克普勒公司说，虽然霍尔木兹海峡17日重新开放，但当晚这条海峡的航运仍被限制在需经批准的航道内。
+克普勒公司认为，尽管市场对海峡开放的消息作出“谨慎乐观”的反应，但相关供应形势依然“紧张”，贸易和信心的全面恢复将需要数月时间。
+新华社报道，伊朗伊斯兰革命卫队海军司令部17日晚在社交媒体发布船舶在霍尔木兹海峡通行的新规定。伊朗国防部发言人后续强调，霍尔木兹海峡是有条件开放、暂时开放。 
+伊朗革命卫队海军司令部说，新规定一是民用船只必须通过伊朗指定航线通行；二是军用船只仍禁止通过；三是所有船只通行均须与伊朗伊斯兰革命卫队海军协调。此项新规符合伊朗与美国、以色列以及黎巴嫩与以色列临时停火协议的实施。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【读书】【硬件篇】英伟达简史：基于愿景的运气 | 原文]]></title>
+        <id>https://t.me/wxbyg/7135</id>
+        <link href="https://t.me/wxbyg/7135"/>
+        <updated>2026-04-18T01:37:40.000Z</updated>
+        <summary type="html"><![CDATA[【读书】【硬件篇】英伟达简史：基于愿景的运气 | 原文
+Telegraph
+【读书】【硬件篇】英伟达简史：基于愿景的运气
+欢迎关注！ 前言&书籍：英伟达和黄仁勋无需介绍，只是由于黄似乎确实更专注于未来，不喜欢回顾过去，此前英伟达一直没有传记。这次趁着其登顶全球市值第一热度，出来两本相关书籍。看得出来，这两本书虽然通俗易懂，但相较于此前优秀的传记，在全面性和深度上都还欠缺点火候。但是读完两本书，依然可以梳理出英伟达崛起过程中一些关键脉络。 黄仁勋个人经历：从移民、扫厕所到创业 黄仁勋（Jensen Huang）于1963年2月出生于台湾，随着其父亲工作后来移居到了泰国。1973年，随着泰国内部政局不稳定，其父母将黄仁勋（9岁…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊方消息：美伊下轮谈判20日在巴基斯坦举行]]></title>
+        <id>https://www.zaobao.com/news/world/story20260418-8913711</id>
+        <link href="https://www.zaobao.com/news/world/story20260418-8913711"/>
+        <updated>2026-04-18T01:31:39.000Z</updated>
+        <summary type="html"><![CDATA[伊朗消息人士向美国有线电视新闻网（CNN）透露，美国和伊朗的下一轮会谈将于星期一（4月20日）在巴基斯坦举行。
+美国官员尚未证实美伊会谈已敲定日期，但美国总统特朗普星期五（17日）表示双方已接近达成协议。 
+伊朗议会议长卡利巴夫星期六凌晨在社交媒体发文说，特朗普在一小时内接连发布的七项声明“全部是谎言”。 
+卡利巴夫说，霍尔木兹海峡事务将由伊朗决定，不是由美国说了算。
+卡利巴夫还警告，如果美国继续封锁伊朗港口，伊朗将再次关闭霍尔木兹海峡。
+美国中央司令部司令库珀17日说，美军拥有足够资源，持续监控并封锁经霍尔木兹海峡进出伊朗港口的船只，“只要总统下令维持，就会一直保持有效”。 
+特朗普当天在社媒发文说，美国将继续对伊朗实施海上封锁，“直至我们与伊朗的交易百分之百完成”。
+美伊上周末在巴基斯坦首都伊斯兰堡举行首轮面对面的谈判，但谈判无果而终。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《经济学人》封面文章丨美国终于意识到人工智能的致命威力 | 原文]]></title>
+        <id>https://t.me/wxbyg/7134</id>
+        <link href="https://t.me/wxbyg/7134"/>
+        <updated>2026-04-18T01:26:08.000Z</updated>
+        <summary type="html"><![CDATA[《经济学人》封面文章丨美国终于意识到人工智能的致命威力 | 原文
+Telegraph
+《经济学人》封面文章丨美国终于意识到人工智能的致命威力
+America wakes up to AI’s dangerous power Mythos模型事件后，放任自流的监管路线在政治上已站不住脚，战略上亦不明智。 2026年4月16日 是否该将全球最具颠覆性的新兴技术，托付给寥寥数人？达里奥、德米斯、埃隆、马克、萨姆——这五位仅凭名字便家喻户晓的极客，对塑造未来的人工智能模型掌握着近乎神明般的掌控权。即便这些模型的能力已惊人到令人咋舌，特朗普政府仍选择袖手旁观，笃信私营企业间不受约束的竞争，是确保美国在人工智能竞赛中战胜东方大国的最佳途径。 如今，局面终…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Opus 4.7:一次高调但充满争议的升级 | 原文]]></title>
+        <id>https://t.me/wxbyg/7133</id>
+        <link href="https://t.me/wxbyg/7133"/>
+        <updated>2026-04-18T01:21:56.000Z</updated>
+        <summary type="html"><![CDATA[Claude Opus 4.7:一次高调但充满争议的升级 | 原文
+Telegraph
+Claude Opus 4.7:一次高调但充满争议的升级
+Anthropic 于 2026 年 4 月 16 日发布 Claude Opus 4.7,在编码与智能体任务上重夺通用可用模型王座,但同时公开承认它"广泛能力不如"自家未发布的 Mythos Preview。 这次更新对 SWE-bench Pro 提升了近 11 个百分点、视觉分辨率翻了三倍、并新增"xhigh"推理档位;然而伴随而来的是一场关于 Opus 4.6 被"阉割"(nerfing)的信任危机、长上下文检索大幅回退,以及对 Anthropic 双轨发布策略的广泛质疑。Opus 4.7 定位…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美军福特号航母返回红海海域]]></title>
+        <id>https://www.zaobao.com/news/world/story20260418-8913641</id>
+        <link href="https://www.zaobao.com/news/world/story20260418-8913641"/>
+        <updated>2026-04-18T01:00:50.000Z</updated>
+        <summary type="html"><![CDATA[美国官员星期五（4月17日）向媒体披露，美国海军福特号航空母舰在两艘驱逐舰护卫下，已经离开地中海东部并穿越苏伊士运河，目前正在红海海域执行任务。
+美国有线电视新闻网（CNN）引述一名美国官员的话报道，此次调动是美军更广泛行动的一部分，旨在保持战备状态，以便在美国和伊朗停火协议未能维持的情况下，随时恢复针对伊朗的作战行动。
+目前，美军林肯号航母打击群正在中东地区执行任务。福特号航母抵达后，美军在中东恢复“双航母”部署态势。
+美国官员说，布什号航母打击群3月下旬离开美国东海岸弗吉尼亚州诺福克港前往中东，目前位于南非附近海域。抵达中东后，这艘航母打击群可能会加入现有编队，形成“三航母”部署态势，也可能接替福特号执行任务。
+新华社报道，自去年6月以来，福特号航母连续在海上部署，先后参与美国对委内瑞拉、对伊朗的军事行动，打破自越南战争以来美军航母部署时长纪录。
+3月12日，福特号航母船尾洗衣房发生火灾，造成三名水兵受伤，另有200多名水兵因吸入浓烟接受治疗。福特号随后不得不撤离中东战区，先后到希腊和克罗地亚港口进行维修和维护。4月2日，福特号离开克罗地亚斯普利特港。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英法阐明联合维护霍尔木兹海峡航行自由任务]]></title>
+        <id>https://www.zaobao.com/news/world/story20260418-8913591</id>
+        <link href="https://www.zaobao.com/news/world/story20260418-8913591"/>
+        <updated>2026-04-18T00:39:45.000Z</updated>
+        <summary type="html"><![CDATA[法国总统马克龙和英国首相斯塔默就霍尔木兹海峡局势联合召开49国会议后发表声明，宣布由两国牵头开展一项维护霍尔木兹海峡航行自由的联合行动。
+英国广播公司（BBC）报道，马克龙和斯塔默在星期五（4月17日）发布的声明中确认了这项联合行动的任务，并概述联合行动的三大要点。
+声明说：“首先，我们呼吁所有各方无条件、无限制、立即重新开放霍尔木兹海峡。不受限制或收费的航行权是国际贸易的基石。”
+“其次，我们重申支持国际海事组织（IMO）为确保海员和船只安全所做的重要工作。我们将继续与航运业合作，确保它们在条件允许的情况下尽快恢复运营，包括与航运公司、保险公司、行业机构进行沟通。”
+“第三，法国和英国确认，两国正在组建一个独立且完全出于防御目的的多国特派团，旨在保护商船，让商业航运运营商安心，并在谈判方达成可持续停火协议之后，在条件允许的情况下开展扫雷行动。”
+这项由欧洲主导的会议被视为欧盟展现其战略自主能力的重要契机。会议由马克龙和斯塔默共同主持，共有49个国家的代表参与，其中包括亲临巴黎的德国总理默茨和意大利总理梅洛尼。
+据路透社和法新社报道，目前已有超过12个国家表示愿意提供军事资源参与这项任务。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国若继续封锁伊朗港口 伊朗警告再关闭霍尔木兹海峡]]></title>
+        <id>https://www.zaobao.com/news/world/story20260418-8913561</id>
+        <link href="https://www.zaobao.com/news/world/story20260418-8913561"/>
+        <updated>2026-04-18T00:00:32.000Z</updated>
+        <summary type="html"><![CDATA[伊朗议会议长卡利巴夫警告，如果美国继续封锁伊朗港口，伊朗将再次关闭具有战略意义的霍尔木兹海峡。
+法新社报道，加利巴夫星期六（4月18日）凌晨在社媒平台X写道：“如果继续封锁，霍尔木兹海峡将不再开放。”
+他还说，船只通过这条海峡取决于伊朗的授权。 
+美国中央司令部司令库珀17日说，美军拥有足够资源，持续监控并封锁经霍尔木兹海峡进出伊朗港口的船只，“只要总统下令维持，就会一直保持有效”。 
+美国总统特朗普当天在社媒发文说，美国将继续对伊朗实施海上封锁，“直至我们与伊朗的交易百分之百完成”。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗议长：特朗普一小时内七项声明“全部是谎言”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260418-8913544</id>
+        <link href="https://www.zaobao.com/news/world/story20260418-8913544"/>
+        <updated>2026-04-17T23:38:23.000Z</updated>
+        <summary type="html"><![CDATA[伊朗议会议长卡利巴夫星期六（4月18日）凌晨在社交媒体发文说，美国总统特朗普在一小时内接连发布的七项声明“全部是谎言”。 
+卡利巴夫在贴文中直指特朗普就美伊谈判撒谎，称特朗普“在一个小时内提出了七个说法，全部是谎言”。
+卡利巴夫还说，霍尔木兹海峡事务将由伊朗决定，不是由美国说了算。
+他说，船只只有在获得“伊朗授权”的情况下才能通过“指定航线”。他强调，这条海峡的开放或关闭将取决于海峡的实际情况，而非公开发表的声明。
+他还指责美国正在搞“媒体战术”，并坚称伊朗不会受其影响。
+美国新闻网站Axios星期五引述美国官员和知情人士称，特朗普政府正在考虑解冻200亿美元（约254亿新元）的伊朗资金，换取伊朗放弃浓缩铀库存。特朗普接受哥伦比亚广播公司（CBS）采访时否认这一说法，他说：“不，我们一分钱也不会付。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美媒曝美国考虑解冻伊朗百亿美元换浓缩铀 特朗普否认]]></title>
+        <id>https://www.zaobao.com/news/world/story20260418-8913525</id>
+        <link href="https://www.zaobao.com/news/world/story20260418-8913525"/>
+        <updated>2026-04-17T23:11:13.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普说，美国与伊朗的协议不涉及任何金钱交易。 
+美国新闻网站Axios星期五（4月17日）报道，美国官员和知情人士透露，美国正在考虑解冻200亿美元（约254亿新元）的伊朗资金，换取伊朗放弃浓缩铀库存。
+特朗普接受哥伦比亚广播公司（CBS）采访时否认这一说法，他说：“不，我们一分钱也不会付。”
+特朗普同日在社交媒体贴文称，美国将获得伊朗所有浓缩铀库存，但不会以任何方式、任何形式支付任何款项。 
+据Axios报道，美伊正就一份3页的停战谅解备忘录进行谈判，拿解冻资金“换铀”的计划是其中一项内容。目前，双方正在就伊朗所拥有的浓缩铀的处置方式及解冻多少伊朗资产等问题进行谈判。
+报道引述消息人士称，在谈判较早阶段，美国曾准备解冻60亿美元资金，供伊朗用于采购食品、药品及其他人道物资。伊朗方面当时提出的要求是解冻270亿美元。美伊目前讨论的最新金额为200亿美元。
+此外，美方曾要求伊朗同意将所有核材料运至美国境内，但伊方仅同意在伊朗境内对这些核材料进行稀释处理。根据目前正在讨论的一项折中提案，部分高浓缩铀将被运往第三国，而非一定是美国。
+双方正在磋商的这份谅解备忘录中，据称还包含一项关于伊朗“自愿”暂停铀浓缩活动的条款。伊朗将被允许拥有用于生产医用同位素的核研究堆，但须承诺所有核设施均须建于地上，现有地下核设施将继续处于停运状态。而在上一轮谈判中，美方要求伊朗同意暂停铀浓缩活动20年，伊方则提出仅暂停五年。
+特朗普17日说，美国和伊朗谈判代表可能会在这个周末举行第二轮会谈，以期达成协议。一名熟悉调解工作的消息人士透露，美伊第二轮面对面会谈预计将在巴基斯坦首都伊斯兰堡举行，时间很可能是19日。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美军全面监视伊朗港口 海上封锁将按需维持]]></title>
+        <id>https://www.zaobao.com/news/world/story20260418-8913495</id>
+        <link href="https://www.zaobao.com/news/world/story20260418-8913495"/>
+        <updated>2026-04-17T23:07:23.000Z</updated>
+        <summary type="html"><![CDATA[美国中央司令部司令库珀说，美军拥有足够资源，持续监控并封锁经霍尔木兹海峡进出伊朗港口的船只，“只要总统下令维持，就会一直保持有效”。
+美国有线电视新闻网（CNN）报道，库珀星期五（4月17日）说，美军监视范围覆盖“每一座伊朗港口”，包括通过MQ-9型“死神”无人机和P-8型海上巡逻机进行空中侦察，“我们有能力将这一行动持续下去，需要持续多久就能持续多久”。
+美国中央司令部当天在社交媒体发布了一段视频，重点展示正在进行的军事行动，配文“海上封锁继续”，并显示美军士兵演练直升机索降、登临检查等内容。
+库珀说，自此次封锁行动开始以来，没有任何一艘美军舰船遭到攻击。截至17日，共有19艘船只试图突破封锁，但收到美军警告后均返回港口，未发生任何意外。
+不过，英国航运媒体《劳埃德船舶日报》17日报道，本周以来，至少已有八艘船突破美方封锁驶向伊朗港口。
+库珀还说，美军已在霍尔木兹海峡展开扫雷作业，但拒绝透露水雷的具体数量，称这一数量“完全在我们的清除能力范围内”。 
+伊朗外交部长阿拉格齐17日早前宣布，鉴于黎巴嫩和以色列达成停火，在停火期间，伊朗对所有商船开放霍尔木兹海峡。美国总统特朗普随后在社交媒体发文，“感谢”伊朗重新开放霍尔木兹海峡，但同时表示美国将继续对伊朗实施海上封锁，“直至我们与伊朗的交易百分之百完成”。他还说，伊朗在美国协助下“已经或正在”清除所有水雷。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗议长：绝不放弃控制霍尔木兹海峡]]></title>
+        <id>https://www.zaobao.com/news/world/story20260418-8913481</id>
+        <link href="https://www.zaobao.com/news/world/story20260418-8913481"/>
+        <updated>2026-04-17T23:03:20.000Z</updated>
+        <summary type="html"><![CDATA[伊朗伊斯兰议会议长卡利巴夫说，霍尔木兹海峡的控制权属于伊朗，这一事实已为美方所接受。伊朗绝不会放弃对霍尔木兹海峡的管辖。
+新华社报道，卡利巴夫星期五（4月17日）在社交媒体贴文称，美国总统特朗普“极度渴望”同伊朗达成协议，这恰恰表明其妄图摧毁伊朗文明的计划已失败。 
+卡利巴夫还说，目前，美方尚未在对伊朗的海上封锁中采取任何军事举措，伊朗对此也绝不会纵容。
+另外，伊朗外交部发言人巴加埃告诉伊朗伊斯兰共和国广播电视台，伊朗拒绝将浓缩铀运往国外的方案。
+巴加埃说，赔偿伊朗所受损失是伊美谈判中至关重要的议题。此前一轮会谈明确了各方共识和底线，目前谈判事项不存在任何模糊之处。
+特朗普17日接受采访时称，美国将同伊朗一起取出深埋在伊朗核设施废墟下的浓缩铀，并运回美国。 
+伊朗外交部发言人巴加埃当天早前说，由于以色列与黎巴嫩已经停火，伊朗将履行本月早些时候所作的承诺，允许非军用船只在霍尔木兹海峡通行，但必须经由伊朗指定的航道，且须与伊朗伊斯兰革命卫队海军进行协调。 
+巴加埃称，伊朗将美国实施海上封锁视为违反停火协议，如果封锁继续，伊朗将采取必要的反制举措。
+巴加埃还说，媒体和公众不应理会敌人的宣传伎俩，敌人会在一天之内反复发表自相矛盾的声明，目的是制造舆论氛围。伊朗是霍尔木兹海峡的“守护者”，伊朗在保障伊朗人民利益和权利问题上绝不妥协。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑猩猩内战的启示：分裂与暴力如何产生的？ | 原文]]></title>
+        <id>https://t.me/wxbyg/7132</id>
+        <link href="https://t.me/wxbyg/7132"/>
+        <updated>2026-04-17T22:14:00.000Z</updated>
+        <summary type="html"><![CDATA[黑猩猩内战的启示：分裂与暴力如何产生的？ | 原文
+Telegraph
+黑猩猩内战的启示：分裂与暴力如何产生的？
+《Chimp Empire 2023》来自：Netflix 导读： 一项对黑猩猩持续近30年的野外研究提示，冲突可能源于人际关系的破裂，而不是根深蒂固的种族或意识形态分歧。 莫喻枫｜撰文 2015年6月24日，驻扎在乌干达基巴莱国家公园（Kibale National Park）的研究人员，在一个通过GPS持续追踪多年的黑猩猩（Pan troglodytes）群体中，首次观察到一个奇怪的现象：西部与中部两拨黑猩猩相遇时，一方逃离、另一方追逐，并出现持续六周的回避行为。 基巴莱国家公园内的一只雄性首领黑猩…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刚刚，Claude Design 发布！网友：将摧毁设计行业…… | 原文]]></title>
+        <id>https://t.me/wxbyg/7131</id>
+        <link href="https://t.me/wxbyg/7131"/>
+        <updated>2026-04-17T17:02:29.000Z</updated>
+        <summary type="html"><![CDATA[刚刚，Claude Design 发布！网友：将摧毁设计行业…… | 原文
+Telegraph
+刚刚，Claude Design 发布！网友：将摧毁设计行业……
+昨天凌晨，Anthropic 才刚发了 Claude Opus 4.7：Claude Opus 4.7 发布！留给人类的时间，不多了。 一觉醒来，又更新了。 这次发的是 Claude Design。Anthropic Labs 的新产品，一句话能做出 prototype、slides、one-pager 这些「设计活儿」。 而在内部驱动它的，就是昨天刚发的 Claude Opus 4.7，Anthropic 目前最强的视觉模型。]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗允许商船通行霍尔木兹海峡 特朗普随即贴文道谢]]></title>
+        <id>https://www.zaobao.com/news/world/story20260418-8912248</id>
+        <link href="https://www.zaobao.com/news/world/story20260418-8912248"/>
+        <updated>2026-04-17T16:20:24.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿综合电）美国和伊朗之间的和谈出现重大进展。伊朗星期五宣布，在以黎停火期间，完全开放霍尔木兹海峡让商船通行。美国总统特朗普接着宣称，伊朗已同意永不再关闭海峡。消息一出，国际原油价格瞬间大跌至90美元以下。 
+伊朗外长阿拉格齐星期五（4月17日）在社媒X贴文宣布：“配合黎巴嫩停火，在剩余的停火期间，霍尔木兹海峡将完全向商船开放。” 
+特朗普随即在自家社媒贴文，向伊朗道谢。他过后再贴文说：“美国海军针对伊朗的封锁会全面维持，直到我们与伊朗的协议百分百完成。这个过程应可快速推进，因为多数条件都已谈妥。”
+他还说：“伊朗已同意不再关闭霍尔木兹海峡，它不会再被当成对付全世界的武器。”
+伊朗国家电视台则引述军方报道，军事船舰将不许穿越霍尔木兹海峡。伊朗一高级官员则告诉路透社，所有船只均可通过霍尔木兹海峡，但必须与伊朗伊斯兰革命卫队事先协调。
+霍尔木兹海峡这条重要航道得以复航，各方为之振奋。布伦特和西得克萨斯中质原油（WTI）双双大幅下跌。截至新加坡时间星期五晚间11时，布伦特油价每桶报86美元，盘中跌逾13%；WTI油价则跌逾14%，每桶约81美元。
+华尔街三大股市星期五开盘也全线跳涨。当中，道琼斯工商指数涨幅最大，截至新加坡晚间11时涨幅约2.1%。欧洲股市也全线收高。
+
+特朗普拒绝欧洲盟友协助维持海峡通行
+
+另一方面，英国首相斯塔默同日与法国总统马克龙共同主持了一个讨论霍尔木兹海峡航行问题的会议。 
+斯塔默会后透露，一旦条件允许，英法将牵头组建一支多国部队，确保霍尔木兹海峡的航行自由。“这将是一次完全和平的防御性行动，旨在保障商业航运安全并支持扫雷工作。”
+斯塔默同法国、德国和意大利领导人一同出席记者会。他说，已有十几个国家表示愿意提供资源，下周将在伦敦开会，届时将公布更多相关信息。
+不过，特朗普对此似乎并不领情。他贴文说：“霍尔木兹海峡的问题已经解决，我接到北约的电话问我需不需要一些帮助 。我叫他们站一边去，除非他们只是要来给自己的船装油。他们在需要他们的时候毫无用处，完全是纸老虎！”
+对于巴基斯坦和波斯湾盟友如沙特、阿联酋和卡塔尔，特朗普则接连发文一一道谢。 
+
+特朗普：伊朗愿做战前不愿的让步
+
+特朗普前一天出发到拉斯维加斯出席活动前，连连释放美伊谈判“前景大好”的信息。他告诉记者：“我们拭目以待，我想我们已非常接近与伊朗达成协议......如果我们在伊斯兰堡签约，我可能会出席。他们要我去。”
+对于美伊停火两周的协议即将在下星期一（20日）到期后是否延长，他说也许不需要了，因为伊朗希望达成协议，“两个月前不愿做出的让步，如今愿意了”。
+特朗普还这样说：“我们现在跟伊朗的关系好得让人难以置信，我想这是四个星期轰炸结合强力封堵的结果。”
+到拉斯维加斯后，他又说：“战争应该快要结束了。”　　 
+
+伊朗考虑移交部分浓缩铀
+
+特朗普早前提到，伊朗“已同意交出核尘埃”（指浓缩铀），后来声称伊朗同意无限期暂停核计划，而且不会从美国获得任何被冻结的资金。　　 
+路透社同日也引述伊朗消息报道，德黑兰在浓缩铀库存问题上有妥协迹象，考虑将部分库存转移国外。
+不过，伊朗国营新闻网站（Mizan）星期五引述消息报道，双方并未已就浓缩铀问题进行谈判，“自然也没有达成什么协议”。
+为美伊谈判剧中斡旋的巴基斯坦武装部队首长穆尼尔，星期四在德黑兰与伊朗国会议长卡利巴夫会谈。　
+路透社隔天引述巴国消息源报道，美伊的幕后谈判取得进展，双方接下来会面时，可能签署一份谅解备忘录，先取得原则性共识，过后才进入技术细节，寻求在60天内达成全面协议。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗允许所有商船通航霍尔木兹海峡 金价大涨]]></title>
+        <id>https://www.zaobao.com/news/world/story20260418-8913243</id>
+        <link href="https://www.zaobao.com/news/world/story20260418-8913243"/>
+        <updated>2026-04-17T16:07:25.000Z</updated>
+        <summary type="html"><![CDATA[在伊朗宣布霍尔木兹海峡已对商业航运“完全开放”之后，金价大涨。这标志着结束与美国和以色列战争的进程迈出重要一步。战争已推动能源价格大涨。 
+彭博社报道，金价一度上涨2.1%，随后回吐部分涨幅。美元和美债收益率下跌通常利好黄金，因为黄金以美元计价且不产生利息。
+中东冲突曾引发担忧，认为油气价格飙升将推高通胀，迫使各国央行推迟降息甚至加息，这对黄金等无息资产不利。
+纽约时间星期五（4月17日）上午9时37分（新加坡时间晚上9时37分），现货黄金上涨1.6%，至每盎司4864.51美元（6191.07新元）。白银上涨5%，铂金和钯金也同步走高。彭博美元即期指数下跌0.5%。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗官员：船只过霍尔木兹海峡需与革命卫队协调]]></title>
+        <id>https://www.zaobao.com/news/world/story20260417-8913216</id>
+        <link href="https://www.zaobao.com/news/world/story20260417-8913216"/>
+        <updated>2026-04-17T16:02:38.000Z</updated>
+        <summary type="html"><![CDATA[一名伊朗高级官员告诉路透社，所有船只均可通过霍尔木兹海峡，但这需要与伊朗伊斯兰革命卫队（IRGC）协调。他还补充说，把伊朗资金解冻是协议的一部分。
+伊朗外交部长阿拉格齐星期五（4月17日）在社交媒体X网站上撰文称，在黎巴嫩达成停火协议后，霍尔木兹海峡已经开放。
+美国总统特朗普说，他相信结束伊朗战争的协议“很快”就会达成，具体时间仍不明朗。
+这名伊朗官员说，船只通行将仅限于伊朗认为安全的航道，并补充说，军舰仍然禁止通过霍尔木兹海峡。
+目前尚不清楚这是否包括或不包括自20世纪70年代以来国际航运使用的、用于进出波斯湾的既定交通分离方案（TSS）航道。
+他说：“即使是美国船只也可以通行，但军舰除外。”
+官员补充说，途经霍尔木兹海峡的某些航线将继续开放，但这些航线的安全状况需要由伊朗方面来认定。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中东局势动荡牵动 日本考虑加强太平洋防御]]></title>
+        <id>https://www.zaobao.com/news/world/story20260417-8912649</id>
+        <link href="https://www.zaobao.com/news/world/story20260417-8912649"/>
+        <updated>2026-04-17T15:57:52.000Z</updated>
+        <summary type="html"><![CDATA[中东冲突导致霍尔木兹海峡遭封锁，坚定了日本强化海防的决心。日本政府计划以此为契机，在本月成立专家小组，探讨加强包括太平洋海上航道在内的防御机制。
+日本未直接卷入中东冲突，但霍尔木兹海峡被封锁也冲击日本。
+日本99.5%的贸易依赖海上运输。在资源方面，所有石油、煤炭和液化天然气（LNG）都依赖海上运输进口。其中约四成的天然气来自澳大利亚，15%来自马来西亚；煤炭有超过七成依赖澳洲，13%来自印度尼西亚。
+此外，日本62%的农产品和海产品依赖进口；约九成饲料谷物同样需仰赖海外供应，因此一旦供应严重受阻，海上运输出现中断，肉类产量将骤减。
+《日经新闻》报道，日本政府最早将于本月启动旨在修订国家安全保障战略的专家会议，并于年底汇总包括有关战略在内的“安保三文件”。作为保障国民生活与经济安全的支柱，将把加强防卫太平洋一侧的海上交通线写入文件中。
+报道指出，海域航道是日本的生命线，守护商船的航行安全，日本责无旁贷。除了连接日本和澳洲的南太平洋航道至关重要外，日本当局当前最大的担忧仍是周边地区局势。
+报道说：“一旦发生台海冲突，第二岛链（从伊豆群岛经小笠原群岛，延伸至关岛的岛链）以西的西太平洋的航行风险将会上升。”
+报道也说，中国在太平洋地区的扩张显著。有鉴于此，日本政府内部正在考虑加强对太平洋的监控能力，要在岛屿地区部署巡逻机和侦察雷达。在海巡方面，除加强自卫队舰艇的巡逻机制外，也将深化与沿海国家的合作。
+此前，日本政府已通过“政府安全能力增强援助（OSA）”计划，向东南亚国家和其他国家提供巡逻艇和救援船。此举是为了提升这些国家的能力，以便共同维护地区海洋安全，有效应对突发事件。
+曾在安倍晋三政府中担任副内阁秘书长的兼原信克告诉日经，海上航道是大动脉，政府本应在海上咽喉要道投入更多资源。他建议政府通过外交手段，深化与海上航道沿线国家的关系。　
+另外，日本将参加4月20日到5月8日，在菲律宾举行的“肩并肩26”（Balikatan 26）多边联合演习。
+自2012年起，日本一直以观察员身份观摩此项军演，这次是首次派出1400多名军人参加实弹演习。这项军演由美国和菲律宾联合主办，参与国有澳洲、加拿大、法国等七个国家。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普：禁以色列轰炸黎巴嫩 内坦亚胡：军事任务尚未结束]]></title>
+        <id>https://www.zaobao.com/news/world/story20260417-8913199</id>
+        <link href="https://www.zaobao.com/news/world/story20260417-8913199"/>
+        <updated>2026-04-17T15:48:17.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普说，美国已禁止以色列轰炸黎巴嫩。
+特朗普星期五（4月17日）在社交媒体“真相社交”发文说，美国将单独与黎巴嫩合作，并以适当方式处理黎巴嫩真主党相关局势。他说：“以色列将不再轰炸黎巴嫩。美国已禁止以色列这样做。适可而止！”
+另据新华社引述美国媒体的报道，两名美国官员和两名了解谈判情况的消息人士说，美国和伊朗正就一份旨在结束战争的计划进行沟通。其中一个重要议题是美国把伊朗200亿美元（254.54亿新元）资金解冻，以换取伊朗放弃它的浓缩铀库存。
+但是，特朗普否认，任何与伊朗就核计划达成的协议都将涉及金钱。他针对美国新闻网站Axios的报道指出，美国将获得伊朗所有核“尘埃”，不会支付任何款项。
+多家西方媒体解读特朗普所说的核“尘埃”是指伊朗的浓缩铀库存。他说：“不会以任何方式、任何形式进行金钱交易。”
+以总理：军事任务“尚未结束”
+
+以色列总理内坦亚胡发表声明称，以方同意与黎巴嫩实施临时停火，但相关军事任务“尚未结束”。
+新华社引述他说，这一决定是应美国总统特朗普的要求作出的，但以方“还没有完成任务”，仍在制定针对黎巴嫩真主党火箭弹和无人机威胁的后续行动计划。
+他还说，以色列将给黎巴嫩一个寻求全面政治和军事解决方案的机会。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普：美国助伊朗在霍尔木兹海峡扫雷 但封锁仍持续]]></title>
+        <id>https://www.zaobao.com/news/world/story20260417-8913129</id>
+        <link href="https://www.zaobao.com/news/world/story20260417-8913129"/>
+        <updated>2026-04-17T15:31:23.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普说，伊朗在美国的帮助下开始清除霍尔木兹海峡的水雷，但美国对伊朗港口的封锁仍将继续。 
+特朗普星期五（4月17日）在社交媒体“真相社交”发文说，在德黑兰宣布霍尔木兹海峡这一重要航道重新开放后，伊朗正在美国的帮助下清除海峡中的水雷。
+他说：“伊朗在美国的帮助下，已经清除或正在清除所有水雷！”
+他说，伊朗已同意永不再封锁霍尔木兹海峡。然而，特朗普也说，尽管伊朗当局声称已重新开放霍尔木兹海峡，但美国对伊朗港口的封锁仍将继续。他说：“针对伊朗的封锁将继续全力以赴，直至我们与伊朗的交易100%完成。”
+他还补充说，“这一进程应该很快完成。”
+特朗普也否认，任何与伊朗就核计划达成的协议都将涉及金钱。此前，美国新闻网站Axios报道，华盛顿正在考虑以200亿美元（254.54亿新元）的现金换取铀。
+特朗普说，美国将获得伊朗所有核“尘埃”，不会支付任何款项。他说：“不会以任何方式、任何形式进行金钱交易。” 
+特朗普告诉路透社，美国将与伊朗合作回收其浓缩铀并将其运回美国。他说：“我们会把它运回来。我们会和伊朗合作，以一种稳妥的节奏，深入伊朗，用大型机械开始挖掘……我们会把它运回美国。”
+特朗普在电话采访中提到了“核尘埃”，并补充说，这些核尘埃“很快”就会收回来。
+特朗普提到的“核尘埃”指的是他认为去年6月美国和以色列轰炸伊朗核设施后残留的物质。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球最臭名昭著的论坛，发现了 AI 最重要的「思考」能力 | 原文]]></title>
+        <id>https://t.me/wxbyg/7130</id>
+        <link href="https://t.me/wxbyg/7130"/>
+        <updated>2026-04-17T15:29:50.000Z</updated>
+        <summary type="html"><![CDATA[全球最臭名昭著的论坛，发现了 AI 最重要的「思考」能力 | 原文
+Telegraph
+全球最臭名昭著的论坛，发现了 AI 最重要的「思考」能力
+今天大清早突然发布的 Claude Opus 4.7，还没上线多久，网上就已经骂声一片。 最扎眼的槽点，是 token 先「通货膨胀」了。新版引入了全新的 tokenizer（分词器），同样一段文字，拆出的 token 数量比以前多出 1.0 到 1.35 倍。不少用户反映，还没聊几句，额度就见了底。 后续，Claude Code 之父 Boris Cherny 也表示将提高额度来抵消这部分的影响。 但 token 膨胀还算小事。更让人哭笑不得的，是 Opus 4.7 那张嘴。它动不动「我就在这里，不躲…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以黎停火生效 内坦亚胡：解除真主党武装仍是达成和平协议前提]]></title>
+        <id>https://www.zaobao.com/news/world/story20260417-8912021</id>
+        <link href="https://www.zaobao.com/news/world/story20260417-8912021"/>
+        <updated>2026-04-17T15:09:16.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿／贝鲁特／耶路撒冷综合电）以色列和黎巴嫩为期10天的停火于新加坡时间星期五（4月17日）凌晨5时生效，但黎巴嫩军方指控以方违反停火规定，停火生效后仍爆发多起以军袭击事件，黎巴嫩部分村庄遭遇间歇性炮击。
+美国总统特朗普星期四在自家社媒平台Truth Social发文说，他是在同以色列总理内坦亚胡和黎巴嫩总统奥恩进行了非常好的通话后达成停火协议，预料两名领导人将在四五天内到白宫举行会谈。 
+“这两位领导人已同意，为实现两国之间的和平，双方将于美国东部时间下午5时整正式开始履行为期10天的停火协议。”
+
+停火谈判料将真主党排除在外
+
+特朗普随后说，他希望真主党在10天的停火期间“好好表现”，停止杀戮，实现和平。
+尽管特朗普称这次停火也包括真主党，但据美国国务院的说法，以黎停火协议要求黎巴嫩政府自行解散这个背后由伊朗撑腰的武装组织。
+奥恩星期五通过总统府发表声明重申，黎巴嫩的目标是“巩固停火，确保以军从被占领的南部领土撤出，解救战俘，并解决悬而未决的边界争端”。
+内坦亚胡同天说：“应美国总统特朗普的要求，我们同意在黎巴嫩暂时停火。”
+他前一天在电视讲话中说，此次停火为与黎巴嫩达成历史性和平协议提供了机会，但他坚持，解除真主党武装仍是先决条件。 
+以色列防长卡茨星期五在停火生效数小时后说，对真主党的军事行动尚未结束，并警告，如果再次爆发战斗，返回黎巴嫩南部安全区的居民将不得不再次撤离。
+真主党星期五发声明警告，已“把手指扣在扳机上”，对敌军违反停火的行为时刻保持警惕。
+星期四早些时候，真主党议员穆萨维告诉法新社，真主党会遵守停火协议，前提是以色列必须全面停止对真主党发动攻势，也不得在停火期间展开任何暗杀行动。
+他也感谢伊朗为黎巴嫩着想而施压。“要不是伊朗将以黎停火看得跟封锁霍尔木兹海峡同样重要，停火就不会发生。”
+
+各国欢迎以黎停火 黎巴嫩民间喜疑参半
+
+联合国秘书长古特雷斯对以黎停火表示欢迎，并促所有各方尊重停火协议。沙特阿拉伯和欧洲国家也乐见以黎达成停火。
+德国外长瓦德富尔说，希望此次停火能为以色列和黎巴嫩“未来成为好邻居”铺平道路。法国总统马克龙则担心，停火可能已被正在进行的军事行动破坏。
+在贝鲁特，有人对停火感到高兴，也有人表示质疑。
+61岁的家庭主妇谢哈布告诉法新社：“非常高兴黎巴嫩达成了停火协议，我们厌倦了战争，我们渴望安全与和平。”
+律师哈利勒则认为，不能轻信特朗普和内坦亚胡所做的保证。“但我们知道，伊朗战争造成的压力，以及内坦亚胡和敌军在黎巴嫩南部犯下的错误，最终迫使他们停火。”
+这一个半月以来，以军对黎南的空袭已导致逾2000人丧命，百万人流离失所。
+黎巴嫩军方星期五清晨报告，黎南部分村庄仍遭遇间歇性炮击，呼吁民众暂时不要返回南部。但法新社记者看到，当天上午有数千名平民在黎南利塔尼河（Litani River）被炸毁的卡西米耶大桥一则等候，迫不及待地想返回南部的家园。
+以色列在真主党卷入美以伊冲突之际空袭了这座大桥，以阻止真主党向黎南运送人员和武器。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[应对霍尔木兹海峡封锁 欧洲国家主导部署多国防御部队]]></title>
+        <id>https://www.zaobao.com/news/world/story20260417-8913083</id>
+        <link href="https://www.zaobao.com/news/world/story20260417-8913083"/>
+        <updated>2026-04-17T15:04:54.000Z</updated>
+        <summary type="html"><![CDATA[法国、英国、德国与意大利领导人星期五（4月17日）在巴黎召开会议，商讨组建一支多国防御部队，旨在冲突结束后恢复霍尔木兹海峡的航行自由。
+据路透社和法新社报道，目前已有超过12个国家表示愿意提供军事资源参与这项任务。
+英国首相斯塔默在会后的记者会上宣布，下周将在伦敦召开军事计划会议，进一步落实多国部队的组成细节。
+他强调：“重新开放海峡是全球的必然需要，也是全球的责任。”
+这项由欧洲主导的会议被视为欧盟展现其战略自主能力的重要契机。会议由斯塔默与法国总统马克龙共同主持，共有49个国家的代表参与，其中包括亲临巴黎的德国总理默茨和意大利总理梅洛尼。
+值得注意的是，这次会议仅邀请“非参战国”参加，美国、以色列与伊朗均被排除在外。
+默茨星期四说，虽然德国原则上愿意参与，但谨慎提醒称，目前距离正式部署仍有相当长的一段路要走。
+官员强调，拟议中的多国军事任务具有严格的防御性质，核心任务包括开展扫雷行动和反勒索行动。
+除了能源安全，会议还讨论了人道主义危机。目前有数百艘船因封锁被困波斯湾，船上约两万名船员的安危引发国际社会高度关注。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I created OpenClaw, the viral AI agent | Peter Steinberger]]></title>
+        <id>69e064cf501ebe6715dd4fa7</id>
+        <link href="http://go.ted.com/petersteinberger"/>
+        <updated>2026-04-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenClaw creator Peter Steinberger takes us back to the transformative moment he let his AI agent loose on the internet, igniting one of the world's fastest-growing open-source projects. He makes a fascinating (and slightly unnerving) case that agents are a real shift, not just better versions of chatbots, and explores how they might reshape your ability to work, create and build. "The lobster is loose, and it's not going back into the tank," he says. (Followed by a brief Q&A with TED Chairman Chris Anderson)
+Learn more about our flagship conference happening this April at attend.ted.com/podcast
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黎巴嫩总统：与以色列谈判“敏感且具有关键意义”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260417-8913021</id>
+        <link href="https://www.zaobao.com/news/world/story20260417-8913021"/>
+        <updated>2026-04-17T14:47:54.000Z</updated>
+        <summary type="html"><![CDATA[黎巴嫩总统奥恩说，与以色列进行直接谈判至关重要。此前，美国总统特朗普宣布两国停火，并说两国领导人即将举行会晤。 
+法新社引述黎巴嫩总统府星期五（4月17日）发布的声明说，奥恩指出：“谈判敏感且具有关键意义……停火是推进谈判的前提。”
+他重申，贝鲁特的目标是“巩固停火，确保以色列军队从黎巴嫩南部撤出，解救被俘人员，并解决悬而未决的边界争端”。
+他指出，停火是推进后续谈判的重要前提，相关进程获得国内外支持。
+美国国务院公布的停火协议细节并未提及以色列军队从黎巴嫩撤军。
+新华社引述奥恩说，黎巴嫩军队将在以军撤离后发挥关键作用，维护黎南部安全秩序并推进解除武装进程，确保除国家军队及合法安全机构外不再存在其他武装力量，以保障居民安全返回家园。
+谈判代表团成员说，停火进程为黎巴嫩带来关键转折点，有助于推动国家迈向更加稳定的阶段。
+美国总统特朗普星期四在社交媒体发文，宣布黎巴嫩和以色列将于黎以当地时间17日零时、（新加坡时间17日5时）正式开始停火，为期10天。 
+特朗普称，以色列总理内坦亚胡和奥恩很可能会在“未来一两周内”在白宫会晤。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[油菜花不是黄色的吗？这些彩色油菜花是怎么来的？ | 原文]]></title>
+        <id>https://t.me/wxbyg/7129</id>
+        <link href="https://t.me/wxbyg/7129"/>
+        <updated>2026-04-17T13:15:30.000Z</updated>
+        <summary type="html"><![CDATA[油菜花不是黄色的吗？这些彩色油菜花是怎么来的？ | 原文
+Telegraph
+油菜花不是黄色的吗？这些彩色油菜花是怎么来的？
+每到三四月份，各地油菜花盛开，吸引了不少游客前往拍照打卡。但如果走进一些油菜花景区，你可能会看到一幅打翻调色盘的景象：雪白、粉红、橘红，甚至深紫色的油菜花同时盛开。 彩色油菜花｜周抖抖 等等，油菜花不是黄色的吗？这些彩色油菜花是怎么来的？ 油菜花为什么会出现不同颜色？ 花朵颜色主要由类胡萝卜素（carotenoids）和花青素（anthocyanins）两类色素决定。当这两类色素的比例变化时，就会形成从黄色到紫红色的各种色调。 类胡萝卜素通常呈现黄色或橙色，胡萝卜、南瓜、玉米等植物的颜色大多来自它们，它…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗宣布霍尔木兹海峡开放让商船通行 油价随即大跌]]></title>
+        <id>https://www.zaobao.com/news/world/story20260417-8912643</id>
+        <link href="https://www.zaobao.com/news/world/story20260417-8912643"/>
+        <updated>2026-04-17T13:13:39.000Z</updated>
+        <summary type="html"><![CDATA[伊朗外交部长阿拉格齐星期五（4月17日）说，根据黎巴嫩停火协议，霍尔木兹海峡对所有商船的通行在停火协议剩余期限内完全开放。
+路透社引述阿拉格齐在社交媒体X网站上的贴文说，船舶将按照伊朗港口和海事组织此前公布的协调航线通过海峡。
+美国总统特朗普随后在交媒体上感谢伊朗开放霍尔木兹海峡。他说：“伊朗海峡已完全开放，可全面通行。谢谢！” 
+阿拉格齐宣布消息后，油价暴跌逾10%，延续了此前的跌势。
+格林尼治标准时间17日13时11分（新加坡时间21时11分），布伦特原油期货下跌11.12美元（14.12新元），跌幅11.2%，至每桶88.27美元（112.06新元）。美国西得克萨斯中质原油期货下跌11.40美元，跌幅12%，至每桶83.29美元。
+瑞银分析师斯陶诺沃说：“伊朗外长的讲话表明，只要停火协议有效，局势就会缓和。现在，我们还需要观察通过霍尔木兹海峡的油轮数量是否会大幅增加。”
+由于美国和伊朗周末可能举行进一步会谈，以及黎巴嫩和以色列之间达成为期10天的停火协议，提振了投资者对中东战争可能接近结束的希望，因此，早盘价格已经下跌。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[霍尔木兹海峡航运受阻 巴拿马运河“插队费”飙升]]></title>
+        <id>https://www.zaobao.com/news/world/story20260417-8912535</id>
+        <link href="https://www.zaobao.com/news/world/story20260417-8912535"/>
+        <updated>2026-04-17T12:44:49.000Z</updated>
+        <summary type="html"><![CDATA[（巴拿马城综合电）伊朗战争使霍尔木兹海峡航运受阻，船只纷纷转向巴拿马运河，导致运河通航船只数量大增，目前要进入运河平均得等上三天半。
+知情人士透露，最近一艘液化石油气运输船为了优先通行，甚至支付高达400万美元（约500万新元）的“插队费”，远高于3月初伊朗冲突爆发初期的不到100万美元。
+不过，巴拿马运河管理局受询时试图淡化有关报道，称液化石油气船通过拍卖获得优先通行权，反映的是短期市场变化，而非运河设定的收费。
+运河管理局有时会在交通拥堵时，拍卖插队权，出价最高的船只可优先通行。当局指出，拍卖价格由多重因素决定，包括客户的紧迫性、商业优先事项、全球供需状况，以及运费和燃料价格等。
+“插队费”是运河通行费以外的收费，通行费则是根据船舶类型、尺寸及载货量计算，一般高达数十万美元。
+能源分析公司Vortexa的数据显示，由中国万华化学公司控制、悬挂新加坡国旗的Gas Virgo货船，从美国得克萨斯州运载液化石油气于星期三（4月15日）通过运河。针对这艘船是否就是400万美元“插队费”的支付者，万华化学公司位于烟台的总部发言人拒绝评论。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普政府游说盟友 支持“以贸易取代援助”倡议]]></title>
+        <id>https://www.zaobao.com/news/world/story20260417-8910662</id>
+        <link href="https://www.zaobao.com/news/world/story20260417-8910662"/>
+        <updated>2026-04-17T12:18:47.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿路透电）美国特朗普政府推动外交政策调整，计划在联合国推动“以贸易代替援助”宣言，并要求各国表态支持。
+据路透社查阅的美国国务院外交电报，国务卿鲁比奥星期三（4月15日）指示驻全球各地的美国外交官游说所在国高层，在联合国支持宣言，并争取各国在4月20日前签字支持。
+电报称，这项倡议旨在借助联合国体系推广“美国优先”理念，同时为美企创造更多商业机会。
+特朗普重回白宫后就冻结并削减大量援助项目，称原有体系存在浪费与滥用、制造了依赖关系，并未促进美国利益。
+国务院副发言人皮戈特强调，美国仍是最慷慨的国家，“那些主张‘援助而非贸易’的人，实际上是在为腐败的非政府组织谋取私利”。
+但慈善机构洛克菲勒基金会副总裁佩洛夫斯基指出，美国人历来都是冲向火场施以援手，而不是向受难者兜售消防水管，这种做法背离了美国的传统、价值观和国家安全利益。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[澳大利亚将签署巨额合同 向日本采购护卫舰]]></title>
+        <id>https://www.zaobao.com/news/world/story20260417-8912309</id>
+        <link href="https://www.zaobao.com/news/world/story20260417-8912309"/>
+        <updated>2026-04-17T11:51:16.000Z</updated>
+        <summary type="html"><![CDATA[澳大利亚即将签署一份价值数十亿美元的合同，从日本购买先进的海军护卫舰。这项交易将有助于澳洲海军现代化，提升东京成为全球防务市场主要参与者的雄心，并深化两国之间的安全联系。
+彭博社引述澳洲政府发言人称，澳洲国防部长马尔斯以及日本国防部长小泉进次郎星期六（4月18日）将在墨尔本参加签字仪式。
+发言人说，这项合同将涵盖11艘护卫舰中的前三艘，预算为150亿澳元至200亿澳元（约137亿新元至183亿新元）。三菱重工是“最上”级护卫舰项目的首席承包商，护卫舰针对水下作战和防空进行优化，将取代澳洲的Anzac级军舰。
+按照计划，前三艘舰船将在日本建造，其余船只将在西澳大利亚州建造。首艘船预计2029年交付，并于2030年投入使用。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西方军情：伊朗战前规划最大限度提升了军事反击能力]]></title>
+        <id>https://www.zaobao.com/news/world/story20260417-8910646</id>
+        <link href="https://www.zaobao.com/news/world/story20260417-8910646"/>
+        <updated>2026-04-17T11:44:30.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿综合电）西方军事情报评估显示，伊朗在战前制定的规划，显著降低了美国和以色列联合军事打击对伊朗武器库和领导层的冲击。
+评估还指出，如果美伊停火谈判最终失败，伊朗仍有能力进行反击，甚至可能利用停火期重整军备，为冲突重启做准备。
+彭博社星期五（4月17日）引述匿名的消息人士报道，虽然伊朗的基础设施严重受损，多名高层领导人被杀，但伊朗为应对冲突而制定的作战计划，有效防止了导弹和无人机能力受到的破坏，并最大限度地提升了军事反击的能力。
+这些信息与美国总统特朗普和政府高层官员对伊朗战事的评估相差堪远。
+特朗普星期一在自家社媒发文称：“伊朗已被彻底摧毁，无论在军事上还是其他方面。”
+特朗普4月7日宣布停火时还说，美国已“超额”完成所有军事目标。 
+但知情者说，伊朗为高级军事领导人被杀后进行替换而制定的计划，意味着伊朗可最大限度地减少对指挥结构的干扰。
+评估也显示，伊朗似乎仍拥有大量远程导弹储备和数千架无人机。
+在4月8日的新闻发布会上，美国战争部长赫格塞斯宣称：“无论从哪个角度看，‘史诗怒火’行动都重创了伊朗军队，使其在未来数年内丧失了作战能力。”
+一些西方官员则私下认为，美国须再进行两到三周的打击才能完全削弱伊朗的能力，但也有人说美方需更长时间，而且伊朗的工业和核能力可能仍未被摧毁。
+据了解，伊朗已将它的导弹发射器和无人机基础设施分散部署在全国各地，并且还会将发射器转移到不同的地点，这使得美国更难以迅速将它们摧毁。
+美国中央司令部拒绝就这份评估报告置评。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[燃油短缺与价格飙升 航空业“停飞潮”蔓延]]></title>
+        <id>https://www.zaobao.com/news/world/story20260417-8911973</id>
+        <link href="https://www.zaobao.com/news/world/story20260417-8911973"/>
+        <updated>2026-04-17T11:16:31.000Z</updated>
+        <summary type="html"><![CDATA[（伦敦/法兰克福/拉各斯综合电）伊朗战争引发的航空燃油供应短缺和价格飙升，正在导致航空业“停飞潮”蔓延。 
+德国汉莎航空星期四（4月16日）宣布，旗下汉莎城际航空（Lufthansa CityLine）将停飞27架飞机，另有四架较老旧的汉莎客机也将停飞。汉莎是首个作出停飞举动的主要航空公司。
+据报道，韩亚航空（Asiana）因燃油成本高涨，于4月至7月削减22趟航班。
+尼日利亚的航空公司警告，最快可能于下周一就开始停飞。
+代表国内多家航空公司的尼日利亚航空运营商协会说，目前航空公司的收益已不足以负担燃油费，因为国内燃油供应商趁机将燃油价格抬高300%，高于国际燃油价格涨幅。
+自2月28日美以伊开战以来，各航空公司已上调机票价格、征收燃油附加费并削减部分航线，以增加收入和削减成本。航空公司警告，燃料短缺可能在数周内出现，这将扰乱北半球夏季出行高峰，加剧航空业近年来最严重的危机。
+分析人士说，航空公司未来可能会进一步削减运力、停飞航班以及征收附加费。
+英国廉航易捷航空（EasyJet）总裁贾维斯说，为了将不确定因素减到最低，旅客现在临近出行日期才预订机票，而且开始转向国内旅游。易捷航空先前已警告，中东战争冲击机票预订量，并会在夏季末进一步推高机票价格。
+自美以伊开战以来，亚洲航空燃油价格已飙涨77%，欧洲面临燃油供应短缺，美国则因较少依赖经由波斯湾运输的燃油供应，国内大部分地区的燃油价格涨幅相对较小。不过为应对成本上升，美国一些航空公司已上调行李托运费以及削减航班。
+飞美国航线的挪威廉航挪威大西洋航空（Norse Atlantic）也作出调整，宣布取消美国洛杉矶国际机场往返伦敦、罗马和巴黎的航班，其他航线包括飞往美国纽约和奥兰多的航班则维持不变。
+中东冲突在国际上掀起燃油的热潮。欧盟多达75%航空燃油供应来自中东，目前欧盟正在制定紧急计划，希望最大限度地提高炼油厂产量，与此同时欧盟从美国进口的航空燃油创下新高。 
+澳大利亚总理阿尔巴尼斯本周展开东南亚之行，星期四宣布从文莱和韩国争取到1亿公升或57万桶柴油供应。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个大厂的边缘人写了一本被裁员指南 | 原文]]></title>
+        <id>https://t.me/wxbyg/7128</id>
+        <link href="https://t.me/wxbyg/7128"/>
+        <updated>2026-04-17T07:30:46.000Z</updated>
+        <summary type="html"><![CDATA[一个大厂的边缘人写了一本被裁员指南 | 原文
+Telegraph
+一个大厂的边缘人写了一本被裁员指南
+ ▲张小满《我的母亲做保洁》书中将“向下运行的自动扶梯”比喻为“滑溜溜的斜坡”，隐喻现代社会中人们面临的生存压力；母亲的工作节奏与生活状态被描述为“站在滑动的斜坡上”，需不断行动以维持基本生活，否则会被“向下运行的扶梯”带向困境 图/南方人物周刊记者 大食 如果只是默默干活、不主动邀功、不争取绩效 / 加薪；只懂自己一亩三分地的工作，不会做PPT或不擅长通过汇报演讲来包装成果；思想天马行空不好管，不擅长察言观色，抵触精细化管理和服从文化；容易自我内耗，骨子里不认同优绩主义秩序——而你正好又在一家典型的互…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简单两招，让我终于戒掉了手机 | 原文]]></title>
+        <id>https://t.me/wxbyg/7127</id>
+        <link href="https://t.me/wxbyg/7127"/>
+        <updated>2026-04-17T07:29:31.000Z</updated>
+        <summary type="html"><![CDATA[简单两招，让我终于戒掉了手机 | 原文
+Telegraph
+简单两招，让我终于戒掉了手机
+这是从一些专家和大牛播客那听来的，自己试了大半年很管用，分享给大家。 底层原理：现在很少人能真正抵抗住刷手机的诱惑。因为算法的威力太厉害了，基本是核弹级。 所以，核心应对路径简单粗暴：物理隔离。 操作起来也很简单， 首先，晚上睡觉前把手机放在卧室外，可以放在楼下、客厅、厨房等，任何位置都可以。这是保证睡眠最最重要的一点。 我现在是把它放在楼底间的小凳子上，这样万一有紧急电话也能听到。 白天工作学习时， 记住一个原则：永远不要把手机放在触手可得的范围内，越远越好。 目的就是增加获得短期刺激的成本。 其依据…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当500万个AI Agent涌入Telegram | 原文]]></title>
+        <id>https://t.me/wxbyg/7126</id>
+        <link href="https://t.me/wxbyg/7126"/>
+        <updated>2026-04-17T06:23:10.000Z</updated>
+        <summary type="html"><![CDATA[当500万个AI Agent涌入Telegram | 原文
+Telegraph
+当500万个AI Agent涌入Telegram
+文 | Sleepy.md、Kenny（TON Foundation） 刚刚过去的 2026 年头几个月，身处 AI 浪潮中的人们，目光几乎都被两条陡峭的曲线牵引着。 一条曲线关于开源的狂热。OpenClaw 在 GitHub 上以前所未有的速度揽下逾 35 万颗星，刷新了开源项目的增长纪录。「小龙虾」的破圈有目共睹。 另一条曲线则关乎商业的颠覆。Anthropic 靠着 Claude 在代码场景里展现出的强势，锋利地撕开了市场的口子。其年度经常性收入（ARR）一举冲破 300 亿美元大关，将昔日王者 OpenAI…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【莫错扔】莫错扔AdSense PIN？10秒填油管PIN | Don't Trash It! Verify AdSense PIN in 10 Seconds✨]]></title>
+        <id>https://www.youtube.com/shorts/rwkZxPJ9Whk</id>
+        <link href="https://www.youtube.com/shorts/rwkZxPJ9Whk"/>
+        <updated>2026-04-17T05:15:06.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>科技梦星云</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【免费VPN】新手16分钟纯净IP搞定免费AWS与Adkynet两VPN | Newbie to Ninja in 16 Mins: Free AWS & Adkynet VPN🚀]]></title>
+        <id>https://www.youtube.com/watch?v=4y5TYSxBntc</id>
+        <link href="https://www.youtube.com/watch?v=4y5TYSxBntc"/>
+        <updated>2026-04-17T04:45:00.000Z</updated>
+        <author>
+            <name>科技梦星云</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Midnight rendezvous]]></title>
         <id>1x-3547638</id>
@@ -297,6 +1090,31 @@
 伊朗国家通讯社伊通社（IRNA）在即时通讯Telegram发布消息说，伊朗外交部发言人巴盖伊对黎巴嫩停火的宣布表示欢迎，称这是此前伊朗与美国达成两周停火协议的一部分。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 393 期）：脑腐状态]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html"/>
+        <updated>2026-04-16T23:20:16.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+湖南益阳的和平签证主题博物馆，纪念二战时期何凤山博士救助犹太人。外立面的层层钢板象征签证文件，狭窄而棱角分明的入口给人一种压抑的感觉，进入后的空间逐渐走向释放和光明。（via）
+脑腐状态
+最近学到一个新词"脑腐"（brain rot）。
+
+它就是字面意思。有些人看上去是正常的，但是大脑已经变异了，有些部分腐烂了。
+根据介绍文章，"脑腐"的症状就是思考能力下降，难以长时间集中注意力，进行深入的推理和反思。
+一遇到比较难、需要反复思考的问题，你就会烦躁，不仅是心理烦躁，还会生理烦躁，全身不安，不愿意多想，就希望赶快了结。
+你有没有这个症状？如果有，就有"脑腐"的危险了。我感觉，我的大脑就有一点。遇到复杂的软件概念和算法，以前会仔细研究，直到搞懂为止，现在更可能看一眼就跳过去，不懂就不懂了，知道名字就可以了。
+"脑腐"的主要原因是，网络平台上面那些夸张的"标题党"文章和短视频。它们的目标是吸引流量，在最短时间内引发阅读者/观看者的兴趣，感到满足。当你长期观看这些内容以后，大脑就被密集刺激，思维兴奋状态的维持时间越来越短，丧失了长时间深入思考的能力。
+这就是为什么一个人看惯短视频以后，就离不开内容压缩了。一篇几千字的文章，他也会要求大模型生成总结；一部90分钟的电影，他也宁愿看几分钟的电影解说。
+一旦"脑腐"了，难以长时间集中注意力进行思考，也就难以学习和处理高难度问题了。现在看上去，没有好的解决办法，因为现代人的时间越来越琐碎，内容碎片化是大趋势。
+应对之策也许就是反过来，将学习和思考拆解成一系列短问题。比如，以后的学习不再是一厚本教材，而是几十个的系列短视频，每个用两三分钟解释一个知识点。只有这个时…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>
@@ -783,6 +1601,15 @@ Telegraph
 有竞争的思想，有底蕴的政治 文｜竞菲 Jingfei Li 2026年农历新年前夕，我坐在一间肯德基里。店长大声说话的声音吸引我转头去看，一位带着孩子的奶奶站在柜台前，表情有些畏缩。“如果你要买回去放到明天吃的话，我不能卖给你。”店长停顿了一下，“怎么可以给孩子吃隔夜的快餐呢？我们这里的食物过两个小时，就要倒掉的。”老人低下头不敢看店长，有些惭愧似地嗫嚅着，小姑娘则把脸转向一边，盯着薯条咽口水。 的确，吃隔夜薯条并不健康，店长很可能是对的。但在这里，事情的重点或许并不在于搞清楚“隔夜快餐是否有害健康”这…]]></summary>
         <author>
             <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【保姆級教學】複製AI智慧老人頻道，月轉1萬美金]]></title>
+        <id>https://www.youtube.com/watch?v=r1hgW9MqK3Y</id>
+        <link href="https://www.youtube.com/watch?v=r1hgW9MqK3Y"/>
+        <updated>2026-04-16T04:58:58.000Z</updated>
+        <author>
+            <name>七七行銷筆記</name>
         </author>
     </entry>
     <entry>
@@ -1786,6 +2613,16 @@ Telegraph
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【iphone技巧】莫求他法！iPhone技巧之文件管理，效率翻倍真香 | Stop Installing Apps! Pro iPhone Files Hacks✨]]></title>
+        <id>https://www.youtube.com/shorts/DozGE8aP0c8</id>
+        <link href="https://www.youtube.com/shorts/DozGE8aP0c8"/>
+        <updated>2026-04-15T05:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>科技梦星云</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[别人都在卷Harness， 而Google 的沉默振聋发聩 | 原文]]></title>
         <id>https://t.me/wxbyg/7103</id>
         <link href="https://t.me/wxbyg/7103"/>
@@ -1926,6 +2763,15 @@ Learn more about our flagship conference happening this April at attend.ted.com
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【修复-1】7分钟搞定,ECH速度-1问题,速设ProxyIP或区域 | Fix Cfnew ECH Speed -1 in 7 Mins — Proxy Ninja Mode On🚀]]></title>
+        <id>https://www.youtube.com/watch?v=b9NtqTEiAzI</id>
+        <link href="https://www.youtube.com/watch?v=b9NtqTEiAzI"/>
+        <updated>2026-04-14T05:00:28.000Z</updated>
+        <author>
+            <name>科技梦星云</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2026年4月推荐]]></title>
         <id>/archives/2026nian-4yue-tui-jian</id>
         <link href="https://haikuoshijie.cn/archives/2026nian-4yue-tui-jian"/>
@@ -1957,6 +2803,15 @@ Learn more about our flagship conference happening this April at attend.ted.com
         <updated>2026-04-13T12:55:26.000Z</updated>
         <author>
             <name>零度解说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【U叔鼻涕】守护钱包！3分钟搞定支付宝买U防冻卡，新手必看 | Safe Guide: Grab Digital Assets in Just 3 Mins with Alipay🚀]]></title>
+        <id>https://www.youtube.com/watch?v=JxcE54JEc2s</id>
+        <link href="https://www.youtube.com/watch?v=JxcE54JEc2s"/>
+        <updated>2026-04-13T05:00:28.000Z</updated>
+        <author>
+            <name>科技梦星云</name>
         </author>
     </entry>
     <entry>
@@ -2004,6 +2859,16 @@ Learn more about our flagship conference happening this April at attend.ted.com
         <summary type="html"><![CDATA[NMN 唯一的人體試驗：60 人、12 週、沒測壽命。Rapamycin 讓老鼠多活 38%，但花兩百萬美元做實驗的 Bryan Johnson 停藥了。三種抗老化分子的證據等級，跟廣告暗示的差了好幾個量級。三個互相看不順眼的專家，唯一共識是運動。]]></summary>
         <author>
             <name>讀角獸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【免费VPS】连签7天得小鸡,免费icmp9 vps,额外流量每日领 | 7‑Day Check‑In = Free icmp9 VPS + Daily Bonus Traffic✨]]></title>
+        <id>https://www.youtube.com/shorts/MxRMXySGRwA</id>
+        <link href="https://www.youtube.com/shorts/MxRMXySGRwA"/>
+        <updated>2026-04-10T22:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>科技梦星云</name>
         </author>
     </entry>
     <entry>
@@ -2163,6 +3028,25 @@ Learn more about our flagship conference happening this April at attend.ted.com
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【免费VPN】新手也能8分钟搞定 CFnew2.9 零成本免费 VPN | Zero‑Skill, Zero‑Cost: Nail CFnew2.9 Free VPN in 8 Minutes🚀]]></title>
+        <id>https://www.youtube.com/watch?v=EDcKssOLeCA</id>
+        <link href="https://www.youtube.com/watch?v=EDcKssOLeCA"/>
+        <updated>2026-04-10T04:45:04.000Z</updated>
+        <author>
+            <name>科技梦星云</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【自制插件】2分钟打造专属插件，新手亦可成器 | Create Custom Browser Plugin in 2 Mins✨]]></title>
+        <id>https://www.youtube.com/shorts/1fyNa7WPzCY</id>
+        <link href="https://www.youtube.com/shorts/1fyNa7WPzCY"/>
+        <updated>2026-04-10T04:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>科技梦星云</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html"/>
@@ -2264,6 +3148,15 @@ Yaxian，「科技早知道」主播
 太空中的硬件坏了无法维修，变成…]]></summary>
         <author>
             <name>What's Next｜科技早知道</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【免费VPN】告别花钱！10分钟丝滑搭建BPB面板实现免费VPN自由 | Stop Paying! Easily Deploy BPB Panel for Free VPN in 10 Mins😎⚡]]></title>
+        <id>https://www.youtube.com/watch?v=kT_16L6HLdM</id>
+        <link href="https://www.youtube.com/watch?v=kT_16L6HLdM"/>
+        <updated>2026-04-09T04:45:06.000Z</updated>
+        <author>
+            <name>科技梦星云</name>
         </author>
     </entry>
     <entry>
@@ -2409,6 +3302,15 @@ Claude 、Gemini 亦有帮助
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【AI Manus】丝滑拿捏Manus 8分钟解锁懂你的AI自动化助手 | Effortless Mastery: Unlock Your Manus AI Assistant in 8 Mins😎⚡]]></title>
+        <id>https://www.youtube.com/watch?v=yT7_RG1Y46w</id>
+        <link href="https://www.youtube.com/watch?v=yT7_RG1Y46w"/>
+        <updated>2026-04-08T04:45:08.000Z</updated>
+        <author>
+            <name>科技梦星云</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The art and science of wine tasting | Qian Janice Wang]]></title>
         <id>69d3cab907bc2cbfc7b2174e</id>
         <link href="http://go.ted.com/qianjanicewang"/>
@@ -2419,6 +3321,15 @@ Learn more about our flagship conference happening this April at attend.ted.com
  Hosted on Acast. See acast.com/privacy for more information.]]></summary>
         <author>
             <name>TED Talks Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AI资讯】4分钟搞定！跨区充值省大钱与白嫖LTX AI视频剪辑 | 4 Mins to Save Big on AI & Get a Free AI Video Editor LTX!😎⚡]]></title>
+        <id>https://www.youtube.com/watch?v=giW4Flej49k</id>
+        <link href="https://www.youtube.com/watch?v=giW4Flej49k"/>
+        <updated>2026-04-07T04:45:03.000Z</updated>
+        <author>
+            <name>科技梦星云</name>
         </author>
     </entry>
     <entry>
@@ -2526,6 +3437,16 @@ Learn more about our flagship conference happening this April at attend.ted.com
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【AI音乐】AIVA+Stable Audio 2分钟免费实现自主版权乐曲自由 | Cook Royalty‑Free Bangers in 2 Mins—AIVA+Stable Audio stl✨]]></title>
+        <id>https://www.youtube.com/shorts/f7NzWy30ZyY</id>
+        <link href="https://www.youtube.com/shorts/f7NzWy30ZyY"/>
+        <updated>2026-04-03T04:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>科技梦星云</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 391 期）：AI 的贫富分化]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html"/>
@@ -2595,6 +3516,15 @@ Learn more about our flagship conference happening this April at attend.ted.com
         <updated>2026-04-02T06:53:03.000Z</updated>
         <author>
             <name>七七行銷筆記</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【OpenClaw】10分钟搞定ClawX，龙虾丝滑连Glm5+GPT5.4 | 10Mins ClawX Speedrun: OpenClaw Sliding into GLM5&GPT5.4😎⚡]]></title>
+        <id>https://www.youtube.com/watch?v=WKtXzLZ3tN8</id>
+        <link href="https://www.youtube.com/watch?v=WKtXzLZ3tN8"/>
+        <updated>2026-04-02T04:00:34.000Z</updated>
+        <author>
+            <name>科技梦星云</name>
         </author>
     </entry>
     <entry>
@@ -2768,6 +3698,15 @@ George Zhang，OpenClaw Maintainer，Stealth Startup Cofounder，X 账号：x.co
 …]]></summary>
         <author>
             <name>What's Next｜科技早知道</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【免费VPN】三丰云+AdKyNet+Cloudflare 3免费VPN 9分钟搞定 | Free VPN Setup in 9 Minutes - Sanfengyun, AdKyNet&CF😎⚡]]></title>
+        <id>https://www.youtube.com/watch?v=07UHQ0a27OM</id>
+        <link href="https://www.youtube.com/watch?v=07UHQ0a27OM"/>
+        <updated>2026-04-01T04:00:01.000Z</updated>
+        <author>
+            <name>科技梦星云</name>
         </author>
     </entry>
     <entry>
@@ -3204,6 +4143,16 @@ Learn more about our flagship conference happening this April at attend.ted.com
         <summary type="html"><![CDATA[SpaceX 以 1.75 兆美元估值啟動史上最大 IPO，破例把 30% 配給散戶投資人。Starlink 用戶天花板是 3200 萬還是 12 億？散戶配額是讓你參與還是讓你接盤？xAI 合併是願景還是燒錢？三個判斷幫你決定要不要搶那 30%。]]></summary>
         <author>
             <name>讀角獸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AI音乐】妙哉！音痴2分钟aiva轻松音乐编辑 | Zero Music Theory? Edit Hits Instantly with AIVA in 2Mins✨]]></title>
+        <id>https://www.youtube.com/shorts/ev_Jx8Q65_k</id>
+        <link href="https://www.youtube.com/shorts/ev_Jx8Q65_k"/>
+        <updated>2026-03-30T06:04:44.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>科技梦星云</name>
         </author>
     </entry>
     <entry>
@@ -3701,28 +4650,6 @@ Learn more about our flagship conference happening this April at attend.ted.com
  Hosted on Acast. See acast.com/privacy for more information.]]></summary>
         <author>
             <name>TED Talks Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I taught rats to drive. They taught me to enjoy the ride | Kelly Lambert]]></title>
-        <id>69b9713005ad897c0298f874</id>
-        <link href="http://go.ted.com/kellylambert"/>
-        <updated>2026-03-18T15:08:39.000Z</updated>
-        <summary type="html"><![CDATA[What can happy rats teach us about human joy? Behavioral neuroscientist Kelly Lambert describes how her team trained rats to drive tiny cars to earn treats — and noticed something surprising about how effort and anticipation affect the brain. The experiment opens new questions about how reward, agency and "behaviorceuticals" might help build resilience and support mental health.
-Learn more about our flagship conference happening this April at attend.ted.com/podcast
-
- Hosted on Acast. See acast.com/privacy for more information.]]></summary>
-        <author>
-            <name>TED Talks Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從零開始月賺2萬美金，23歲Connor用AI打破編程神話]]></title>
-        <id>https://www.youtube.com/watch?v=ZFmGyBa2yq4</id>
-        <link href="https://www.youtube.com/watch?v=ZFmGyBa2yq4"/>
-        <updated>2026-03-18T08:44:35.000Z</updated>
-        <author>
-            <name>七七行銷筆記</name>
         </author>
     </entry>
 </feed>
