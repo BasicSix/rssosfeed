@@ -442,16 +442,6 @@
           "wordCount": null,
           "title": "套壳中国大模型撑起500亿美元估值？扒一扒 Cursor 的\"套壳\"疑云",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n唐山河头老街景区的轨道车\"大唐云车\"。（via）\n未来如何招聘程序员\n前些天，讨论区有一个帖子，提出一个问题。\n如果未来的代码都是 AI 写的，那么我们怎么招聘程序员呢？\n\n程序员负责代码，但代码是 AI 写的，不是程序员写的，那么应该怎么面试他呢？\n你仔细想想，这个问题比预想的难多了。\n首先，考察他的代码能力不重要（代码不是他写的），更重要的是考察他会不会 AI。只要善于使用 AI，能够产出合格的代码，对公司来说就是合格的人选。\n但是，什么样的面试问题，能够考察出一个人是否掌握 AI？下面是我想出的一些问题：\n请将一个复杂的项目需求，转化成提示词，要求是清晰、逻辑性强、切中要害。\n描述一个你认为需要使用 Skill 和 MCP 的场景，并阐述它们的工作原理和构建方法。\n如何将一个大项目分解，设计出一个多 Agent 协同工作的机制。\n......\n这些问题能识别出 AI 编程高手吗？我完全没有把握。\n其次，除了 AI，还要考察什么呢？ 这也很不好想。\n我应该还会问一些架构问题，你可以不写代码，但要懂怎么组织代码，架构出一个系统。但我也不确定这是必需的，因为 AI 生成的大型系统迟早变成一个黑箱，可能对于架构知识的要求也不是很高。\n另外，我还要看看他以前的项目，如果以前他用 AI 做过类似的东西，那么应该问题不大。但这也不可靠，且不说完全类似的项目非常少，就看 AI 进化速度这么快，两年前的经验早不适用了吧。\n总之我发现，很难确定什么面试问题是一定有效的，能够可信地筛选出合格的应聘者。AI 颠覆了软件开发，也连带颠覆了程序员面试。大家有好的面试问题吗？\n有一点是确定的，面试各种编程细节意义不大了…",
-          "link": "http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html",
-          "publishedOn": "2026-03-19T23:59:16.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 389 期）：未来如何招聘程序员",
-          "imageUrl": null
         }
       ]
     },
@@ -460,6 +450,246 @@
       "feedUrl": "https://basicsix-my-rsshub-hq.hf.space/zaobao/realtime/world",
       "siteUrl": "https://www.zaobao.com/realtime/world",
       "articles": [
+        {
+          "id": "https://www.zaobao.com/news/world/story20260419-8917224",
+          "author": null,
+          "description": "伊朗外交部发言人巴加埃说，在美国和以色列的侵略将美国军事力量带入海峡周边的那一刻起，霍尔木兹海峡的无条件过境通行“便已成为历史”。\n新华社报道，针对欧盟官员呼吁伊朗遵守国际法并无条件开放霍尔木兹海峡的言论，巴加埃星期天（4月19日）凌晨在社媒发文说，欧盟在对他国进行“国际法说教”的同时，却对美国与以色列发动侵略采取纵容态度，对伊朗人民所遭受的暴行熟视无睹。\n他说，欧洲的所谓遵守“国际法”言论已彻底沦为言行不一的虚伪表演，欧洲长期奉行双重标准的积弊由此可见一斑。\n巴加埃指出，现行国际法中并无任何条款禁止伊朗作为霍尔木兹海峡沿岸国采取必要措施，阻止海峡被用于对伊朗发动军事侵略。\n一名伊朗高级官员星期六（18日）告诉美国有线电视新闻网（CNN），伊朗将优先允许付费船只通过霍尔木兹海峡。\n这名官员说：“鉴于获准通行的船只数量有限，伊朗决定优先考虑那些能够更快响应霍尔木兹海峡新规，并支付安保服务费用的船只。”\n官员也称，未支付费用的船只将被“推迟”通行。\n伊朗星期六重新对通过霍尔木兹海峡的船只实施限制，理由是美国“屡次违反”双方停火协议中的信任条款。",
+          "link": "https://www.zaobao.com/news/world/story20260419-8917224",
+          "publishedOn": "2026-04-19T02:32:39.000Z",
+          "wordCount": 630,
+          "title": "伊朗外交部：霍尔木兹海峡无条件过境通行“已成历史”",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/a17b44a0428b4d5e81cb904b0e3506b90b223972a692137f6631de6675a7e594"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260419-8917142",
+          "author": null,
+          "description": "西班牙、巴西和墨西哥三国政府发表联合声明，对古巴人民正在经历的苦难表示高度关切，并呼吁采取必要措施缓解当前局势。\n新华社报道，西巴墨三国星期六（4月18日）呼吁，避免采取任何使民众生活条件进一步恶化或违反国际法的行动，并承诺以协调一致的方式加大人道主义援助力度，以减轻古巴人民的苦难。\n声明强调，必须始终尊重国际法以及《联合国宪章》所确立的领土完整、主权平等和以和平方式解决争端等原则。\n三国也呼吁根据国际法和《联合国宪章》原则开展对话，对话应着眼于为当前局势找到持久解决方案。\n这三个左翼国家在声明中虽未明确提及美国，但美国总统特朗普推翻委内瑞拉领导人马杜罗并对伊朗发动战争后，他多次警告古巴将是“下一个目标”，并对古巴实施石油封锁，加剧古巴数十年来最严重的经济和能源危机。\n此次呼吁正值西班牙首相桑切斯在巴塞罗那主持召开左翼领导人峰会之际。桑切斯是美国和以色列在中东地区轰炸行动的最严厉批评者之一。",
+          "link": "https://www.zaobao.com/news/world/story20260419-8917142",
+          "publishedOn": "2026-04-19T01:58:32.000Z",
+          "wordCount": 625,
+          "title": "西班牙巴西墨西哥 呼吁就缓解古巴局势采取行动",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/5aeaf1971bc006243a2bf5b4acc3de400843d5c0780c37d6324057f951704c38"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260419-8916984",
+          "author": null,
+          "description": "据网络监测机构NetBlocks称，伊朗当局在中东战争初期实施的网络封锁已进入“史无前例”的第50天。 \n法新社报道，NetBlocks在社媒X上说：“伊朗与全球互联网隔绝已达七周，网络封锁持续了1176小时，进入第50天。\n“各项指标显示，这一措施对于一个互联社会而言前所未有，并且持续损害着大多数伊朗人的生计和人权。”\nNetBlocks指出，伊朗在2月28日美国和以色列发动袭击后不久便实施网络封锁，截至4月5日已成为有记录以来持续时间最长的全国网络中断。\n伊朗极其受限的国内内网在整个战争期间一直保持运行，使人们只能够访问国内网站。\n为了连接全球网络获取新闻或访问被禁的社交媒体平台，一些人会在网络带宽有限的特殊时刻使用虚拟专用网络（VPN）来隐藏自己的IP地址。\n自战争爆发以来，伊朗境内所有被怀疑使用VPN的人都收到短信警告，称他们可能面临逮捕或监禁。\n能够使用星链（Starlink）或其他卫星互联网服务的人则少之又少，这些服务同样被禁止。\n今年1月，在伊朗爆发反政府抗议活动期间，伊朗曾实施为期18天的互联网封锁。",
+          "link": "https://www.zaobao.com/news/world/story20260419-8916984",
+          "publishedOn": "2026-04-19T01:11:15.000Z",
+          "wordCount": 643,
+          "title": "伊朗网络封锁持续50天 创前所未有纪录",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/9342f1583dbdd9076fb67a03799ef2c8eb6dd27619eaef9ee3b39e3ce438ea9e"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260419-8916931",
+          "author": null,
+          "description": "一名枪手在乌克兰首都基辅街头开枪，并进入超市劫持人质，造成六人死亡和14人受伤，枪手最后被警方击毙，当局将事件列为恐怖袭击。\n新华社报道，乌克兰国家安全局星期六（4月18日）在社交媒体布声明说，已根据乌克兰刑法相关条款对这起“枪击平民和劫持人质”事件立案。\n乌克兰总检察长办公室称，袭击者是一名58岁的出生于莫斯科的男子，他所持枪支是已注册的。不过，当局目前无法确认他是否拥有俄罗斯国籍。\n另据法新社报道，乌克兰总统泽连斯基说，枪击和劫持人质事件发生在基辅南部的一个居民区，至少有14人因伤势严重送往医院。\n他在社交媒体发文说：“枪手劫持了人质，不幸的是他杀害一名人质，并在街头杀死四人。另一名女子因伤势过重在医院去世。”\n泽连斯基说，超市里的四名人质“已被解救”。\n当局说，袭击者与警方谈判人员在超市的对峙持续约40分钟。枪手也涉嫌纵火焚烧超市附近的公寓。",
+          "link": "https://www.zaobao.com/news/world/story20260419-8916931",
+          "publishedOn": "2026-04-19T00:45:29.000Z",
+          "wordCount": 637,
+          "title": "基辅枪击劫持事件酿六死七伤 枪手被击毙当局列为恐袭",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/c5c95a34b55818326b792bb505d87a4b36ffb550c08eb27008ce5b8376981736"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260419-8916903",
+          "author": null,
+          "description": "黎巴嫩真主党领导人卡西姆发声明称，真主党将对任何违反黎巴嫩与以色列停火协议的行为作出回应，并强调停火须由双方遵守。 \n新华社报道，卡西姆星期六（4月18日）说，不信任以色列的停火承诺，真主党武装人员将继续留在战场，并视情况对“侵略行为”作出回应。\n卡西姆也提出五点主张：以色列在陆、海、空对黎巴嫩实现永久停火；以方全面撤出在黎所占领地区并退回国际公认边界；释放黎方被扣押人员；保障流离失所者返回家园；以及在阿拉伯国家和国际社会支持下启动重建。\n他说，黎巴嫩真主党愿与黎政府开启“新一页”合作，同国家机构一起，加强国家团结，维护主权，并在内部协调一致的框架下推进国家安全战略。\n以色列和黎巴嫩为期10天的停火于新加坡时间星期五（4月17日）凌晨5时生效，但黎巴嫩军方指控以方违反停火规定，停火生效后仍爆发多起以军袭击事件，黎巴嫩部分村庄遭遇间歇性炮击。",
+          "link": "https://www.zaobao.com/news/world/story20260419-8916903",
+          "publishedOn": "2026-04-19T00:32:38.000Z",
+          "wordCount": 625,
+          "title": "真主党领导人：将对违反黎以停火协议行为作出回应",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/8d7b21f4d23dae1231a84f358e6ebe0bc25d6f73b04c54037f2bdccf101e5bc8"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260419-8916861",
+          "author": null,
+          "description": "韩国军方称，朝鲜向东海发射多枚弹道导弹。\n韩联社报道，韩国联合参谋本部说，当局于星期天（4月19日）早上6时10分左右（新加坡时间凌晨5时），探测到朝鲜新浦地区发射的导弹。\n联合参谋本部说：“在加强监视以防朝鲜再次发射导弹的同时，我军保持高度戒备状态，并与美日双方密切共享朝鲜弹道导弹信息。”\n朝鲜上一次发射多枚短程弹道导弹是在4月8日，这是朝鲜罕见的单日两次发射。朝鲜在前一天（7日）还发射了一枚不明飞行物，但飞行物发射后不久便消失，显然是发射失败。 \n在连续两天的发射之后，朝鲜官方媒体报道称，朝鲜试射一枚装有集束炸弹弹头的战术弹道导弹，并声称导弹拥有极高的威力密度，能够在射程内“将任何目标夷为平地”。\n官方媒体也报道称，平壤方面进行电磁武器系统和碳纤维模拟炸弹的散布试验，同时验证一款移动式短程防空导弹系统的作战可靠性。\n朝鲜今年1月4日和27日、3月14日也分别发射弹道导弹，此次是朝鲜今年来第七次发射弹道导弹。",
+          "link": "https://www.zaobao.com/news/world/story20260419-8916861",
+          "publishedOn": "2026-04-18T23:34:44.000Z",
+          "wordCount": 635,
+          "title": "韩国军方称 朝鲜向东海发射多枚弹道导弹",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/96e4387f801782da6e65c0f90b49b5cb913feb9d44f8a4ee92674c1c143f2ba0"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260419-8916849",
+          "author": null,
+          "description": "以色列媒体称，以军在黎巴嫩南部设立新“黄线”，这是以色列国防军首次在涉及黎巴嫩南部军事行动的声明中使用了“黄线”一词，旨在当地实行“加沙模式”。\n据以色列第12频道电视台报道，新“黄线”指沿以黎临时边界向黎巴嫩一侧延伸约10公里、由以军控制的“防御区域”。即使在停火期间，以军仍在新“黄线”靠近以方一侧开展行动。\n此前，以军仅用“黄线”代指加沙地带的停火线。根据加沙停火第一阶段协议，“黄线”以外为以军控制区，以军曾多次射杀越过“黄线”的巴勒斯坦人。\n据以色列《新消息报》网站报道，以军正在黎南部实行“加沙模式”，在新划定的“黄线缓冲区”内设置障碍，阻止居民返回家园，并清除那里的黎真主党基础设施，同时加强延伸至黎南部利塔尼河沿岸的“多层防线”。\n以军当天在另一份声明中说，以军过去一天在黎南部多个地区对武装人员实施打击。\n黎巴嫩和以色列达成的10天停火协议，于新加坡时间星期五（4月17日）凌晨5时生效。不过，黎巴嫩军方指控以方违反停火规定，停火生效后仍爆发多起以军袭击事件，黎巴嫩部分村庄遭遇间歇性炮击。",
+          "link": "https://www.zaobao.com/news/world/story20260419-8916849",
+          "publishedOn": "2026-04-18T23:27:36.000Z",
+          "wordCount": 644,
+          "title": "以媒：以军在黎巴嫩南部设立新“黄线” 实行“加沙模式”",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/67298ea8f6fc5c7d3c04c2b6c3deb54be92c3efdfa194398e1fd6e3af331701b"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260419-8916839",
+          "author": null,
+          "description": "伊朗外交部副部长哈提卜扎德说，伊朗不会向美国输送任何浓缩铀，这个问题“不容讨论”。\n根据伊朗伊斯兰共和国通讯社（IRNA）报道，哈提卜扎德星期六（4月18日）在土耳其举行的一次外交会议期间发表上述讲话。\n哈提卜扎德说：“伊朗和美国之间已经交换了多条信息，但（美国）坚持提出德黑兰认为过分的要求。”\n伊朗外交部发言人也在国营电视台上强调：“浓缩铀跟伊朗领土一样神圣，在任何情况下都不会转移到任何地方。”\n美国总统特朗普早前告诉法新社说，美伊谈判“没有胶着点”，德黑兰已同意交出浓缩铀。\n他对路透社说，会将伊朗的浓缩铀带回美国，但不会太快行动。在接受彭博社访问时，他说，伊朗同意永久停止核计划，双方还可能在本周末再举行会谈。",
+          "link": "https://www.zaobao.com/news/world/story20260419-8916839",
+          "publishedOn": "2026-04-18T23:20:32.000Z",
+          "wordCount": 639,
+          "title": "伊朗：不会向美国输送浓缩铀 这个问题“不容讨论”",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/aa9da72770365c6c42769f36ce88666c2af2b189305f1523d51862c2d6822b3c"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260419-8916831",
+          "author": null,
+          "description": "两艘悬挂印度国旗的船只在霍尔木兹海峡遭到袭击，印度外交部召见伊朗大使提出抗议。\n法新社报道，印度外交部星期六（4月18日）发声明说，外交部秘书米斯里（Vikram Misri）当天召见伊朗大使，并“就星期六早些时候两艘悬挂印度国旗的船只在霍尔木兹海峡发生的枪击事件，向对方表达印度的深切关切”。\n声明也说，新德里敦促伊朗“尽快恢复为驶往印度的船只提供通行便利”，而伊朗大使“承诺将这些意见转达给伊朗当局”。\n监测网站TankerTrackers.com在社媒X发文称，“两艘印度船只被伊朗伊斯兰革命卫队海军驱逐出霍尔木兹海峡”，其中一艘是“悬挂印度国旗的超大型油轮，载有200万桶伊拉克原油”。\n英国海事安全企业先锋技术公司同日发布报告说，三艘船只在霍尔木兹海峡附近水域遇袭，涉及一艘油轮、一艘游轮和一艘集装箱船。其中两艘船明确遭到伊朗伊斯兰革命卫队警告并开火，另一艘集装箱船在阿曼东北方向25海里处遭不明抛射物击中，部分集装箱受损。\n据英国航运媒体《劳埃德船舶日报》报道，霍尔木兹海峡航运18日傍晚再次陷入停滞。此前，无线电通信警告称，伊朗武装部队已恢复对海峡的“严格管理和控制”。相关海域内多艘船只听到警告，并已得到证实。\n霍尔木兹海峡复航维持不到一天。在以色列与黎巴嫩星期四（16日）同意停火10天后，伊朗外长阿拉格齐星期五宣布，在以黎停火期间，伊朗将开放霍尔木兹海峡，让所有商船通行。 \n然而第二天，伊朗军方发言人称，由于美国“屡次违背承诺”，霍尔木兹海峡已恢复到之前的状态，由伊朗武装部队严格管理和控制。革命卫队说，如果美国不确保往返伊朗的船只享有完全的航行自由，这个海峡将继续受伊朗严格控制。 \n印度是全球第二大液化石油气买家，近几周来已成功为多艘悬挂印度国旗的船只争取到通行权。",
+          "link": "https://www.zaobao.com/news/world/story20260419-8916831",
+          "publishedOn": "2026-04-18T23:16:05.000Z",
+          "wordCount": 651,
+          "title": "两艘船在霍尔木兹海峡遇袭 印度召伊朗大使提抗议",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/4a9ddf64398cb0ec35da1f5e76aa941c940322a73f1a9cc229496a09932792eb"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260419-8916818",
+          "author": null,
+          "description": "伊朗首席谈判代表兼议会议长卡利巴夫说，尽管伊朗与美国的谈判取得了进展，但距离达成协议仍遥远。\n半岛电视台报道，卡利巴夫星期六（4月18日）接受国家电视台采访时说：“我们在战场上取得了胜利……敌人通过发出警告和设定最后期限未能达到目的，因此开始通过中间人传递信息。”\n他指出，美国总统特朗普接受停火是因为“我们（伊朗）在战场上取得了胜利”，并称伊朗接受停火是因为美国接受了伊朗的要求。\n卡利巴夫强调：“特朗普未能实现改变伊朗政权和摧毁伊朗进攻和导弹能力的目标，而且伊朗不是委内瑞拉。”",
+          "link": "https://www.zaobao.com/news/world/story20260419-8916818",
+          "publishedOn": "2026-04-18T23:02:17.000Z",
+          "wordCount": 621,
+          "title": "伊朗谈判代表：与美谈判取得进展 距离达成协议仍遥远",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/a262d1df7bf01a4e21168788dac97ffec88f769ac4de05128f1950c3e279496b"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260419-8916537",
+          "author": null,
+          "description": "国际海事组织秘书长多明格斯说，目前约有2万名海员和近2000艘船舶受困在波斯湾。他呼吁各国加大外交努力，支持国际海事组织推动波斯湾地区受困海员疏散计划。\n多明格斯在星期五（4月17日）远程参加法国与英国联合主持的霍尔木兹海峡通航相关会议时作出上述表述的。他说，霍尔木兹海峡周边冲突正对海员、航运以及全球经济造成严重负面影响。任何航运中断都将直接影响全球能源和粮食安全。 \n新华社引述多明格斯说，根据国际海事组织理事会的决定，组织已着手制定一套疏散框架，利用现有分道通航机制，在条件安全的情况下将船舶和海员疏散出冲突区域。这个框架的技术与操作方案正在制定中，包括伊朗在内的地区国家参与其中。\n多明格斯呼吁各国，在适当时机协助清除霍尔木兹海峡内威胁商船航行的水雷等各类危险物，向航运业提供切实保障，包括以合理成本获取保险，以便尽快恢复正常运营。",
+          "link": "https://www.zaobao.com/news/world/story20260419-8916537",
+          "publishedOn": "2026-04-18T16:03:00.000Z",
+          "wordCount": 622,
+          "title": "国际海事组织：约有2万海员受困波斯湾",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/0cddc27860d819faef80a7573ec78564966beed537ac52f5107b96365ef0dcd1"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260418-8916523",
+          "author": null,
+          "description": "《华尔街日报》引述美国官员说，美军计划在未来几天内登船，检查并扣押在国际水域航行的与伊朗有关联的油轮及商船，将其海军打击行动范围扩展至中东以外地区。\n路透社引述报道时说，目前无法立即核实该消息。\n\n伊朗第一副总统：伊朗有霍尔木兹海峡管理权\n\n另据伊朗伊斯兰共和国通讯社等媒体报道，伊朗第一副总统阿雷夫星期六（4月18日）强调，伊朗拥有管理霍尔木兹海峡的权利。\n新华社引述阿雷夫说：“霍尔木兹海峡的管理权属于伊朗。要么他们在谈判桌上承认我们的权利，要么我们上战场实地争取。”\n阿雷夫在视察港口、航运组织和铁路公司时作出上述表态。他还说，“特朗普的言论建立在空谈、谎言和幻想之上，无需回应”。",
+          "link": "https://www.zaobao.com/news/world/story20260418-8916523",
+          "publishedOn": "2026-04-18T15:53:25.000Z",
+          "wordCount": 486,
+          "title": "美媒：美军准备数日内登船 检查并扣押与伊朗相关船只",
+          "imageUrl": "https://www.zaobao.com.sg/_web2/assets/social-share.png"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260418-8916290",
+          "author": null,
+          "description": "（华盛顿综合电）霍尔木兹海峡复航不到一天形势又反转，美国与伊朗的外交博弈随之进入白热化。美国总统特朗普频称双方“即将达成协议”，但德黑兰放话驳斥，表明不会屈从于美方对谈判提出的不合理要求。 \n伊朗政府星期六（4月18日）表明，它并未同意与美国举行新一轮谈判，并已通过居中斡旋的巴基斯坦向美方转达这个立场。伊朗声称，除非美国停止提出过分的要求，否则它不会浪费时间在旷日持久又毫无意义的谈判。\n伊朗外交部副部长哈提卜扎德同日到土耳其出席外交论坛，受访时则嘲讽特朗普“推文多、废话多，且立场混淆又自相矛盾”。\n伊朗最高领袖穆杰塔巴更在通讯应用Telegram发文扬言，伊朗海军已做好准备，要让敌人“尝尝新的惨败滋味”。\n伊朗武装部队中央总部发言人同时宣布，由于美国“屡次违背承诺”，伊朗已恢复对霍尔木兹海峡的严格管理和控制。 \n伊朗刚在星期五（17日）宣布开放海峡让商船通行，不到24小时就变卦。特朗普星期六在白宫活动上警告德黑兰，勿以此要挟华盛顿。特朗普说：“我们正在跟他们对话，他们又想封锁海峡，多年来一直这样，但他们无法要挟我们。” \n他也称，与伊朗的对话最迟在星期六会有一些消息，但他强调：“我们会采取强硬立场。”\n伊朗国营电视台引述最高国家安全委员会报道称，经过巴基斯坦这几天的斡旋调解后，美方对谈判提出了新建议，伊朗正在审议，尚未作出回应。\n\n特朗普多次释放“谈判将成”信号\n\n伊朗一宣布重开霍尔木兹海峡后，特朗普马上接受多家媒体的电话采访。他告诉法新社，美伊谈判“没有胶着点”，德黑兰已同意交出浓缩铀；他对路透社说，会将伊朗的浓缩铀带回美国，但不会太快行动。 \n在接受彭博社访问时，他说，伊朗同意永久停止核计划，双方还可能在本周末再举行会谈。\n伊朗外交部发言人随即在国营电视台上驳斥道：“浓缩铀跟伊朗领土一样神圣，在任何情况下都不会转移到任何地方。”\n周五晚间，特朗普搭乘空军一号从亚利桑那州回返华盛顿时又告诉随行记者，他刚收到一些“不错的好消息”，美伊会在周末持续谈判，“预期进展良好”。\n不过他也说，如果美伊未能在下星期三（22日）停火期限之前达成协议，他可能不会延长停火，而是恢复轰炸伊朗。 \n德黑兰马上回击。伊朗第一副总统阿雷夫说：“除非美国在谈判桌上尊重我们的权利，不然我们就在战场上见。”　　\n\n盟友质疑特朗普大胆放话能否逼伊朗就范\n\n《华尔街日报》分析指出，特朗普在美伊战事期间，已好几次宣称与伊朗接近达成协议、战争即将结束，但德黑兰过后都摆出强硬姿态。美国官员称，特朗普高调放话其实是谈判策略之一，目的是推促谈判加速进行，并向伊朗施压，迫使它接受谈判条件，最终达成协议。 \n只不过，这个惯用手法是否真能让伊朗屈服受到盟友和官员质疑。特朗普星期五接连发文宣称霍尔木兹海峡僵局已突破后，法国总统马克龙和英国首相斯塔默仅平淡回应称，须谨慎看待事态发展，确保双方达成的方案“可行且持久”。",
+          "link": "https://www.zaobao.com/news/world/story20260418-8916290",
+          "publishedOn": "2026-04-18T15:42:30.000Z",
+          "wordCount": 659,
+          "title": "特朗普称美伊即将达成协议 伊朗否认斥“废话多”",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/d050d6939bfbed691aee00e68f89151f1c0d576f74276cfa5c5d546b5da9f794"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260418-8916503",
+          "author": null,
+          "description": "乌克兰首都基辅发生枪击案，一名枪手在基辅市区开枪，造成数人死亡，目前警方正在一家超市内追捕枪手。\n基辅市长维塔利·克利奇科星期六（4月18日）说：“我们正在开展特别行动，抓捕这名开枪男子，他目前藏身于一家超市内。据初步报告，超市内也传出枪声。”\n法新社引述他说，乌克兰警方报告的这起枪击事件“造成多人受伤和死亡”。",
+          "link": "https://www.zaobao.com/news/world/story20260418-8916503",
+          "publishedOn": "2026-04-18T15:34:43.000Z",
+          "wordCount": 588,
+          "title": "基辅发生枪击案 数人死亡",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/28bbce11f57f25b178da38ca6da75c7cfe567549d00d801c778aff8b8e1879b4"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260418-8916302",
+          "author": null,
+          "description": "（德黑兰／奥斯陆／安塔利亚／伦敦／雅典综合电）霍尔木兹海峡乱局难止。伊朗军方在政府宣布开放海峡不到24小时后重新收紧管控，多艘尝试通过海峡的油轮遭伊朗伊斯兰革命卫队炮艇开火逼退。 \n英国海上贸易行动办公室星期六（4月18日）证实，一艘油轮的船长通报，油轮航至阿曼东北岸外37公里处时，革命卫队的两艘炮艇趋近，并在未发出无线电警告的情况下向油轮开火，油轮和船员安然无恙。当局正在调查此事。\n\n至少两艘商船尝试穿越海峡时遭炮弹击中\n\n三名海事安全和航运界人士则向路透社透露，当天至少两艘商船在尝试穿越霍尔木兹海峡时遭炮弹击中。\n航运数据显示，星期六约有10艘船尝试进入海峡，但大多数在行至伊朗拉拉克岛（Larak Island）附近水域即被迫折返。海事情报公司“油轮追踪者”说，当中包括至少一艘悬挂印度国旗的超大型油轮。 \n两名船主说，伊朗已通过广播通知海峡内的船只，这条航运要道再度禁止通行。\n根据船舶追踪数据，霍尔木兹海峡在星期五（17日）短暂重开期间，10多艘油轮通过了海峡。这些船多数是非西方的老旧油轮，包括四艘遭国际制裁的船舶。\n霍尔木兹海峡复航维持不到一天。在以色列与黎巴嫩星期四（16日）同意停火10天后，伊朗外长阿拉格齐星期五宣布，在以黎停火期间，伊朗将开放霍尔木兹海峡，让所有商船通行。\n然而第二天，伊朗军方发言人称，由于美国“屡次违背承诺”，霍尔木兹海峡已恢复到之前的状态，由伊朗武装部队严格管理和控制。革命卫队说，如果美国不确保往返伊朗的船只享有完全的航行自由，这个海峡将继续受伊朗严格控制。 \n同日，美军中央司令部在社交媒体发文说，自美军对进出伊朗港口及沿海地区的船只实施海上封锁以来，已有23艘船按美军指示折返伊朗。\n截至星期四，波斯湾有700多艘船等待通行，近半是油气运输船。\n霍尔木兹海峡承载全球约五分之一的石油与液化天然气运输。美伊战争爆发后，这条海运要道形同封锁，油气供应严重受干扰以致短缺，全球能源价格飙涨。海峡形势动荡混乱，市场高度关注油气运输何时有望恢复。\n船舶追踪数据显示，星期六有五艘运载卡塔尔液化天然气的运输船朝霍尔木兹海峡的方向航行。自美国和以色列2月底对伊朗开战以来，未有任何装载液化天然气的船只驶出波斯湾。\n市场分析公司Kpler经理佩奇说，这五艘运输船有两艘的目的地是巴基斯坦，另两艘估计要开往印度，最后一艘目的地不明。\n卡塔尔是全球第二大液化天然气出口国，主要销往亚洲。伊朗将战火延烧到周边国家，卡塔尔也被袭击，导致它17%的液化天然气设施受损，预计修复工程将使卡塔尔三到五年内，每年蒙受约200亿美元（约254亿新元）的收入损失。",
+          "link": "https://www.zaobao.com/news/world/story20260418-8916302",
+          "publishedOn": "2026-04-18T14:54:57.000Z",
+          "wordCount": 655,
+          "title": "重开不到24小时 伊朗再锁霍尔木兹海峡并向商船开火",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/723cea0608f974dc72788fc2285b11a45cfdf0d3b762c8a587913fdb27c8bc1f"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260418-8916369",
+          "author": null,
+          "description": "美国总统特朗普警告伊朗，不要利用在霍尔木兹海峡问题上的反复无常来“要挟”华盛顿。此前，德黑兰再次宣布封闭这条战略水道。 \n特朗普星期六（4月18日）在白宫的一次活动上说：“我们正在与他们对话。他们想再次封闭海峡——你知道，就像他们多年来一直做的那样——但他们无法要挟我们。”\n\n伊朗：谈判代表不会妥协\n\n与此同时，伊朗最高国家安全委员会说，伊朗正在审查美国提出的“新提议”，同时警告，其谈判代表不会与华盛顿做出任何妥协。\n法新社引述委员会星期六的声明说：“近日，在巴基斯坦军队司令作为谈判中间人和调解人访问德黑兰后，美方提出了新的提议，伊朗伊斯兰共和国目前正在审查这些提议，尚未作出回应。”\n声明还说，伊朗谈判代表团“不会做出任何妥协、退让或宽容，并将竭尽全力捍卫伊朗人民的利益”。",
+          "link": "https://www.zaobao.com/news/world/story20260418-8916369",
+          "publishedOn": "2026-04-18T14:35:45.000Z",
+          "wordCount": 619,
+          "title": "特朗普：伊朗不能以霍尔木兹海峡“要挟”美国",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/ac58ecb2ff7273eb6a24cdd07b6f7af3e197f6f390a192eff694e95acab5edb0"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260418-8916347",
+          "author": null,
+          "description": "伊朗媒体报道，伊朗最高国家安全委员会秘书处发表声明说，伊朗决心控制霍尔木兹海峡的通行，直至战争彻底结束、地区实现持久和平。\n据称由伊朗最高领袖穆杰塔巴星期六（4月18日）发表的声明警告，德黑兰海军已做好准备击败美国军队。\n法新社引述穆杰塔巴在社交媒体Telegram发布的声明说，伊朗“勇敢的海军已做好准备，让敌人尝到再次失败的苦果”。\n穆杰塔巴自战争爆发前就未曾公开露面。新华社引述穆杰塔巴在伊朗伊斯兰共和国军队日之际发表的书面声明说，伊朗海军已整装待发，随时准备给敌人“新的惨败”。\n穆杰塔巴在声明中向伊朗的士兵及其亲属，以及伊朗人民致以节日祝贺。他说，伊朗军队英勇捍卫了伊朗的领土和旗帜，在民众支持下与其他武装部队并肩作战、密切协同，向美国和以色列发起猛烈打击，“向全世界暴露了他们的软弱和无耻”。\n穆杰塔巴向阵亡军人致哀。他表示，伊朗必须加倍努力，提升军队各项能力，将出台必要措施来实现这一目标。\n与此同时，美国总统特朗普称，美国正在与伊朗对话，“他们又想封锁海峡，但伊朗无法要挟我们。今天结束前会有消息”。",
+          "link": "https://www.zaobao.com/news/world/story20260418-8916347",
+          "publishedOn": "2026-04-18T14:24:06.000Z",
+          "wordCount": 637,
+          "title": "伊朗将控制海峡至战争结束 特朗普称一天内会有消息",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/37412ed3ffdb8e0f5a4efbf83ee5d629aceca1a472188e085a2bdfc28a8eaec6"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260418-8916260",
+          "author": null,
+          "description": "一名法国士兵在黎巴嫩南部一起针对联合国驻黎巴嫩临时部队（联黎部队）的袭击中身亡。黎巴嫩总统奥恩誓言将追究袭击者的责任。\n此次袭击造成一人死亡，三人受伤。法新社引述黎巴嫩总统府星期六（4月18日）的声明称，奥恩已致电法国总统马克龙，谴责此次事件，同时誓言贝鲁特“将毫不犹豫地追究肇事者的责任，并将他们绳之以法”。\n马克龙在社交媒体上发文说，这四名士兵隶属于法国一支空降工兵团，受伤的三人已撤离。新华社引述马克龙称，有线索显示，黎真主党应对此次袭击负责。法国要求黎巴嫩政府立即逮捕袭击者。\n\n联合国：袭击者为“非国家行为体”\n\n联黎部队指出，他们怀疑“非国家行为体”是造成部队人员在黎巴嫩南部遭受致命袭击的幕后黑手，并称袭击者可能是伊朗支持的真主党。\n联黎部队在声明中说，“初步评估显示，开火的是非国家行为体”，并补充说“据称”是真主党所为。\n联黎部队敦促黎巴嫩“迅速展开调查，查明并追究肇事者的责任”，联黎部队称这是一起“蓄意”袭击。",
+          "link": "https://www.zaobao.com/news/world/story20260418-8916260",
+          "publishedOn": "2026-04-18T13:58:48.000Z",
+          "wordCount": 634,
+          "title": "法国士兵遇袭身亡 黎巴嫩总统誓言追究袭击者责任",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/10d6a4ed154b126c7234d555a81544ba35ef0a3806cff5c0c426ad210d4b55f3"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260418-8916168",
+          "author": null,
+          "description": "美军中央司令部在社交媒体上发文说，自开始实施海上封锁以来，已有23艘船只按美军指示返航。\n美军自4月13日起，对进出伊朗港口及沿海地区的船只实施海上封锁。 \n船舶追踪数据显示，约10艘船只星期六（4月18日）尝试通过霍尔木兹海峡，但最终折返。 \n新华社引述航运轨迹说，多艘船只在行至伊朗拉腊克岛附近水域后折返。数据显示，这些船只中多为油轮，多艘船只在自动识别系统中的目的地为印度。\n\n船东：伊朗向船只广播霍尔木兹海峡封锁\n\n另据两名在该水域有船只的船东说，伊朗向霍尔木兹海峡的船只广播，称这条重要的石油和天然气运输通道的海上交通已封锁。\n彭博社引述船东说，星期六霍尔木兹海峡内一片混乱，一艘超级油轮发出无线电广播称遭到枪击。由于安全形势严峻，这些船东不愿透露身份。\n伊朗外长阿拉格齐星期五（17日）宣布，在黎巴嫩和以色列停火期间对所有商船开放霍尔木兹海峡。 \n此后，部分货轮试图通过海峡，另一些则折返或停航。但伊朗媒体星期六报道，因美国“屡次违背承诺”，伊朗军方已重新收紧对霍尔木兹海峡的管控。",
+          "link": "https://www.zaobao.com/news/world/story20260418-8916168",
+          "publishedOn": "2026-04-18T13:16:04.000Z",
+          "wordCount": 645,
+          "title": "美军实施海上封锁 至今23艘船只返航",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/d03045a4c81a6b88cf9b79643aabbf867df3b8737357391d6bf30ab9a955599b"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260418-8915724",
+          "author": null,
+          "description": "（华盛顿／纽约／伦敦综合电）全球原油供应因中东战事而严重受阻，美国政府决定再次延长对俄罗斯原油的制裁豁免期，试图稳定剧烈波动的能源市场。 \n美国财政部星期五（4月17日）发布新许可，将俄罗斯原油与石油产品的制裁豁免延长一个月，允许各国继续购买截至当天已装船的俄罗斯油货。原来的30天豁免期已经在本月11日到期，如今延长至5月16日零时1分（新加坡中午12时1分）。\n此举旨在制裁俄国的同时，缓解国际能源价格飙升的压力。不过有分析认为，延长豁免可能削弱美国要限制俄罗斯战争收入的效果。\n在这同时，美伊战争冲击中东的石油供应，亚洲买家加速转向美国买油，目前很多超级油轮正驶向美国港口。 \n船舶追踪数据显示，目前约有70艘主要来自亚洲的超级油轮正航向美国墨西哥湾沿岸，是去年同期平均27艘的两倍有余。全球现约有1000艘超级油轮，这类油轮载重吨位达20万至30万吨，相当于日本半天的消耗量。\n据《日经亚洲》报道，中东石油供应受阻后，亚洲客户转向美国采购，引发一波抢购潮。\n欧洲能源分析公司Kpler数据则预测，亚洲对美国原油的需求在3月份激增82%，达到每日250万桶。\nKpler分析师史密斯说：“这些油轮就像舰队般列阵，鱼贯向美国进发。超级油轮排成的长龙是前所未见的，反映了油供的紧缺。”\n由于这些超级油轮体型过大，无法通过巴拿马运河，而必须绕行非洲好望角，单程航行时间约60天。 \n\n能源缺口逾5亿桶 创现代史最大供应中断\n\nKpler公布的数据显示，自美伊战争爆发以来，全球原油与凝析油供应已减少超过5亿桶。路透社估算，这相当于超过500亿美元（约635亿新元）。\n世界著名能源机构伍德麦肯兹（Wood Mackenzie）分析员莫瓦特形容，这一缺口庞大，相当于全球所有车辆停驶11天，或全球经济停止用油五天。\n目前波斯湾国家的原油产量每日减少约800万桶。Kpler高级分析师劳巴尔指出，科威特与伊拉克部分重质原油油田可能需要四五个月才能够恢复正常生产，这意味着库存消耗可能持续至夏季。　\n\n保险承保意愿成恢复出口关键\n\n伊朗星期五宣布霍尔木兹海峡将恢复开放后，市场虽然大表欢迎，但仍持观望态度。果不其然，隔天伊朗又恫言恢复管制海峡，理由是美国“屡次违规”。 \n沙特阿拉伯财政部长贾达安指出，石油供应量是否能恢复，关键不在于产能，而是保险公司是否愿意为油轮提供承保。\n他说，在停火协议延长、局势真切降温之前，保险公司和油轮船东都不会迅速作出反应。",
+          "link": "https://www.zaobao.com/news/world/story20260418-8915724",
+          "publishedOn": "2026-04-18T12:45:24.000Z",
+          "wordCount": 655,
+          "title": "因应全球油供大减 美国延长对俄石油制裁豁免",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/eddcee8853f44fad356c98b0e31f731614641adaf78aac76236f923facdde3d2"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260418-8914993",
+          "author": null,
+          "description": "（墨尔本／悉尼综合电）澳大利亚与日本政府正式签署合作协议，由日本三菱重工为澳洲海军建造11艘新一代隐形护卫舰。澳洲希望借此提升海上远程作战能力，应对中国在印太地区不断扩大的军事存在。\n澳洲副总理兼国防部长马尔斯与日本防长小泉进次郎星期六（4月18日）在墨尔本的日本海上自卫队“最上级”熊野号护卫舰，出席澳洲采购首批护卫舰的启动仪式，并签署相关合作协议。\n这是日本自2014年解除武器出口禁令以来，规模最重大的军售项目之一。小泉进次郎形容这项协议“具有历史意义”，并指日澳在深化双边安全关系方面“没有上限”。\n澳洲政府早前披露，首三艘护卫舰合同预算介于150亿至200亿澳元（约136亿至182亿新元）之间。　　\n根据规划，首批三艘升级版“最上级”护卫舰将由三菱重工在长崎造船厂建造，预计首舰于2029年交付，2030年投入服役。其余八艘则将在西澳珀斯附近的亨德森造船厂建造，由澳洲本土造船企业奥斯塔（Austal）承建。\n澳洲计划在未来10年内，将主力水面舰艇规模从目前的11艘扩充至26艘，而通用护卫舰被视为未来水面舰队的主力。随着中国在印度洋、太平洋及澳洲北部海上通道的军事存在不断扩大，这批具备反潜、对海打击和防空能力的护卫舰将部署在关键海上航道，加强海上交通线的防护。\n虽然这项合作具有高度战略价值，但也面临不小挑战。这是三菱重工首次在海外承担如此复杂的先进军舰建造任务。澳洲政府也表现出谨慎态度，希望在推进过程中避免过去大型军购案中常见的成本飙升或工程延误问题。",
+          "link": "https://www.zaobao.com/news/world/story20260418-8914993",
+          "publishedOn": "2026-04-18T12:26:50.000Z",
+          "wordCount": 644,
+          "title": "日澳签历史性协议 三菱重工将为澳建造11艘隐形护卫舰",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/dd7a80c2059e40a47ffc38c59f541f82a4e1302d37061f9c9def918f14b96d27"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260418-8915685",
+          "author": null,
+          "description": "（华盛顿彭博电）美国商务部长卢特尼克明确排除中国资本进入美国汽车业的可能性，直言美国不需要比亚迪等中国电动车企业。\n卢特尼克星期五（4月17日）在华盛顿一场对话会上，被问及是否考虑允许比亚迪在美设立合资工厂时，直接以一个“不”字回答，现场一度笑声四起。\n他过后在同一活动场边进一步说明，指主持人的问题已点名提到比亚迪。他对彭博社说：“我们不会让他们进来。”在被追问其他中国企业是否有机会投资美国时，卢特尼克强调：“不会是汽车业。”\n美国汽车制造商上个月联署致函政府，指北京企图主导全球汽车业并打入美国市场，称这对美国的全球竞争力、国家安全和汽车工业基础构成直接威胁。\n3月中旬在巴黎举行的中美贸易会谈中，美国贸易代表格里尔、财政部长贝森特与中国副总理何立峰同意，研究建立促进美中贸易投资的合作机制；但4月初，格里尔已淡化扩大双边投资合作的可能性，称“我不认为当前美中关系已发展到可以讨论双向投资计划的阶段”。\n他上周进一步说，由于美国对外国技术的限制，中国车企在可预见的未来，很可能继续被拒于美国市场之外。\n另据知情人士透露，特朗普政府正考虑调整北美贸易规则，可能提高进口汽车的关税，推动制造商增加美国本土的生产。\n消息称，美国在讨论的规则包括：要求进口汽车必须包含一定比率的美国零部件、限制车企根据《美墨加协定》享受关税减免的空间，从而提高跨境运输整车的成本。不过，这些构想仍处于初步阶段，具体操作方式尚未成形。\n知情人士也说，在对《美墨加协定》进行评估前，美国官员已在内部以及与汽车业相关人士讨论这些潜在调整，但至今尚未向加拿大或墨西哥的贸易官员提出正式方案。\n华府对现行贸易政策未能促使大量汽车及零部件生产回流美国感到失望。特朗普政府去年推出一系列关税措施，推动车企在美国增加产能，包括对进口汽车和零部件征收25%关税。\n尽管多家车企承诺数十亿美元的新投资，并宣布将部分生产从加拿大、墨西哥和日本转移至美国，但美国汽车业整体投资规模并未显著上升。美国仍然高度依赖进口来满足国内需求，尤其是售价3万美元或以下的车型。",
+          "link": "https://www.zaobao.com/news/world/story20260418-8915685",
+          "publishedOn": "2026-04-18T12:20:25.000Z",
+          "wordCount": 632,
+          "title": "明确排除中国车企在美设厂 卢特尼克：我们不需要比亚迪",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/94dc9dcb3191c744822dcf08e014a4061292e1d68ed77a01e1fd97ed97e1671c"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260418-8916019",
+          "author": null,
+          "description": "路透社报道，美国军方星期六（4月18日）说，自美国在霍尔木兹海峡对伊朗港口和沿海地区实施封锁以来，已有23艘船遵照美军命令折返伊朗。 \n伊朗早前指美国“屡次违背承诺”，也对霍尔木兹海峡恢复封锁。伊朗伊斯兰革命卫队说，如果美国不确保往返伊朗的船只享有完全的航行自由，伊朗也不会让其他船只在霍尔木兹海峡自由航行。",
+          "link": "https://www.zaobao.com/news/world/story20260418-8916019",
+          "publishedOn": "2026-04-18T12:18:24.000Z",
+          "wordCount": 618,
+          "title": "自美军封锁霍尔木兹海峡以来 23船按美军指示折返伊朗",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/818f832f5e036e3448a279a51f53010906421117cad3407a33252ed476ec3570"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260418-8915804",
+          "author": null,
+          "description": "海事情报公司“油轮追踪者”网站在社交媒体发文说，两艘试图穿越霍尔木兹海峡的印度船只被伊朗伊斯兰革命卫队海军逼退。\n新华社引述网站星期六（4月18日）发布的消息说，其间出现开火情况。其中一艘是悬挂印度国旗的超大型油轮。\n路透社也引述三名海事安全和航运消息人士称，至少两艘商船星期六试图穿越霍尔木兹海峡时遭到枪击。\n据英国海上贸易行动办公室的声明，一艘油轮的船长报告称，两艘伊朗伊斯兰革命卫队炮艇靠近油轮，并向它开火。报道说，油轮和船员安全。\n伊朗方面尚未就此表态。",
+          "link": "https://www.zaobao.com/news/world/story20260418-8915804",
+          "publishedOn": "2026-04-18T11:15:08.000Z",
+          "wordCount": 610,
+          "title": "海事情报：伊朗向试图穿越霍尔木兹海峡油轮开火",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/4d5f386a92408098c7121fc300731bb871a90816b469a469f3f5026674d9181d"
+        },
         {
           "id": "https://www.zaobao.com/news/world/story20260418-8913777",
           "author": null,
@@ -1406,16 +1636,6 @@
           "wordCount": 957,
           "title": "你的投資決策不是你的",
           "imageUrl": "https://ducorn.com/images/og/investment-psychology.webp"
-        },
-        {
-          "id": "https://ducorn.com/index-investing",
-          "author": null,
-          "description": "你把退休金押在指數化投資上，但你真的搞懂這個機制了嗎？0050 有一半是台積電、被動資金佔市場 45%、指數基金發明者在死前警告太成功了。三個互相矛盾的事實，Bogle 自己都在擔心。TQQQ 這類槓桿 ETF 的隱藏風險更被嚴重低估。",
-          "link": "https://ducorn.com/index-investing",
-          "publishedOn": "2026-03-20T11:30:00.000Z",
-          "wordCount": 1034,
-          "title": "你買了 ETF，但你對指數投資的理解可能是錯的",
-          "imageUrl": "https://ducorn.com/images/og/index-investing.webp"
         }
       ]
     },
@@ -1424,6 +1644,272 @@
       "feedUrl": "https://basicsix-my-rsshub-hq.hf.space/1x",
       "siteUrl": "https://1x.com/gallery/latest/awarded",
       "articles": [
+        {
+          "id": "1x-3550070",
+          "author": "Jan Donckers",
+          "description": "boiler repairman by Jan Donckers",
+          "link": "https://1x.com/photo/3550070",
+          "publishedOn": "2026-04-19T02:34:26.650Z",
+          "wordCount": 364,
+          "title": "boiler repairman",
+          "enclosure": {
+            "url": "https://1x.com/images/user/d9d04ee94d5bde8f40938f11b303ecbd-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/d9d04ee94d5bde8f40938f11b303ecbd-hd4.jpg"
+        },
+        {
+          "id": "1x-3550120",
+          "author": "Viggo Johansen",
+          "description": "Sciurus vulgaris - Eurasian Red Squirrel by Viggo Johansen",
+          "link": "https://1x.com/photo/3550120",
+          "publishedOn": "2026-04-19T02:34:26.646Z",
+          "wordCount": 376,
+          "title": "Sciurus vulgaris - Eurasian Red Squirrel",
+          "enclosure": {
+            "url": "https://1x.com/images/user/6062eb10de57d802ba338e8cf5329b31-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/6062eb10de57d802ba338e8cf5329b31-hd4.jpg"
+        },
+        {
+          "id": "1x-3544810",
+          "author": "Ala Askool",
+          "description": "Spark of Creation by Ala Askool",
+          "link": "https://1x.com/photo/3544810",
+          "publishedOn": "2026-04-19T02:34:26.644Z",
+          "wordCount": 367,
+          "title": "Spark of Creation",
+          "enclosure": {
+            "url": "https://1x.com/images/user/3e11cc136aca66d0243055aef1741d37-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/3e11cc136aca66d0243055aef1741d37-hd2.jpg"
+        },
+        {
+          "id": "1x-3550255",
+          "author": "YU LIN",
+          "description": "Night falls. by YU LIN",
+          "link": "https://1x.com/photo/3550255",
+          "publishedOn": "2026-04-19T02:34:26.637Z",
+          "wordCount": 335,
+          "title": "Night falls.",
+          "enclosure": {
+            "url": "https://1x.com/images/user/5a4fdbb350936d1d875e5bc67c45863c-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/5a4fdbb350936d1d875e5bc67c45863c-hd4.jpg"
+        },
+        {
+          "id": "1x-3538769",
+          "author": "HJ Yang",
+          "description": "Sea eagle in Japan by HJ Yang",
+          "link": "https://1x.com/photo/3538769",
+          "publishedOn": "2026-04-19T02:34:26.630Z",
+          "wordCount": 370,
+          "title": "Sea eagle in Japan",
+          "enclosure": {
+            "url": "https://1x.com/images/user/13b4d98c1a639b0ea977d4b07ac81c59-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/13b4d98c1a639b0ea977d4b07ac81c59-hd4.jpg"
+        },
+        {
+          "id": "1x-3549477",
+          "author": "GABA",
+          "description": "Untitled by GABA",
+          "link": "https://1x.com/photo/3549477",
+          "publishedOn": "2026-04-19T02:34:26.628Z",
+          "wordCount": 357,
+          "title": "Untitled",
+          "enclosure": {
+            "url": "https://1x.com/images/user/69956bcb0ba620d859fdb20a0d781c5d-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/69956bcb0ba620d859fdb20a0d781c5d-hd4.jpg"
+        },
+        {
+          "id": "1x-3549063",
+          "author": "Robert Zhang",
+          "description": "Precision in Silence by Robert Zhang",
+          "link": "https://1x.com/photo/3549063",
+          "publishedOn": "2026-04-19T02:34:26.626Z",
+          "wordCount": 338,
+          "title": "Precision in Silence",
+          "enclosure": {
+            "url": "https://1x.com/images/user/542c0d78c81d0e4b71545b4a4faf1854-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/542c0d78c81d0e4b71545b4a4faf1854-hd2.jpg"
+        },
+        {
+          "id": "1x-3549752",
+          "author": "Gila Koller",
+          "description": "Red umbrella  (3) by Gila Koller",
+          "link": "https://1x.com/photo/3549752",
+          "publishedOn": "2026-04-19T02:34:26.624Z",
+          "wordCount": 367,
+          "title": "Red umbrella (3)",
+          "enclosure": {
+            "url": "https://1x.com/images/user/83f24e23066862951c87ac429e303c6f-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/83f24e23066862951c87ac429e303c6f-hd2.jpg"
+        },
+        {
+          "id": "1x-3544007",
+          "author": "Tomoki Ishikawa",
+          "description": "Eternal Serene by Tomoki Ishikawa",
+          "link": "https://1x.com/photo/3544007",
+          "publishedOn": "2026-04-19T02:34:26.622Z",
+          "wordCount": 335,
+          "title": "Eternal Serene",
+          "enclosure": {
+            "url": "https://1x.com/images/user/79bad348edc16e4a3413ce685b30a767-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/79bad348edc16e4a3413ce685b30a767-hd4.jpg"
+        },
+        {
+          "id": "1x-3550075",
+          "author": "Li Ying",
+          "description": "Lighting over the Badlands by Li Ying",
+          "link": "https://1x.com/photo/3550075",
+          "publishedOn": "2026-04-19T02:34:26.620Z",
+          "wordCount": 341,
+          "title": "Lighting over the Badlands",
+          "enclosure": {
+            "url": "https://1x.com/images/user/fa1517ec26bd874d56dba209e2b6fec4-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/fa1517ec26bd874d56dba209e2b6fec4-hd2.jpg"
+        },
+        {
+          "id": "1x-3543973",
+          "author": "Brewer Photography & Art",
+          "description": "Ghost Town Car by Brewer Photography & Art",
+          "link": "https://1x.com/photo/3543973",
+          "publishedOn": "2026-04-19T02:34:26.617Z",
+          "wordCount": 375,
+          "title": "Ghost Town Car",
+          "enclosure": {
+            "url": "https://1x.com/images/user/1c07a4a71db055cb9712f0a8b96deee6-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/1c07a4a71db055cb9712f0a8b96deee6-hd4.jpg"
+        },
+        {
+          "id": "1x-3549126",
+          "author": "Olexandr Shpyek",
+          "description": "Urban by Olexandr Shpyek",
+          "link": "https://1x.com/photo/3549126",
+          "publishedOn": "2026-04-19T02:34:26.615Z",
+          "wordCount": 361,
+          "title": "Urban",
+          "enclosure": {
+            "url": "https://1x.com/images/user/e6284a5e28786eabbcea09139f721e57-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/e6284a5e28786eabbcea09139f721e57-hd4.jpg"
+        },
+        {
+          "id": "1x-3547322",
+          "author": "R Suguri",
+          "description": "Blue Mosque by R Suguri",
+          "link": "https://1x.com/photo/3547322",
+          "publishedOn": "2026-04-19T02:34:26.613Z",
+          "wordCount": 364,
+          "title": "Blue Mosque",
+          "enclosure": {
+            "url": "https://1x.com/images/user/608f9b347aa6a0c13aa9661d9b11c32b-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/608f9b347aa6a0c13aa9661d9b11c32b-hd2.jpg"
+        },
+        {
+          "id": "1x-3541387",
+          "author": "Moses Wang",
+          "description": "Run for life by Moses Wang",
+          "link": "https://1x.com/photo/3541387",
+          "publishedOn": "2026-04-19T02:34:26.414Z",
+          "wordCount": 338,
+          "title": "Run for life",
+          "enclosure": {
+            "url": "https://1x.com/images/user/592ea7066751165fb6e83bb8459f9eb4-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/592ea7066751165fb6e83bb8459f9eb4-hd2.jpg"
+        },
+        {
+          "id": "1x-3548674",
+          "author": "Steven Haddix",
+          "description": "Wood duck by Steven Haddix",
+          "link": "https://1x.com/photo/3548674",
+          "publishedOn": "2026-04-19T02:34:26.390Z",
+          "wordCount": 335,
+          "title": "Wood duck",
+          "enclosure": {
+            "url": "https://1x.com/images/user/1764f60fc006dd8ba90ffa0aaf792b88-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/1764f60fc006dd8ba90ffa0aaf792b88-hd2.jpg"
+        },
+        {
+          "id": "1x-3549586",
+          "author": "Jeffrey Chan",
+          "description": "The Young Protege by Jeffrey Chan",
+          "link": "https://1x.com/photo/3549586",
+          "publishedOn": "2026-04-19T02:34:26.387Z",
+          "wordCount": 338,
+          "title": "The Young Protege",
+          "enclosure": {
+            "url": "https://1x.com/images/user/684b06d88f0c0db9b28c5c9c002d8ba9-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/684b06d88f0c0db9b28c5c9c002d8ba9-hd2.jpg"
+        },
+        {
+          "id": "1x-3549958",
+          "author": "Hanping Xiao",
+          "description": "Silent Currents by Hanping Xiao",
+          "link": "https://1x.com/photo/3549958",
+          "publishedOn": "2026-04-19T02:34:26.384Z",
+          "wordCount": 364,
+          "title": "Silent Currents",
+          "enclosure": {
+            "url": "https://1x.com/images/user/2c9d52fc093530ef776e1779fc90edee-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/2c9d52fc093530ef776e1779fc90edee-hd4.jpg"
+        },
+        {
+          "id": "1x-3549151",
+          "author": "Kazunori Nagamori",
+          "description": "Dandelion clock by Kazunori Nagamori",
+          "link": "https://1x.com/photo/3549151",
+          "publishedOn": "2026-04-19T02:34:26.381Z",
+          "wordCount": 364,
+          "title": "Dandelion clock",
+          "enclosure": {
+            "url": "https://1x.com/images/user/4b57a88dbbb22fbebee8fa438eecebc2-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/4b57a88dbbb22fbebee8fa438eecebc2-hd4.jpg"
+        },
+        {
+          "id": "1x-3550050",
+          "author": "daniel demunter",
+          "description": "Elegance Folded on the Floor by daniel demunter",
+          "link": "https://1x.com/photo/3550050",
+          "publishedOn": "2026-04-19T02:34:26.377Z",
+          "wordCount": 344,
+          "title": "Elegance Folded on the Floor",
+          "enclosure": {
+            "url": "https://1x.com/images/user/b8e334a74ab7b0014d16cc21a34097ff-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/b8e334a74ab7b0014d16cc21a34097ff-hd4.jpg"
+        },
         {
           "id": "1x-3546141",
           "author": "Andreas Klesse",
@@ -2508,6 +2994,24 @@
       "siteUrl": "https://www.ted.com",
       "articles": [
         {
+          "id": "69dc66ccf736e119c3a0b5d9",
+          "author": null,
+          "description": "Every moment of movement is a chance to become more aware of yourself and the world around you, says Zen Buddhist nun Sister True Dedication. Guiding us through the art of \"mindful walking,\" she shares three essential questions to ask yourself to awaken your strength, build resilience and discover your inner peace.\n\nThis episode originally aired in 2023.\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
+          "link": "https://go.ted.com/64BH",
+          "publishedOn": "2026-04-18T15:00:00.000Z",
+          "wordCount": null,
+          "title": "3 questions to build resilience — and change the world | Sister True Dedication",
+          "itunes": {
+            "duration": "18:13"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69dc66ccf736e119c3a0b5d9/media.mp3",
+            "length": "17592431",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "69e064cf501ebe6715dd4fa7",
           "author": null,
           "description": "OpenClaw creator Peter Steinberger takes us back to the transformative moment he let his AI agent loose on the internet, igniting one of the world's fastest-growing open-source projects. He makes a fascinating (and slightly unnerving) case that agents are a real shift, not just better versions of chatbots, and explores how they might reshape your ability to work, create and build. \"The lobster is loose, and it's not going back into the tank,\" he says. (Followed by a brief Q&A with TED Chairman Chris Anderson)\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
@@ -3190,24 +3694,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "69baf3c16cb58679e8f88ff6",
-          "author": null,
-          "description": "What are you wearing, and why? This is the question that writer and TED Fellow Mitchell S. Jackson asks as he unpacks the six eras of NBA style. Tracing an arc from Bill Russell to Lebron James and beyond, he explores how players use fashion on and off the court to challenge the limits placed upon them — revealing a deeper story about culture, identity and power.\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
-          "link": "http://go.ted.com/mitchellsjackson",
-          "publishedOn": "2026-03-19T15:00:00.000Z",
-          "wordCount": null,
-          "title": "The 6 eras of NBA fashion — from restrained to radical | Mitchell S. Jackson",
-          "itunes": {
-            "duration": "11:43"
-          },
-          "enclosure": {
-            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69baf3c16cb58679e8f88ff6/media.mp3",
-            "length": "11362031",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -3243,6 +3729,50 @@
       "feedUrl": "https://basicsix-my-rsshub-hq.hf.space/telegram/channel/wxbyg",
       "siteUrl": "https://t.me/s/wxbyg",
       "articles": [
+        {
+          "id": "https://t.me/wxbyg/7139",
+          "author": null,
+          "description": "举报PI性骚扰后，她被学校认定学术造假，丢了工作 | 原文\nTelegraph\n举报PI性骚扰后，她被学校认定学术造假，丢了工作\n编译｜赵婉婷 2020年，美国杜克大学药理学与癌症生物学系的免疫学家Brahmajothi Mulugu举报了一起不当行为——同实验室的教授Mohamed Bahie Abou-Donia数次对她实施性骚扰。 同年11月，校方查明Mulugu的举报属实，Abou-Donia随后辞职。 一年后，杜克大学认定Mulugu存在学术不端，并终止资助其科研经费。Mulugu因此离职。不久后，她与Abou-Donia合著的3篇论文被撤稿。 在Mulugu看来，这是校方针对她的报复和种族歧视。2023年，Mulugu…",
+          "link": "https://t.me/wxbyg/7139",
+          "publishedOn": "2026-04-18T16:08:47.000Z",
+          "wordCount": null,
+          "title": "举报PI性骚扰后，她被学校认定学术造假，丢了工作 | 原文",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://t.me/wxbyg/7138",
+          "author": null,
+          "description": "Claude Opus 4.7，升级还是倒退？ | 原文\nTelegraph\nClaude Opus 4.7，升级还是倒退？\nOpus4.6发布才俩月，Anthropic又推出了Opus 4.7。反常的是，官方自己先泼冷水：“这不是我们能做的最强模型”，甚至大方承认“比内部版Mythos弱多了”。 上线不到24小时，AI社区就吵成两派：一派说它还是最强的公开模型，编程能力突出；另一派说这哪是升级，明明是倒退。 谁对谁错？看你怎么用。 如果你是程序员，日常依赖AI写代码，Opus 4.7很可能是目前最好用的编程助手。在SWE-bench Pro测试中，Opus 4.7得分从53.4%飙升至64.3%，直接压过GPT-5.4和Gemini…",
+          "link": "https://t.me/wxbyg/7138",
+          "publishedOn": "2026-04-18T13:58:07.000Z",
+          "wordCount": null,
+          "title": "Claude Opus 4.7，升级还是倒退？ | 原文",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://t.me/wxbyg/7137",
+          "author": null,
+          "description": "一个被99%程序员忽略的效率杀手：你每天盯着看的那块屏幕 | 原文\nTelegraph\n一个被99%程序员忽略的效率杀手：你每天盯着看的那块屏幕\n我相信作为程序员，我们大概率都经历过这种时刻，毕竟写代码是一个特别容易进入心流的工作情境： 比如，下午三四点，你盯着屏幕上一段并不复杂的逻辑，反复读了三遍，脑子里就是串不起来。你觉得是自己状态差，去接了杯咖啡，回来继续看，还是一样。你开始怀疑自己是不是老了，注意力怎么这么差。 或者是晚上加班到九十点，眼睛又干又涩，I 和 l 和 1 都已经分不清了，你得把脸凑近屏幕才能确认一个变量名到底写的是什么。你揉揉眼睛，心想“要不今天就到这吧”，但其实任务还没做完。 又或者你在帮同事检查代码，改动前后的对比页面上…",
+          "link": "https://t.me/wxbyg/7137",
+          "publishedOn": "2026-04-18T03:25:15.000Z",
+          "wordCount": null,
+          "title": "一个被99%程序员忽略的效率杀手：你每天盯着看的那块屏幕 | 原文",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://t.me/wxbyg/7136",
+          "author": null,
+          "description": "Opus 4.7 深扒：一边封神，一边翻车，官方亲自下场劝退！ | 原文\nTelegraph\nOpus 4.7 深扒：一边封神，一边翻车，官方亲自下场劝退！\n这两天的 Claude 用户，应该说是体验极差。 模型被偷偷降智，Opus 4.6 默认改成 adaptive thinking。 服务稳定性就更别提了，从 3 月开始到现在的 4 月，频繁宕机，错误率飙升。 然后又发公告，说要强实名制认证，好在目前还只是 Max 用户。 而就在这个节骨眼上，Opus 4.7 来了。 官方给出的本次升级的关键词：复杂任务、更强视觉、更稳的长链路执行，以及更少需要人工参与。 听着挺漂亮的对吧？ 我一开始也是这么觉得的，毕竟从 4.0 一路用到 4.6，每一代我都是那种第一时间冲上去试的人。…",
+          "link": "https://t.me/wxbyg/7136",
+          "publishedOn": "2026-04-18T03:15:32.000Z",
+          "wordCount": null,
+          "title": "Opus 4.7 深扒：一边封神，一边翻车，官方亲自下场劝退！ | 原文",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://t.me/wxbyg/7135",
           "author": null,
