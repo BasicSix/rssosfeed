@@ -2,10 +2,694 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BasicSix.github.io/rssosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-20T02:35:15.999Z</updated>
+    <updated>2026-04-21T02:31:33.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://BasicSix.github.io/rssosfeed/index.html"/>
     <link rel="self" href="https://BasicSix.github.io/rssosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[魔幻都市 -坊塔]]></title>
+        <id>1x-3552323</id>
+        <link href="https://1x.com/photo/3552323"/>
+        <updated>2026-04-21T02:30:53.330Z</updated>
+        <summary type="html"><![CDATA[魔幻都市 -坊塔 by Chen Xiao]]></summary>
+        <author>
+            <name>Chen Xiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roermond Circles 2026-02]]></title>
+        <id>1x-3546322</id>
+        <link href="https://1x.com/photo/3546322"/>
+        <updated>2026-04-21T02:30:53.275Z</updated>
+        <summary type="html"><![CDATA[Roermond Circles 2026-02 by Adam Dauria ☂]]></summary>
+        <author>
+            <name>Adam Dauria ☂</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silence at First Light]]></title>
+        <id>1x-3498900</id>
+        <link href="https://1x.com/photo/3498900"/>
+        <updated>2026-04-21T02:30:53.272Z</updated>
+        <summary type="html"><![CDATA[Silence at First Light by Jenny Qiu]]></summary>
+        <author>
+            <name>Jenny Qiu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watchful]]></title>
+        <id>1x-3553066</id>
+        <link href="https://1x.com/photo/3553066"/>
+        <updated>2026-04-21T02:30:53.269Z</updated>
+        <summary type="html"><![CDATA[Watchful by Qing Zhao]]></summary>
+        <author>
+            <name>Qing Zhao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Long-tailed tit]]></title>
+        <id>1x-3551745</id>
+        <link href="https://1x.com/photo/3551745"/>
+        <updated>2026-04-21T02:30:53.266Z</updated>
+        <summary type="html"><![CDATA[Long-tailed tit by Jun Kong]]></summary>
+        <author>
+            <name>Jun Kong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plumaged Gold Finch]]></title>
+        <id>1x-3551804</id>
+        <link href="https://1x.com/photo/3551804"/>
+        <updated>2026-04-21T02:30:53.263Z</updated>
+        <summary type="html"><![CDATA[Plumaged Gold Finch by verdon]]></summary>
+        <author>
+            <name>verdon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Before Words]]></title>
+        <id>1x-3548738</id>
+        <link href="https://1x.com/photo/3548738"/>
+        <updated>2026-04-21T02:30:53.259Z</updated>
+        <summary type="html"><![CDATA[Before Words by Hamza Qarooni]]></summary>
+        <author>
+            <name>Hamza Qarooni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japanese Robin]]></title>
+        <id>1x-3552026</id>
+        <link href="https://1x.com/photo/3552026"/>
+        <updated>2026-04-21T02:30:53.257Z</updated>
+        <summary type="html"><![CDATA[Japanese Robin by Nyuki]]></summary>
+        <author>
+            <name>Nyuki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elevator in A Book Store]]></title>
+        <id>1x-3551789</id>
+        <link href="https://1x.com/photo/3551789"/>
+        <updated>2026-04-21T02:30:53.254Z</updated>
+        <summary type="html"><![CDATA[Elevator in A Book Store by Jun Zuo]]></summary>
+        <author>
+            <name>Jun Zuo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singing]]></title>
+        <id>1x-3551758</id>
+        <link href="https://1x.com/photo/3551758"/>
+        <updated>2026-04-21T02:30:53.251Z</updated>
+        <summary type="html"><![CDATA[Singing by Ling Zhang]]></summary>
+        <author>
+            <name>Ling Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[blue shine]]></title>
+        <id>1x-3552372</id>
+        <link href="https://1x.com/photo/3552372"/>
+        <updated>2026-04-21T02:30:53.226Z</updated>
+        <summary type="html"><![CDATA[blue shine by Urs Zimmermann]]></summary>
+        <author>
+            <name>Urs Zimmermann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Water shortage]]></title>
+        <id>1x-3552373</id>
+        <link href="https://1x.com/photo/3552373"/>
+        <updated>2026-04-21T02:30:53.224Z</updated>
+        <summary type="html"><![CDATA[Water shortage by Georgios Bero]]></summary>
+        <author>
+            <name>Georgios Bero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GREAT TIT]]></title>
+        <id>1x-3552096</id>
+        <link href="https://1x.com/photo/3552096"/>
+        <updated>2026-04-21T02:30:53.222Z</updated>
+        <summary type="html"><![CDATA[GREAT TIT by Raad Btoush]]></summary>
+        <author>
+            <name>Raad Btoush</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Between Calls]]></title>
+        <id>1x-3552328</id>
+        <link href="https://1x.com/photo/3552328"/>
+        <updated>2026-04-21T02:30:53.219Z</updated>
+        <summary type="html"><![CDATA[Between Calls by kiyokari43]]></summary>
+        <author>
+            <name>kiyokari43</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Future Logistics]]></title>
+        <id>1x-3552115</id>
+        <link href="https://1x.com/photo/3552115"/>
+        <updated>2026-04-21T02:30:53.216Z</updated>
+        <summary type="html"><![CDATA[Future Logistics by moucorn]]></summary>
+        <author>
+            <name>moucorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gracia 2]]></title>
+        <id>1x-3552377</id>
+        <link href="https://1x.com/photo/3552377"/>
+        <updated>2026-04-21T02:30:53.213Z</updated>
+        <summary type="html"><![CDATA[Gracia 2 by Erik Jäderholm]]></summary>
+        <author>
+            <name>Erik Jäderholm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overlapping Layers]]></title>
+        <id>1x-3552279</id>
+        <link href="https://1x.com/photo/3552279"/>
+        <updated>2026-04-21T02:30:53.210Z</updated>
+        <summary type="html"><![CDATA[Overlapping Layers by Masaki Yazaki]]></summary>
+        <author>
+            <name>Masaki Yazaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3551783</id>
+        <link href="https://1x.com/photo/3551783"/>
+        <updated>2026-04-21T02:30:52.915Z</updated>
+        <summary type="html"><![CDATA[Untitled by Dan Gdalevitz]]></summary>
+        <author>
+            <name>Dan Gdalevitz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3552118</id>
+        <link href="https://1x.com/photo/3552118"/>
+        <updated>2026-04-21T02:30:52.896Z</updated>
+        <summary type="html"><![CDATA[Untitled by SUSUMU SASAKI]]></summary>
+        <author>
+            <name>SUSUMU SASAKI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本大幅放宽武器出口限制]]></title>
+        <id>https://www.zaobao.com/news/world/story20260421-8926693</id>
+        <link href="https://www.zaobao.com/news/world/story20260421-8926693"/>
+        <updated>2026-04-21T02:19:46.000Z</updated>
+        <summary type="html"><![CDATA[日本取消了大部分武器出口限制，旨在为军工企业开辟更大市场，并加强日本的国防工业基础。
+综合共同社和路透社报道，日本首相高市早苗的内阁星期二（4月21日）批准了防务出口规则的修改，原则上将允许杀伤性武器对外出口。
+此前，日本企业仅被允许出口用于救援、运输、预警、监视和扫雷等相关行动的军用装备。
+日本将保留三项出口原则：严格审查、控制向第三国转口，以及禁止向卷入冲突的国家出售武器；在特定情况下，也将允许向处于冲突中的国家出口武器。
+作为安全鹰派人物，高市早苗就任首相仅六个月，便迅速采取行动，通过增加国防开支并使日本成为全球防务市场的重要参与者，来提升日本的军事形象。
+新规出台前几天，东京刚与澳大利亚签署了一项出售先进军舰的协议，这是日本战后首次出口致命作战装备。
+根据新的出口规定，只有与日本签署协议，承诺将保护相关装备和技术机密信息的国家，才能购买日本致命性防务装备。目前，日本已与17个国家签署了这类协议，其中包括几个欧洲和东南亚国家，以及阿联酋、印度和美国。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高市早苗向靖国神社供奉供品]]></title>
+        <id>https://www.zaobao.com/news/world/story20260421-8926537</id>
+        <link href="https://www.zaobao.com/news/world/story20260421-8926537"/>
+        <updated>2026-04-21T01:18:29.000Z</updated>
+        <summary type="html"><![CDATA[中日关系持续紧张之际，日本首相高市早苗向靖国神社供奉供品。
+据日本共同社报道，高市早苗星期二（4月21日）配合东京九段北靖国神社开始的春季例行大祭，以“内阁总理大臣高市早苗”的名义供奉了被称为“真榊”的供品。
+报道引述不具名的相关人士透露，高市早苗不会在持续到星期四（23日）的例行大祭期间参拜。
+高市早苗去年11月发表“台湾有事”论以来，中日关系陷入恶性循环，军事紧张加剧。
+靖国神社位于东京千代田区，内供奉有包括东条英机等14名二战甲级战犯。长期以来，日本部分政客、国会议员坚持参拜靖国神社并供奉祭品，导致日本与中韩等亚洲国家关系紧张。
+已故日本前首相安倍晋三2013年12月26日曾参拜靖国神社，导致中日关系一度跌入谷底。
+自2013年以来，日本首相未参拜靖国神社，但日本前首相石破茂和岸田文雄曾定期在每年春秋两季的祭典期间供奉供品。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美联储主席人选沃什：若提名获确认 将坚决捍卫央行独立性]]></title>
+        <id>https://www.zaobao.com/news/world/story20260421-8926442</id>
+        <link href="https://www.zaobao.com/news/world/story20260421-8926442"/>
+        <updated>2026-04-21T01:05:38.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普提名的美国联邦储备局主席人选沃什说，如果提名获得参议院确认，他誓将维护美联储的独立性。
+根据彭博看到的发言稿，沃什料将在星期二（4月21日）的听证会上说：“我认为，货币政策的独立性有赖于避免外界干扰，这也有助于作出更好的政策决策，我致力于确保货币政策的执行始终保持严格独立。”
+美联储主席鲍威尔任期将于5月到期，特朗普此前正式提名美联储前理事沃什担任下任主席。
+沃什定于美东时间星期二上午10时（新加坡时间晚上10时）在参议院银行委员会作证。他预计将面对议员们关于他个人财富、与已故性罪犯爱泼斯坦的过往关联以及他的经济观点等问题。
+据报道，银行委员会的11名民主党议员上周一致敦促推迟提名程序，直至针对鲍威尔和美联储理事库克的单独调查结束。
+据新闻网站Politico率先报道，沃什在准备好的发言稿中认为，保持免受政治影响是美联储自身的责任。“我不认为当民选官员，无论是总统、参议员还是众议员，就利率发表看法时，货币政策的运作独立性会受到特别威胁。”
+在他看来，“央行行长必须足够强大，能够倾听各种不同的观点。”
+关于通胀问题，沃什在准备好的发言稿中指：“通胀是一种选择，美联储必须为此承担责任。”他认为，物价飙升会给民众带来“严重伤害”。
+但他在讲稿中也强调，美联储必须“坚守本分”，并补充说：“当美联储牵涉进其既无管辖权也无专业能力的财政和社会政策领域时，央行独立性面临最大风险。”
+“美联储不应充当美国政府的某种通用机构，也不应成为本应由其他渠道讨论和决定事项的‘上诉法院’。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克缺席法国检方听证会]]></title>
+        <id>https://www.zaobao.com/news/world/story20260421-8926338</id>
+        <link href="https://www.zaobao.com/news/world/story20260421-8926338"/>
+        <updated>2026-04-21T00:16:00.000Z</updated>
+        <summary type="html"><![CDATA[美国科技企业家马斯克星期一没有出席法国巴黎检察院传唤他作证的听证会。
+综合新华社和法新社报道，作为社媒平台X的所有者，马斯克因X平台出现乱象而受到调查，其中包括传播儿童色情内容和深度伪造内容。
+巴黎检察院向法国商业调频电视台证实，马斯克和X平台前首席执行官亚卡里诺缺席听证会。检方强调，“（被传唤人员）是否到场并不妨碍调查工作继续进行”。
+几周前，马斯克曾在X平台上的一条法文贴文中称法国当局为“白痴”。
+据巴黎检察院此前消息，一些X平台的员工本周也将会被传唤作证。
+今年2月初，巴黎检察院网络犯罪事务部门对X平台在法国的办公场所进行搜查，旨在核查X平台算法的运行方式。马斯克随后在其X账号上称搜查行动为“一场政治攻击”。
+2025年7月，就X平台被举报操纵算法以对外国选举实施干涉，巴黎检察院展开调查。今年1月初，检方宣布对马斯克旗下人工智能企业xAI的聊天机器人“格罗克”涉嫌生成非法色情内容启动调查。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究：加沙战后需714亿美元重建 六成居民无家可归]]></title>
+        <id>https://www.zaobao.com/news/world/story20260421-8926302</id>
+        <link href="https://www.zaobao.com/news/world/story20260421-8926302"/>
+        <updated>2026-04-20T23:54:16.000Z</updated>
+        <summary type="html"><![CDATA[一项最新研究显示，加沙在未来十年内预计需要714亿美元（约906亿新元）用于战后重建。
+由欧盟、联合国和世界银行星期一（4月20日）发布的联合报告称，其中约263亿美元资金需要在前18个月内到位，用于恢复基本公共服务和建设关键基础设施。
+哈马斯于2023年10月7日突袭以色列，引发以哈冲突，双方达成的停火协议已生效六个月。
+尽管美国总统特朗普去年10月高调宣布达成这项停火协议，但协议从未进入第二阶段，即哈马斯解除武装、建立新的治理机构并启动重建工作。国际关注的重心已转向2月28日爆发的伊朗战争。
+加沙地带的状况依然严峻，大多数居民缺乏合适的住所、基本服务以及充足的食物和药品。国际救援委员会警告称，这场多重危机正“逐渐淡出全球视线”。
+报告估计，加沙有190万人流离失所，占战前总人口的逾80%，其中超过六成的人失去了家园。
+报告作者呼吁，应在发放人道主义援助的同时推进重建工作，并强调救援和重建应与联合国安理会第2803号决议保持一致。这项决议强调，重建进程应由巴勒斯坦人主导，且具有透明度和问责制。
+国际救援委员会说，许多流离失所的加沙居民只能居住在临时搭建的帐篷中，约77%的人口面临急性粮食不安全风险。约94%的医院被毁或受损，约半数基本药品据称已经耗尽。
+加沙卫生部门称，自停火协议生效以来，已有777名巴勒斯坦人死于以色列空袭，使以哈冲突爆发以来的总死亡人数超过7万2000人。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美伊互警备战 巴基斯坦和谈前景未明]]></title>
+        <id>https://www.zaobao.com/news/world/story20260421-8926243</id>
+        <link href="https://www.zaobao.com/news/world/story20260421-8926243"/>
+        <updated>2026-04-20T23:29:14.000Z</updated>
+        <summary type="html"><![CDATA[随着休战期限临近，美国和伊朗星期一互相警告称已做好开战准备，重启谈判的前景充满不确定性。
+法新社报道，白宫指副总统万斯已准备好再次飞往巴基斯坦首都伊斯兰堡。伊斯兰堡方面也在明显为第二轮谈判做准备。
+美国新闻网站Axios引述消息人士报道称，万斯将与星期二（4月21日）前往巴基斯坦，就伊朗问题进行磋商。
+但伊朗政府拒绝确认是否将参加谈判，并指责美国通过封锁伊朗港口和扣押一艘船只，违反了停火协议。
+伊朗国会议长加利巴夫星期二凌晨在社交媒体上发文说，美国总统特朗普试图通过封锁和违反停火协议，将谈判桌变成“投降桌”或为再度煽动战争寻找借口，但伊朗不接受胁迫。
+他强调，伊朗不接受在威胁阴影下进行的谈判，已做好在战场上“打出新牌”的准备。
+伊朗革命卫队已警告称，将打击任何未经许可试图穿越霍尔木兹海峡的船只。 
+特朗普同样指责德黑兰违反停火协议，称伊朗方面在霍尔木兹海峡骚扰船只。
+在特朗普的社交平台上发布的一系列愤怒贴文中，他坚称封锁正在“彻底摧毁”伊朗，并表明除非达成“协议”，否则封锁不会结束。美国方面正借此施压，要求伊朗在其备受争议的核计划上做出让步。
+特朗普告诉美国公共广播公司（PBS）新闻，伊朗“本应出席”在巴基斯坦举行的谈判。
+他说：“我们已经同意出席”，并警告称如果停火到期，“那么大量炸弹就会开始爆炸”。
+他告诉彭博社，他“极不可能”延长这项为期两周的停火协议。
+根据停火开始时间推算，停火协议将于德黑兰时间星期二深夜到期；不过特朗普在接受彭博采访时称，停火期将于华盛顿时间星期三晚间结束。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果任命新首席执行官 库克将转任执行董事长]]></title>
+        <id>https://www.zaobao.com/news/world/story20260421-8926197</id>
+        <link href="https://www.zaobao.com/news/world/story20260421-8926197"/>
+        <updated>2026-04-20T23:03:53.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司任命硬件主管特努斯为下一任首席执行官，现任首席执行官库克将转任执行董事长。
+综合法新社和彭博社报道，苹果星期一（4月20日）发布声明宣布，特努斯（John Ternus）将于9月1日出任首席执行官，库克在卸任后将出任执行董事长。
+库克在声明中说：“担任苹果首席执行官，并获信任领导这样一家非凡的公司，是我一生中最大的荣幸。”
+库克于1998年加入苹果公司，一路晋升，并作为首席运营官协调公司复杂的供应链，推动了公司的成功。他于2011年从创始人乔布斯手中接任首席执行官一职。
+特努斯于2001年加入苹果产品设计团队，并在随后的二十年间晋升为硬件工程高级副总裁。
+特努斯在同一份声明中说：“我非常感激能有机会继续推进苹果的使命。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EP125 12 个问题，搞懂 Vibe Coding 爆火真相：人人能做产品？👨‍💻]]></title>
+        <id>https://www.xiaoyuzhoufm.com/episode/69e669001e94ae6921be04dc</id>
+        <link href="https://www.xiaoyuzhoufm.com/episode/69e669001e94ae6921be04dc"/>
+        <updated>2026-04-20T18:14:07.000Z</updated>
+        <summary type="html"><![CDATA[最近「硬地骇客」收到一大波听友来信，大家集中抛出了当下独立开发者最焦虑、最纠结的12个真实问题：
+
+  
+前期没收入到底怎么熬？
+  
+为什么有idea却永远停在纸上？
+  
+产品做出来却没人用，问题出在哪？
+  
+AI时代工程师最该练什么能力？
+  
+Vibe Coding这么火，是不是人人都能做产品了？
+  
+小而美App这条路还走得通吗？
+  
+AGI真的会来，那我们现在做的这些事还有意义吗？……
+
+
+这一期，我们三位主播（Saito、一啸、归归）老老实实结合自己做Podwise的真实经历和血泪教训，一条一条硬核解答，不鸡汤、不画饼，只讲最实在的思考和打法。
+
+本shownotes由 castwise.ai 制作
+
+Podwise - Podcast Knowledge at 10x Speed!
+
+podwise.ai
+
+Apple Store 下载👉🏻 apps.apple.com
+
+硬地笔记
+
+00:48独立开发初期的生存策略与心态建设
+
+08:45克服想法停滞与利用 AI 提升构建效率
+
+14:35解决产品无人问津的痛点与生意思维
+
+23:56AI 时代工程师的核心竞争力与职业转型
+
+31:19文科生与设计师在 AI 时代的构建优势
+
+45:22小而美产品的生存挑战与工程维护实践
+
+1:00:36AGI 的未来展望与追求当下的意义
+
+欢迎关注我们
+
+  
+知识星球:t.zsxq.com
+  
+官网: hardhacker.com
+  
+小手册: book.hardhacker.com
+  
+用爱发电不容易，请我们喝咖啡☕️: afdian.net
+  
+公众号/小红书: 硬地骇客
+  
+商务合作: hardhackerlabs@gmail.com
+  
+另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！]]></summary>
+        <author>
+            <name>硬地骇客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗总统：对美国存在“根深蒂固的不信任”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8925834</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8925834"/>
+        <updated>2026-04-20T15:57:04.000Z</updated>
+        <summary type="html"><![CDATA[伊朗总统佩泽希齐扬说，伊朗对美国仍然存在“根深蒂固的历史性不信任”，并强调“信守承诺仍然是开展有意义对话的基础”。
+半岛电视台报道，佩泽希齐扬星期一（4月20日）在社媒平台X上发文说：“除了伊朗对美国政府行为和表现存在根深蒂固的历史性不信任之外，美国官员近来采取的非建设性和自相矛盾的做法也传递出一个令人愤慨的信息：他们企图迫使伊朗投降。”
+不过，他强调伊朗人民绝不会屈服于胁迫。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[驻美大使卷入爱泼斯坦案 英国首相斯塔默承认不应任命他]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8925784</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8925784"/>
+        <updated>2026-04-20T15:37:02.000Z</updated>
+        <summary type="html"><![CDATA[英国首相斯塔默向议员们承认，他不应该任命工党元老曼德尔森为驻华盛顿大使。
+法新社报道，斯塔默星期一（4月20日）在议会就这起不断加深的政治丑闻发表讲话时说：“这件事的核心在于我做出了一个错误的判断。我不应该任命曼德尔森……我对此决定负全部责任，并再次向爱泼斯坦的受害者道歉，我的决定显然辜负了他们。”
+自去年9月彭博社披露曼德尔森与已故美国性罪犯爱泼斯坦的密切关系以来，曼德尔森丑闻屡次浮出水面，给首相斯塔默带来政治压力。斯塔默后来解雇了曼德尔森，但随着美国司法部今年1月底公布数百万份与爱泼斯坦相关的文件，更多细节浮出水面。
+斯塔默告诉议会，他直到上周二才得知，外交部违背负责尽职调查的英国安全审查机构的明确建议，批准了曼德尔森的任命。他也说，当时担任内阁秘书的英国最高公务员沃默尔德也未被告知曼德尔森未能通过审查。
+
+              
+72岁的曼德尔森曾在英国前首相布莱尔、布朗执政期间担任商务部长等要职。2025年2月，斯塔默任命他为驻美大使，但他履职仅七个月就因与爱泼斯坦案的关联浮出水面而被解职。（法新社）
+            
+斯塔默说，他已要求负责政府各部门安全标准的机构审查曼德尔森担任英国驻美国大使期间出现的任何安全隐患。
+“我可以告诉议会，我已经更新了安全审查的职权范围，以确保涵盖所有与国家安全审查相关的决策方式。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普：以色列并未说服他攻击伊朗]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8925708</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8925708"/>
+        <updated>2026-04-20T15:00:52.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普说，以色列并未说服他攻击伊朗，似乎是在反驳此前传出以色列总理内坦亚胡影响他作出决定的报道。
+路透社报道，特朗普星期一（4月20日）在Truth Social社媒发文写道：“以色列从未说服我发动对伊朗的战争，10月7日（哈马斯袭击以色列）的结果更加坚定我毕生的观点，即伊朗永远不能拥有核武器。”
+特朗普也说：“如果伊朗的新领导人足够聪明，伊朗就能拥有一个伟大而繁荣的未来！”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The problem with billionaires — and the debut of True Net Worth | Randall Lane]]></title>
+        <id>69e064b9de282b9272c81daa</id>
+        <link href="http://go.ted.com/randalllane"/>
+        <updated>2026-04-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As chief content officer of Forbes, Randall Lane oversees the magazine's signature list of billionaires, tracking the richest people on Earth. But he has noticed that this prompts the ultra-wealthy to stockpile their money instead of spending it on the public good. He debuts a new ranking — True Net Worth — that applauds billionaires for their philanthropy and rewards generosity. Guess who's in the top five?
+Learn more about our flagship conference happening this April at attend.ted.com/podcast
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美媒：特朗普称若谈判有进展 他愿与伊朗领导人会面]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8925498</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8925498"/>
+        <updated>2026-04-20T13:55:49.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普称，若谈判取得突破性进展，他愿同伊朗高级别领导人会面。
+特朗普星期一（4月20日）告诉福克斯新闻称，伊朗核协议将于“今天”在巴基斯坦签署。
+报道也称，美国副总统万斯率领的代表团，将“在数小时内”抵达巴基斯坦首都伊斯兰堡。不过，伊朗尚未确定会否参与。
+特朗普接受彭博社采访时也称，如果美伊未能达成协议，他“几乎不可能”再延长同伊朗的停火。伊朗和美国为期两周的停火将于星期三（22日）到期。
+巴基斯坦外交部星期一发声明说，巴副总理兼外交部长达尔与伊朗外长阿拉格齐通话时，强调美伊双方应尽早、持续开展对话和接触，以解决所有悬而未决的问题，从而促进区域和平与稳定。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以色列黎巴嫩第二轮会谈本周四在华盛顿举行]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8925471</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8925471"/>
+        <updated>2026-04-20T13:52:27.000Z</updated>
+        <summary type="html"><![CDATA[以色列和黎巴嫩的第二轮会谈将于星期四（4月23日）在华盛顿举行。
+据多家以色列媒体星期一（20日）报道，这是以黎为期10天的停火于新加坡时间上星期五（17日）凌晨5时生效以来，两国举行的首次会谈。
+不过，真主党议员法德拉拉星期一接受法新社采访时说：“为了国家利益、黎巴嫩人民的利益、黎巴嫩总统和政府的利益，我们应该放弃直接谈判的道路，重新就黎巴嫩的最佳方案达成全国共识。”
+他说：“我们将拒绝并反对任何企图通过向以色列这个敌人做出让步，来给黎巴嫩强加政治代价的行径。”
+然而，他说，真主党希望“停火协议继续有效”，并希望以色列撤军。
+德黑兰支持的真主党3月2日向以色列发动袭击，促使以黎冲突再次升级，以军更在黎南地区部署地面部队。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩国与印度签多项合作 目标2030年前贸易达500亿美元]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8925448</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8925448"/>
+        <updated>2026-04-20T13:47:48.000Z</updated>
+        <summary type="html"><![CDATA[韩国总统李在明访问印度会见印度总理莫迪，双方商定将在能源和石脑油等关键原材料的稳定供应方面保持合作。
+韩联社报道，李在明星期一（4月20日）说，两国商定新设经济合作机制“产业合作委员会”，进一步深化关键矿产和核电等战略领域合作。双方一致认为，中东地区恢复和平与稳定对于全球安全和经济至关重要，两国有必要为地区和平和全球性问题保持密切合作，共同应对复杂多变的国际形势。
+两国首脑也就双方可成为共促发展的全方位合作伙伴达成共识，并商定加快推进《韩国和印度全面经济伙伴关系协定》（CEPA）升级谈判，争取到2030年将双边贸易额提升至500亿美元（635亿2900万新元）。　　
+《韩印全面经济伙伴关系协定》于2010年生效，当时两国的双边贸易额为171亿美元，而去年已增至257亿美元，这份协定在过程中发挥重要的推动作用。尽管各方一直提出有必要对协定细节进行改善，但升级谈判未能取得进展。
+在造船领域，两国将韩企的技术实力和印度的政策支援相结合，为韩企在印度造船市场创造机遇。韩国也将在印度设立“孟买韩国中心”，打造文化交流合作平台。
+与此同时，韩国海洋水产部和印度港口、航运和水道部签署港口合作谅解备忘录，为开发港口基础设施打造合作机制。韩国中小风险企业部和印度中小微企业部也签署《中小企业合作谅解备忘录》。另外，两国还在科技、文创、体育、气候、金融等领域签署了合作协议。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德黑兰称暂无谈判计划 誓报复美军扣押伊商船]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8925284</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8925284"/>
+        <updated>2026-04-20T13:40:37.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿/德黑兰综合电）美军在波斯湾扣押一艘伊朗货船后，德黑兰誓言报复美方的“海盗行径”，使美伊达成止战协议的希望趋于黯淡。伊朗表明，暂无与美国进行新一轮谈判的计划，但未把话说死。有分析认为，美伊双方可能在刻意升级紧张局势，为可能于本周在巴基斯坦举行的第二轮谈判创造外交空间。 
+伊朗外交部发言人巴加埃周一（4月20日）说，伊朗目前没有与美国进行第二轮谈判的计划。他称，伊朗将优先考虑自身国家利益，再为是否继续进行谈判作出适当决定。
+美国总统特朗普星期天（19日）宣布，美方代表团周二将在巴基斯坦首都伊斯兰堡，与伊朗举行第二轮谈判。他称这是伊朗的最后机会，如果无法达成协议，美国将摧毁伊朗所有发电厂和桥梁。
+巴加埃质疑美方并非认真想要寻求外交解决方案，称美国违反黎巴嫩停火协议、封锁伊朗海上航线，以及袭击伊朗商船等行为，显然符合联合国定义的侵略行为。他警告：“如果美国和以色列胆敢冒险，伊朗将全力反击。”
+巴加埃也强调，从伊朗移除浓缩铀从来都不是谈判选项。
+美国中央司令部周一在社交媒体X平台发布的视频截图显示，美国海军陆战队员星期天（4月19日）乘直升机登上并扣押了悬挂伊朗国旗的货船Touska号。（法新社）
+            
+特朗普星期天晚些时候在社交媒体上说，美军导弹驱逐舰斯普鲁恩斯号（USS Spruance）当天在阿曼湾，武力拦截并控制了试图突破美军海上封锁的伊朗货船Touska号。
+特朗普说，这艘货船长近900英尺（274米），重量相当于一艘航空母舰，因曾参与非法活动而遭到美国财政部制裁。
+根据美军中央司令部的声明，Touska号星期天穿越阿拉伯海北部前往伊朗阿巴斯港，违反了美军的海上封锁。美军在六小时内多次发出警告无果后，向货船机舱发射数枚炮弹，摧毁它的推进系统。美军士兵过后登船，并把它扣押。
+这是美伊战争爆发以来，美军首次攻击伊朗非军用船，也是美军对伊朗港口实施海上封锁以来，扣押的第一艘伊朗货船。
+伊朗军方说，事发时Touska号是从中国开往伊朗。伊朗军方指责美国此举是“武装海盗”行径，并誓言将很快予以报复。据伊朗媒体报道，货船被扣押后，伊朗向美国军舰发射了多架无人机。
+伊朗伊斯兰革命卫队警告，任何未经批准试图穿越霍尔木兹海峡的船只将被视为“与敌人合作”，并成为攻击目标。
+由于市场越来越担心美伊停火将无法维持，导致油气价格周一飙升。布伦特原油价格一度上涨7.9%，欧洲天然气价格上涨11%。
+但分析员认为，尽管霍尔木兹海峡局势动荡，伊朗到巴基斯坦参加第二轮谈判的可能性相当大。中东全球事务委员会非常驻研究员穆哈纳迪告诉美国有线电视新闻网（CNN）：“除了战争之外，谈判是他们（伊朗）仅有的选项。我认为伊朗希望谈判，但他们在谈判条件上显然仍与美国存在分歧。”
+
+分析：刻意升级对峙 为第二轮谈判铺垫
+
+CNN分析指出，美伊虽言辞强硬，但都有充分理由避免重燃战火；双方可能是刻意升级局势，为新一轮谈判创造外交空间。
+伊朗议会国家安全和外交政策委员会主席阿齐兹星期天接受半岛电视台采访时说，伊方会否派谈判代表团前往伊斯兰堡，取决于伊朗能否从美方收到积极信号。
+伊朗总统佩泽希齐扬同日称，战争不符合任何人的利益，应该用一切理性外交途径缓和紧张局势。他说，伊朗须尽快结束战争，以便集中精力展开更重要的重建任务。
+但佩泽希齐扬也称：“我们对敌人保持不信任，有必要在互动中保持警惕。”
+据悉，巴基斯坦已加强与美伊的外交接触，以促成第二轮谈判。巴基斯坦内政部长纳克维周一告诉伊朗驻巴大使穆加达姆，伊斯兰堡已完成举行谈判的准备工作。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[划定拉腊克走廊掐海峡咽喉 伊朗：不再有“免费安全”通航]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8922823</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8922823"/>
+        <updated>2026-04-20T12:49:55.000Z</updated>
+        <summary type="html"><![CDATA[（德黑兰／莫斯科综合电） 伊朗正进一步加强对霍尔木兹海峡的掌控，不仅单方面划定新航线，规定过境船只必须获伊方海军许可，还推动制定新国内法，拟禁止与以色列相关的船只通行，并对敌对国家船只设置通行条件。 
+伊朗伊斯兰革命卫队海军已在霍尔木兹岛（Hormuz Island）以南至拉腊克岛（Larak Island）以南水域划定一条名为“拉腊克走廊”（Larak Corridor）的新航线。伊朗媒体报道，革命卫队海军规定，所有船只必须获得许可，才能进入这条走廊。
+
+              
+
+推动立法严控敌对国家船只
+
+伊朗议员库奇星期天（4月19日）透露，德黑兰已起草一项规范霍尔木兹海峡通行秩序的综合性法律。根据草案，与以色列有关的货物和船只不得通过；敌对国家船只必须获得伊朗最高国家安全委员会批准；曾对伊朗造成损失的国家，在完成赔偿前，船只不得通行。
+针对西方国家的制裁，伊朗第一副总统阿雷夫星期一（20日）表明，一些国家限制伊朗石油出口，却想继续在海峡“免费安全”通航，这种情况不可持续。他说，全球燃料价格的稳定，取决于针对伊朗及其盟友的经济与军事压力是否永久终结。 
+伊朗驻莫斯科大使贾拉利则说，在新的法律框架下，伊朗将确保航行安全。
+德黑兰大学研究员伊斯兰米（Mohammad Eslami）指出，伊朗战后的首要任务是恢复威慑力，而霍尔木兹海峡是伊朗的主要战略筹码之一；德黑兰愿意讨论其他国家如何从伊朗为海峡制定的新框架中受益，底线是海峡航运由伊朗掌控。
+尽管航运限制引发争议，但部分国家已开始与伊朗接洽。全球航运情报媒体《劳氏日报》（Lloyd's List）主编米德（Richard Meade）上周四（16日）透露，包括中国、印度、巴基斯坦、伊拉克和马来西亚在内的多个政府，正与德黑兰直接对话协调通行。
+米德补充称，至少已有九艘船使用这条由伊朗批准的“安全走廊”；路线贴近拉腊克岛，便于伊朗当局目视检查。
+
+邻国斥“海盗行为” 忧立下危险先例
+
+伊朗寻求控制海峡通行的设想已引发部分邻国反对。
+阿拉伯联合酋长国总统外交顾问加尔加什警告，控制国际水域的做法属于“敌对海盗行为”，可能为全球其他战略水道树立危险先例。
+目前，除阿曼曾参与讨论协调外，多数波斯湾国家认为区域合作的愿景已受挫。
+伊朗内部对霍尔木兹海峡的政策主张也非铁板一块。伊朗外交部长阿拉格齐上周五（17日）曾称海峡“完全开放”，但随即遭到亲革命卫队媒体的抨击，指阿拉格齐的表态是在为美国总统特朗普宣称战争胜利“提供最佳机会”。
+这次局势变化也与美伊海上对峙密切相关。美军自本月13日起封锁进出伊朗港口的船只，并称已切断伊朗海上进出口贸易。伊朗随后于上周五宣布对商船开放海峡通行，但美方没有解除封锁，伊朗隔天（18日）恢复对海峡通行的控制。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奥地利无轨电车偏离道路撞入超市 造成一死七伤]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8925216</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8925216"/>
+        <updated>2026-04-20T12:49:24.000Z</updated>
+        <summary type="html"><![CDATA[奥地利一辆无轨电车在萨尔茨堡偏离道路后撞入一家超市，造成一人死亡，七人受伤。
+法新社报道，红十字会发言人星期一（4月20日）说：“尽管进行了抢救，但仍有一人不幸身亡。”
+发言人说，伤者已被送往医院，其中两人伤势严重。救援队伍已被派往现场。
+当局尚未公布这起发生在萨尔茨堡北部十字路口的事故的具体情况。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以士兵斧头砸坏耶稣雕像 内坦亚胡严厉谴责]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8925071</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8925071"/>
+        <updated>2026-04-20T12:19:40.000Z</updated>
+        <summary type="html"><![CDATA[以色列总理内坦亚胡、外交部长和军方谴责一名以色列士兵在黎巴嫩南部一个基督徒聚居村庄砸毁十字架和耶稣雕像。
+路透社报道，上周末在网上流传的一张照片显示，一名士兵用斧头击打一座倒地的耶稣雕像。这张照片由自称巴勒斯坦记者的蒂拉维发布，他此前曾发布过以军在加沙涉嫌不当行为的图片。
+路透社证实，照片拍摄地点位于黎巴嫩南部德贝尔村，村子是少数几个在以色列针对真主党的军事行动期间仍有居民留守的村庄之一。
+德贝尔村的一名神父法尔费尔说，照片里的十字架属于村边一户人家花园中的小型宗教圣坛。“一名以色列士兵砸碎了十字架，做出了这种对我们神圣象征的亵渎行为。”
+内坦亚胡在社媒平台谴责说，这名士兵的行为违背犹太人的宽容价值观，他对此感到震惊和悲痛，并强调这名士兵将受到惩罚。
+美国驻以色列大使赫卡比在社媒发文说：“必须迅速、严厉地公开追究责任。”
+以色列外交部长萨尔也说，这名士兵的行为令人不齿，可耻至极。“我们为这起事件以及所有受到伤害的基督徒道歉。”
+以色列军方则表明正进行调查，并称相关行为“与军队价值观完全不符”，同时正协助修复受损雕像。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普政府正式启动关税退款程序]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8924520</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8924520"/>
+        <updated>2026-04-20T12:10:44.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿综合电）美国特朗普政府启动违法关税退款程序，开始向进口商退还已缴关税和利息。
+美国最高法院2月20日裁决，总统特朗普根据《国际紧急经济权力法》（IEEPA）实施全球范围内关税，属于越权行为。
+相关退税工作及申报系统（CAPE）定于美东时间周一（4月20日）正式启动，计划返还高达1660亿美元（约2110亿新元）的违法关税。
+负责管理这个系统的美国海关与边境保护局说，进口商及经纪人可从周一上午8时开始，通过在线网站申请退款；如果索赔获得批准，退款会在60至90天内发放。
+数据显示，截至4月9日，有退税资格的进口商中，仅约5万6500家完成提交申请所需的电子支付注册，含利息的退税总额达1270亿美元。
+然而，并非所有这些进口商都符合退税系统第一阶段的退税标准，因为这个阶段仅处理关税已估算但尚未最终确定、或自收到最终结算单之日起80天内的报关单。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[燃料短缺危机：孟加拉网络面临瘫痪]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8924998</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8924998"/>
+        <updated>2026-04-20T12:07:06.000Z</updated>
+        <summary type="html"><![CDATA[孟加拉国网络运营商指出，如果中东战争引发的燃料短缺问题得不到迅速缓解，当地将面临大范围的移动电话网络瘫痪。
+法新社报道，孟加拉国移动通信运营商协会（AMTOB）星期一（4月20日）说，如果没有维持包括数据中心在内的各项运营所需的燃料，电信业务将无法继续运作。
+协会在致孟加拉国电信监管委员会（BTRC）的一封信中写道：“情况已经恶化到无法控制的地步。如果这种情况持续下去，大部分地区将面临大规模电信网络瘫痪的风险。”
+协会指出，相关影响已经开始显现。“由于长期缺乏商业电力供应以及备用系统燃料供应不足，移动网络运营商（MNO）正面临严重的运营困境。”
+协会秘书长祖尔菲卡尔说，数据中心的关闭将对整个网络产生连锁反应。“部分或全部网络瘫痪可能导致通话、互联网、短信以及所有其他服务停止或造成严重中断。”
+他也说：“互联网速度可能会变得极其缓慢，甚至完全瘫痪，因为数据中心是流量路由和控制的指挥中心。”
+每个数据中心每小时消耗约500至600升柴油，相当于每个数据中心每天消耗近4000升，但当地加油站无法满足这一需求。
+这个拥有1亿7000万人口的南亚国家，95%的石油和天然气依赖进口，大部分来自中东。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本将海啸警报降级为预警 地震震级上调为7.7级]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8924980</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8924980"/>
+        <updated>2026-04-20T12:02:19.000Z</updated>
+        <summary type="html"><![CDATA[（东京综合电）日本东北部沿海地区周一发生7.7级强烈地震，距离震中数百公里的东京高楼也随之晃动，促使当局发布第二级海啸警报，但随后降低到最低级别预警。
+国际原子能机构（IAEA）表示，日本核设施未发现任何异常情况。日本东北电力公司称，位于宫城县石卷市和女川町的女川核电站未出现异常。日本东京电力公司称，位于福岛县的福岛第一核电站、福岛第二核电站未发现异常，核电站周边辐射量监测站数值没有变化。
+日本气象厅称，强震于星期一（4月20日）下午4时53分（新加坡时间下午3时53分）发生，约40分钟后，岩手县久慈市的一个港口出现浪高达80厘米的海啸。
+不过，当局称尚未接到严重伤亡或重大财产损失报告，并在当天晚些时候下调海啸警报至预警。官员重申，未来一周岩手县地区可能发生余震，并且可能引发更强烈的晃动。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[朝鲜再射“火星炮-11”导弹 展示集束弹与“空中布雷”实战能力]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8924034</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8924034"/>
+        <updated>2026-04-20T11:59:52.000Z</updated>
+        <summary type="html"><![CDATA[朝鲜试射搭载集束弹头及“空中地雷”散布战斗部的近程弹道导弹（SRBM），并强调相关武器的实战运用能力。这是继本月6日至8日进行类似试验后，朝方在短时间内再次实施同类武器试射。
+分析认为，继无人机之后，朝鲜正加快发展在中东及乌克兰战场被验证具有效用的“不对称作战”能力，并通过在同一导弹平台上实现多类型弹头搭载，提升对韩美的综合威胁水平。
+朝中社周一（4月20日）报道，朝鲜导弹总局于前一天对改良型地对地战术弹道导弹“火星炮-11丁”型战斗部进行了威力评估试射。朝鲜领导人金正恩携女儿金珠爱到场视察。
+朝方称，此次试射旨在验证集束弹头及碎片地雷战斗部的性能与威力。试验中，五枚导弹以约136公里外的岛屿为目标，在约12.5至13公顷范围内实施高密度覆盖打击，覆盖面积相当于约17至18个足球场。朝鲜同时公开了导弹自海岸防波堤附近发射并命中岛屿目标的画面。
+
+              
+朝中社周一（4月20日）发布的照片显示，朝鲜领导人金正恩（中）携女儿金珠爱（左一）到场视察近程弹道导弹试射。（路透社）
+            
+金正恩说：“我们今天掌握并更新的技术与数据，充分证明组建导弹战斗部专门研究团队并投入五年时间所取得的成果并非徒劳。”
+专家指出，“火星炮-11丁”是在被称为“朝鲜版伊斯坎德尔”的KN-23基础上缩小尺寸的改进型号，最大射程约130公里。若部署于前沿地区，可将韩国首尔及京畿道主要军事设施，包括乌山韩美空军基地等纳入打击范围。
+此外，朝鲜此前宣布，将在平壤美林机场向部队交付250台可搭载“火星炮-11”系列导弹的移动式发射车（TEL），并部署至前线。按每台配备四个发射管计算，理论上可在短时间内实现约1000枚导弹的齐射能力。朝方还称，该系统可搭载包括集束弹在内的多种弹头。
+分析认为，碎片地雷战斗部具备“空中布雷”能力，可在目标区域散布大量地雷，在一定时间内阻断道路、机场等关键设施，对韩美联军机动与后勤保障形成制约。
+外界认为，朝鲜正同步推进核与常规作战能力建设，并可能优先将相关武器部署至前线部队。
+韩国政府表示正密切关注相关动向。韩军强调，朝鲜发射弹道导弹的行为明显违反联合国安理会决议，敦促朝鲜停止加剧半岛紧张局势的军事行动，并呼吁回归对话。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本：发生8.0级或以上强震的风险上升]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8924904</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8924904"/>
+        <updated>2026-04-20T11:47:24.000Z</updated>
+        <summary type="html"><![CDATA[日本发布特别警告称，在日本北部发生强烈地震并引发海啸预警后，发生8.0级或以上强震的风险上升。
+法新社报道，日本气象厅星期一（4月20日）发声明说：“再次发生巨大地震的可能较平时更高。”
+星期一的地震最初估计为7.4级，随后上调至7.5级，最终修正为7.7级。地震于当地时间下午4时53分（新加坡时间下午3时53分）发生在岩手县北部近海的太平洋海域。
+内阁秘书长木原稔在记者会上说，目前尚无严重伤亡或重大损失的报告。
+一名内阁府官员在另一场电视简报会上说：“虽然尚不确定是否会再次发生大地震，但我们呼吁大家以‘自身安全由自己负责’为原则，做好防灾准备。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以军坚持进驻黎南边境 促当地居民暂勿返乡]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8924094</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8924094"/>
+        <updated>2026-04-20T10:31:20.000Z</updated>
+        <summary type="html"><![CDATA[（耶路撒冷综合电）由于黎巴嫩真主党持续活动，以色列军方表明将继续驻守在黎南阵地，并敦促黎南地区居民在停火期间暂勿返回边境村庄。
+以军发言人阿德拉伊周一（4月20日）发布声明，列出数十个黎南边境村庄，要求当地居民在以黎停火期间不要越过安全防线，也不要靠近利塔尼河沿岸地区，直至另行通知。
+以军表明，以黎虽已达成停火协议，但军方接获指示，对黎境内威胁进行全力打击，并誓言要将真主党武装分子在黎南的住房夷为平地。
+以军周一还说，前一晚在黎南“前沿防线”以北的卡拉维耶地区（Qalaouiyah），打击一处真主党火箭弹发射架。
+以色列国防部长卡茨早前表明，以军会夷平所有黎巴嫩边境村庄，仅保留几个基督徒社区。
+然而社媒流传的一张照片显示，一名疑似以军士兵在黎南边境的德布尔村（Debl）用大锤击打一座耶稣雕像的头部。
+以军周一证实，照片上的确是以军成员，以军对此高度重视，并强调这名士兵的行为“完全不符合部队所期望的价值观”，军方正在处理这起事件，会对涉事人员采取适当措施。
+以色列外交部长萨尔批评这名士兵的行为是“可耻行径”。他在X平台发文说：“以色列尊重不同宗教及其神圣象征，倡导宗教间宽容与尊敬。我们就这起事件并对所有受到伤害的基督徒表示歉意。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄希望美伊谈判继续 必要时可充当调解方]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8924408</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8924408"/>
+        <updated>2026-04-20T10:19:29.000Z</updated>
+        <summary type="html"><![CDATA[克里姆林宫说，希望美国和伊朗之间的和平谈判能够继续进行，以避免对该地区和全球经济造成负面影响。
+路透社报道，克里姆林宫发言人佩斯科夫星期一（4月20日）说：“我们看到海湾地区的局势依然脆弱且难以预测。我们希望谈判进程能够继续，并避免局势进一步升级，最终演变为军事冲突。”
+他说，俄罗斯目前并未在伊朗问题谈判中担任调解人，但随时准备在接到请求时提供帮助，以促进和平解决问题并达成协议。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oceanside Pier]]></title>
         <id>1x-3551634</id>
@@ -5900,47 +6584,12 @@ Learn more about our flagship conference happening this April at attend.ted.com
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sunday Pick: 20th Anniversary celebration with renowned poets Eileen Myles, Elizabeth Alexander, Sarah Kay, and Amber Tamblyn | from Design Matters]]></title>
-        <id>69bc0de8007cdcf83f662f94</id>
-        <link href="https://audiocollective.ted.com/"/>
-        <updated>2026-03-22T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For the 20th anniversary of Design Matters, Debbie Millman revisits conversations with renowned poets Eileen Myles, Elizabeth Alexander, Sarah Kay, and Amber Tamblyn. These excerpts reflect on language, identity, memory, and the lived experience that fuels their work. Together, they reveal poetry as an intimate practice that resonates beyond the page.
-Learn more about our flagship conference happening this April at attend.ted.com/podcast
-
- Hosted on Acast. See acast.com/privacy for more information.]]></summary>
-        <author>
-            <name>TED Talks Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to tune your inner voice | Rhonda Ross, Daniel Alexander Jones]]></title>
-        <id>69bc0d863bbfcfe8db024fa9</id>
-        <link href="http://go.ted.com/rhondaross"/>
-        <updated>2026-03-21T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To calm the storm inside your mind, you must first understand it. Singer and actress Rhonda Ross shares her theory of "emotional sovereignty" — the idea that your feelings aren't shaped just by your circumstances, but by the thoughts running on loop in your head. In conversation with scholar and TED Fellow Daniel Alexander Jones, Ross introduces the unexpected, music-rooted practice for taking control of your narrative.
-Learn more about our flagship conference happening this April at attend.ted.com/podcast
-
- Hosted on Acast. See acast.com/privacy for more information.]]></summary>
-        <author>
-            <name>TED Talks Daily</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[禁用这个功能！Windows 10/11 秒变流畅，彻底告别卡顿臃肿，老旧电脑也能起飞！ | 零度解说]]></title>
         <id>https://www.youtube.com/watch?v=pw5DYaj65xo</id>
         <link href="https://www.youtube.com/watch?v=pw5DYaj65xo"/>
         <updated>2026-03-21T11:31:58.000Z</updated>
         <author>
             <name>零度解说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我用了上百個AI工具，只有這17個值得每天打開，很多還免費，日常寫作、圖像創作、語音轉文字、效率提升]]></title>
-        <id>https://www.youtube.com/watch?v=vQPr1tKHE7Y</id>
-        <link href="https://www.youtube.com/watch?v=vQPr1tKHE7Y"/>
-        <updated>2026-03-20T12:12:51.000Z</updated>
-        <author>
-            <name>七七行銷筆記</name>
         </author>
     </entry>
 </feed>
