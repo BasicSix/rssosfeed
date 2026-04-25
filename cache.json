@@ -6,6 +6,56 @@
       "siteUrl": "https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FIBfRo-rHBo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FIBfRo-rHBo",
+          "publishedOn": "2026-04-24T12:30:29.000Z",
+          "wordCount": null,
+          "title": "终于来了！DeepSeek-V4 正式发布！免费开源，百万上下文，Agent能力直逼Claude！| 零度解说",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6jHvEa_aHtY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6jHvEa_aHtY",
+          "publishedOn": "2026-04-22T12:40:19.000Z",
+          "wordCount": null,
+          "title": "ChatGPT Images 2.0 正式发布！免费可用，OpenAI 最强图片模型！效果到底有多强？| 零度解说",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GGRBB716bP4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GGRBB716bP4",
+          "publishedOn": "2026-04-20T12:30:20.000Z",
+          "wordCount": null,
+          "title": "轻舟VPN不限流量！实测速度有多快？附免费激活码（限量领取）支持全平台！| 零度解说",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=77dNa9uscTM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=77dNa9uscTM",
+          "publishedOn": "2026-04-18T12:15:01.000Z",
+          "wordCount": null,
+          "title": "Google 把 AI 搜索塞进 Windows！完全免费，比传统搜索强太多了（实测体验）| 零度解说",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vsm1oVl_pzE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vsm1oVl_pzE",
+          "publishedOn": "2026-04-17T12:15:09.000Z",
+          "wordCount": null,
+          "title": "5分钟搭建AI助手！自动接单+自动回复，小白也能用（无需代码）｜Hostinger｜零度解说",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0dztupxdseE",
           "author": null,
           "description": "",
@@ -124,36 +174,6 @@
           "wordCount": null,
           "title": "OpenClaw 爆了！黄仁勋一句话点破关键，英伟达紧急发布 NemoClaw｜零度解说",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vccu7RsPgfY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vccu7RsPgfY",
-          "publishedOn": "2026-03-25T12:09:18.000Z",
-          "wordCount": null,
-          "title": "NAS 部署 OpenClaw 太简单了！一篇搞定所有配置，实测100%成功（保姆级教程）| 零度解说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ICJfRlLLft4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ICJfRlLLft4",
-          "publishedOn": "2026-03-23T11:59:58.000Z",
-          "wordCount": null,
-          "title": "Chrome / Edge 越用越卡？关闭这7个隐藏设置，速度直接翻倍！（2026实测）| 零度解说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pw5DYaj65xo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pw5DYaj65xo",
-          "publishedOn": "2026-03-21T11:31:58.000Z",
-          "wordCount": null,
-          "title": "禁用这个功能！Windows 10/11 秒变流畅，彻底告别卡顿臃肿，老旧电脑也能起飞！ | 零度解说",
-          "imageUrl": null
         }
       ]
     },
@@ -162,6 +182,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCo2eY8Nk3lPOh6sef1sQx_Q",
       "siteUrl": "https://www.youtube.com/channel/UCo2eY8Nk3lPOh6sef1sQx_Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=0u66hSXFEoI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0u66hSXFEoI",
+          "publishedOn": "2026-04-24T02:46:15.000Z",
+          "wordCount": null,
+          "title": "ChatGPT Image2.0炸裂登場，15個賺錢案例，電商產品圖、自媒體圖文、設計接案、網站落地頁、UI設計..小白也能輕鬆上手",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=9WL8HOrMH2s",
           "author": null,
@@ -209,6 +239,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCefuY8ao6vYFRqbTNcuj3aA",
       "siteUrl": "https://www.youtube.com/channel/UCefuY8ao6vYFRqbTNcuj3aA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/XweTRQE45Qw",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/XweTRQE45Qw",
+          "publishedOn": "2026-04-23T12:10:03.000Z",
+          "wordCount": 2190,
+          "title": "【免费插件】2分钟吾辈白嫖豆包无水印图 | Get Doubao No-Watermark Images in 2 Minutes Free✨",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/rwkZxPJ9Whk",
           "author": null,
@@ -367,6 +407,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCo0LN_BATQbaz8GfazzScvA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SlrVNvTtP7k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SlrVNvTtP7k",
+          "publishedOn": "2026-04-20T09:30:30.000Z",
+          "wordCount": null,
+          "title": "一定要使用的 Windows 性能提升工具 英中翻译表 小白也能看懂 | GitHub 五萬星標系統優化應用  | 小琳解说",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZeIz0U21_Qc",
           "author": null,
           "description": "",
@@ -374,16 +424,6 @@
           "publishedOn": "2026-04-01T11:30:16.000Z",
           "wordCount": null,
           "title": "免费eu.cc域名 喂饭教程  6分钟搞定 注册只需一个邮箱 支持托管Cloudflare  搭建代理节点等项目  #cloudflare |小琳解说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sH8KCLGnIOk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sH8KCLGnIOk",
-          "publishedOn": "2026-03-25T10:01:16.000Z",
-          "wordCount": null,
-          "title": "cloudflare代理节点优选IP扫描测速软件 安卓版发布 程序小巧 使用简单 |小琳解说",
           "imageUrl": null
         }
       ]
@@ -450,6 +490,246 @@
       "feedUrl": "https://basicsix-my-rsshub-hq.hf.space/zaobao/realtime/world",
       "siteUrl": "https://www.zaobao.com/realtime/world",
       "articles": [
+        {
+          "id": "https://www.zaobao.com/news/world/story20260425-8950655",
+          "author": null,
+          "description": "美国国务院确认，美国在英国与阿根廷长期存在争议的福克兰群岛主权问题上持中立立场。 \n法新社报道，美国国务院发言人星期五（4月24日）说：“我们对福克兰群岛主权的立场始终保持中立。我们承认阿根廷和英国对此群岛存在相互冲突的主权主张。”\n他也补充说，美国承认英国实际上拥有福克兰群岛的管辖权，但不在主权问题上选边站。\n路透社报道，美国五角大楼在一封内部邮件中建议，重新审视美国对福克兰群岛主权的立场，以此惩罚英国对伊朗战争的立场。\n英国首相斯塔默的发言人24日说，福克兰群岛的主权属于英国，并“向美国历届政府明确且始终如一地”表达这一立场。\n福克兰群岛（阿根廷称马尔维纳斯群岛）目前由英国实际管辖和控制，属于英国海外领土，享有自治权。但阿根廷长期声称拥有福克兰群岛的主权。\n1982年，阿根廷试图攻占福克兰群岛但未成功，英国和阿根廷爆发了一场短暂的战争，约650名阿根廷军人和255名英国军人阵亡。",
+          "link": "https://www.zaobao.com/news/world/story20260425-8950655",
+          "publishedOn": "2026-04-25T02:17:07.000Z",
+          "wordCount": 635,
+          "title": "美国确认对福克兰群岛主权问题保持中立",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/4920dff58450267d34f37b64cb5be94487156c1b3393f873c9a2523a9cecd12e"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260425-8950447",
+          "author": null,
+          "description": "英国首相斯塔默的发言人说，福克兰群岛的主权属于英国，并向历届美国政府明确表达这一立场。\n路透社报道，美国五角大楼在一封内部邮件中建议，重新审视美国对福克兰群岛主权的立场，以此惩罚英国对伊朗战争的立场。\n福克兰群岛（阿根廷称马尔维纳斯群岛）目前由英国实际管辖和控制，属于英国海外领土，享有自治权。但阿根廷长期声称拥有福克兰群岛的主权。\n斯塔默的发言人星期五（4月24日）对媒体说：“英国对福克兰群岛的立场再清楚不过。我们的立场由来已久，从未改变。”\n发言人说：“主权归英国所有，岛民自决权至关重要。这是我们的一贯立场，没有改变。”他还补充说，英国“向美国历届政府明确且始终如一地”表达这一立场。\n特朗普政府认为一些北约盟友未支持美国的伊朗战争行动，五角大楼在电邮中概述了美国惩罚这些北约盟友的选项，包括考虑重新评估美国对欧洲长期“帝国属地”的外交支持，例如位于阿根廷附近的福克兰群岛。\n当被问及斯塔默是否认为这是美国试图向他施压，迫使他加入伊朗战争，发言人说：“斯塔默已谈过这个问题，也说过这种压力不会影响他，他将永远以国家利益为重。”\n阿根廷外交部长基尔诺就相关报道作出回应，重申阿根廷愿与英国重启双边谈判，以寻求“和平且最终的解决方案”。\n基尔诺将福克兰群岛目前的状况描述为“殖民状态”，并对国际社会支持阿根廷的主权声索表示感谢。\n基尔诺在X平台说：“无论从历史、权利还是信念来看，马尔维纳斯群岛都是属于阿根廷的。”\n1982年，阿根廷试图攻占福克兰群岛但未成功，英国和阿根廷爆发了一场短暂的战争，约650名阿根廷军人和255名英国军人阵亡。",
+          "link": "https://www.zaobao.com/news/world/story20260425-8950447",
+          "publishedOn": "2026-04-25T01:30:41.000Z",
+          "wordCount": 635,
+          "title": "英国向美国表明 福克兰群岛主权属于英国",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/3da79d5e1893f5f2a681faf26d8f4a74c037b0336d4190173f69ff1cac71251b"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260425-8950348",
+          "author": null,
+          "description": "伊朗伊斯兰议会否认议长卡利巴夫辞去伊美谈判伊方代表团团长职务。\n伊朗伊斯兰共和国通讯社报道，伊朗议会媒体办公室负责人星期五（4月24日）说：“流传的谣言只是为了扰乱公众视听，卡利巴夫正认真履职。”\n伊朗外交部长阿拉格齐24日晚抵达巴基斯坦首都伊斯兰堡，开始对巴基斯坦、阿曼、俄罗斯三国的访问行程。美国白宫同一天确认，特朗普总统的特使威特科夫和女婿库什纳25日启程赴巴基斯坦，听取伊方提案。而伊朗外交部发言人25日凌晨在X平台说，伊美双方没有计划在巴基斯坦会晤，伊朗将通过巴基斯坦官员传达立场。",
+          "link": "https://www.zaobao.com/news/world/story20260425-8950348",
+          "publishedOn": "2026-04-25T00:21:12.000Z",
+          "wordCount": 621,
+          "title": "伊朗议会否认卡利巴夫辞去谈判代表团团长职务",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/fadeb3f2d57257340ab52de693af3f72a3b3f7cc7fda9b87feb52dc9f29eaa57"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260425-8950322",
+          "author": null,
+          "description": "伊朗伊斯兰议会国家安全和外交政策委员会主席阿齐兹说，伊朗外交部长阿拉格齐访问巴基斯坦仅为讨论双边关系，并未获授权处理任何与核谈判相关事宜。\n新华社报道，阿齐兹星期六（4月25日）凌晨在社交媒体发文说，核问题仍是伊朗坚守的红线之一。\n伊朗外交部发言人巴加埃稍早时候说，阿拉格齐访巴期间，将同巴方高级官员围绕巴方为结束美国和以色列强加于伊朗的战争、在本地区实现和平的斡旋努力进行磋商，没有与美方会晤的计划，将经由巴方向美方转达伊方的意见和考量。\n阿拉格齐24日晚抵达巴基斯坦首都伊斯兰堡，开始对巴基斯坦、阿曼、俄罗斯三国的访问行程。\n美国白宫同一天确认，特朗普总统的特使威特科夫和女婿库什纳25日启程赴巴基斯坦，听取伊方提案。白宫新闻秘书莱维特说，美国首席谈判代表、副总统万斯“处于待命状态，如有必要，他愿意前往巴基斯坦。”",
+          "link": "https://www.zaobao.com/news/world/story20260425-8950322",
+          "publishedOn": "2026-04-25T00:07:54.000Z",
+          "wordCount": 622,
+          "title": "伊朗议会要员：核问题是伊朗红线 外长访巴不涉核谈",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/91f0a18456e0c3d22718c04114deb4476201c0c79d15f6ef12c5a5df358a34c1"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260425-8950313",
+          "author": null,
+          "description": "在美国谈判代表准备前往巴基斯坦与伊朗官员举行谈判之际，美国参议院军事委员会主席呼吁总统特朗普恢复对伊朗的进攻性打击。\n《纽约时报》报道，共和党籍的美国参议院军事委员会主席威克（Roger Wicker）星期五（4月24日）发表声明说：“与伊朗政权谈判的时代已经结束了。”\n他说：“哈梅内伊的激进继承者们永远不能信任，他们不会遵守任何承诺或协议。我们的三军统帅应该指示他麾下训练有素的军事将领们，彻底摧毁伊朗的常规军事能力，并清除伊朗核计划的最后残余。”\n哈梅内伊为伊朗前最高领袖，在美国和以色列2月28日大规模空袭伊朗首日丧命。现任伊朗最高领袖穆杰塔巴为哈梅内伊的次子。 \n美国白宫24日说，特朗普总统的女婿库什纳和特使威特科夫25日前往巴基斯坦，听取伊方提案。伊朗外交部长阿拉格齐已抵达巴基斯坦首都伊斯兰堡。但伊朗外交部发言人25日凌晨在X平台说，伊朗和美国没有计划在巴基斯坦会晤，伊朗将通过巴基斯坦官员传达立场。",
+          "link": "https://www.zaobao.com/news/world/story20260425-8950313",
+          "publishedOn": "2026-04-24T23:52:19.000Z",
+          "wordCount": 621,
+          "title": "美参院军委会主席呼吁特朗普恢复打击伊朗",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/1dcf8db52ba0fbb653741d33115f396b571690757c732bb2fa9442eae280e493"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260425-8950249",
+          "author": null,
+          "description": "美国司法部决定停止对联邦储备局翻新工程超支的刑事调查，这可能为美国总统特朗普提名的美联储新主席人选接管美联储扫除障碍。\n彭博社报道，美国哥伦比亚特区联邦检察官皮罗星期五（4月24日）说，鉴于美联储预计将就办公楼翻新项目超支问题进行内部调查，她已指示哥伦比亚特区联邦检察官办公室结束对美联储大楼翻新项目的刑事调查。\n美联储主席鲍威尔此前表明，在司法部“以透明和最终确定方式”完成对美联储大楼翻新工程超支的调查之前，他将继续留在美联储。目前尚不清楚皮罗将调查移交美联储监察长办公室的做法是否符合鲍威尔的标准。\n媒体分析，美国司法部结束针对鲍威尔的相关刑事调查，将为特朗普提名的美联储下一任主席人选沃什获得参议院批准铺平道路。\n皮罗24日说，如果事实证明有必要，她“将毫不犹豫地重启刑事调查”。\n白宫发言人德赛同日在社交媒体上说，美国纳税人有权知道美联储是否存在财务管理不善问题，美联储监察长办公室有足够权力将此事调查清楚。白宫坚信参议院将快速批准沃什出任美联储下一任主席，从而重塑美联储决策的专业能力与市场信心。\n美国司法部1月9日向美联储发出两张传票，威胁对鲍威尔2025年6月在参议院银行委员会就美联储大楼翻新项目作证一事提起刑事诉讼。 \n鲍威尔1月11日发表视频声明，称联邦政府对他提出刑事指控威胁是企图借此破坏美联储在设定利率方面的“独立性”。哥伦比亚特区联邦地区法院法官3月11日驳回了上述两张传票。 \n鲍威尔在美联储例行新闻发布会上说，在司法部针对美联储的调查以透明方式结束前，自己无意离开美联储。\n鲍威尔的美联储主席任期将于5月15日到期。但沃什能否及时获得参议院批准仍面临较大不确定性。共和党籍参议院银行、住房和城市事务委员会成员蒂利斯握有关键一票。蒂利斯日前重申，在针对鲍威尔的相关调查解决前，他不会支持确认对沃什的提名。",
+          "link": "https://www.zaobao.com/news/world/story20260425-8950249",
+          "publishedOn": "2026-04-24T23:40:23.000Z",
+          "wordCount": 639,
+          "title": "美司法部停止美联储调查 或为沃什提名获批扫除障碍",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/3dd7c742885a9efa3c7e38a8e7ad63c9ddb8e1d56e9c22bdd70b6830d124509b"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260425-8950263",
+          "author": null,
+          "description": "美国白宫说，美国首席谈判代表库什纳和威特科夫将于星期六（4月25日）前往巴基斯坦，与伊朗官员举行谈判。伊朗外交部长阿拉格齐已抵达巴基斯坦首都伊斯兰堡。但伊朗外交部却说，无计划安排与美方会晤。\n巴基斯坦外交部发言人安德拉比24日深夜在社交媒体发文说，阿拉格齐率领的代表团已抵达伊斯兰堡。巴副总理兼外长达尔、陆军参谋长穆尼尔等高级官员到场迎接。\n安德拉比说，访问期间，阿拉格齐将同巴基斯坦高级领导人举行会谈，讨论地区最新局势和推动地区和平稳定的持续努力。\n《纽约时报》报道，白宫新闻秘书莱维特24日下午说，美国总统特朗普的女婿库什纳和特使威特科夫25日前往巴基斯坦，听取伊方提案。\n她说，美国首席谈判代表、副总统万斯“处于待命状态，如有必要，他愿意前往巴基斯坦。”\n不过，伊朗外交部发言人巴盖伊25日凌晨在X平台说，伊朗和美国没有计划在巴基斯坦会晤，伊朗将通过巴基斯坦官员传达立场。\n他还说，为结束由美国挑起的战争并恢复地区稳定，阿拉格齐将与担任斡旋方的巴基斯坦高级官员举行会谈。\n此前，两名要求不具名的伊朗高级官员透露，阿拉格齐计划就美国提出的和平协议方案提交一份新的书面回应。巴基斯坦一名消息人士早前告诉新华社，阿拉格齐将与巴方讨论伊美谈判的先决条件；若取得进展，预计伊方将进一步同美方代表进行直接谈判。\n特朗普本周早前宣布延长对伊朗战争的停火协议，但美伊双方现在都阻止船只通过霍尔木兹海峡，试图在谈判中获得筹码。\n美国战争部长赫格塞斯24日说，美国将“持续封锁伊朗船只和港口，直到伊朗同意达成协议为止，伊朗领导层则将解除海峡封锁列为与美国恢复和平谈判的条件。",
+          "link": "https://www.zaobao.com/news/world/story20260425-8950263",
+          "publishedOn": "2026-04-24T23:10:24.000Z",
+          "wordCount": 635,
+          "title": "美国谈判代表25日赴伊斯兰堡 伊方称暂无会晤计划",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/0c8baf3b8b48fc4bb19e1382ebd84980487d35f013cf160d4c3461b7f0e082cd"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260425-8949979",
+          "author": null,
+          "description": "法国将选择法国本土云企业斯凯尔韦公司（Scaleway）托管医保报销数据及其他具有重要价值的健康数据。此前数据中心的数据托管服务由美国微软公司提供。\n法国健康数据中心星期四（4月23日）发布公报说，鉴于所托管数据敏感且规模巨大，数据中心要求数据托管平台必须依托韧性基础设施，并具备极高的安全水平。\n在“公共云”采购框架下，此次数据托管服务商的遴选过程较为严格，历时两个半月，涉及350多项技术要求，斯凯尔韦公司最终获选。\n新华社引述法国健康数据中心主任加里亚尼说，此次数据迁移旨在为全体用户维持高水平的安全保障。这有助于加快使用法国国家健康数据，以及在更大范围内加速开展依托健康数据的各类科研和创新项目。\n法国《费加罗报》网站指出，法国国内近来要求摆脱依赖美国科技巨头的呼声不断高涨，法国健康数据中心此次迁移数据的决定备受关注。",
+          "link": "https://www.zaobao.com/news/world/story20260425-8949979",
+          "publishedOn": "2026-04-24T16:00:14.000Z",
+          "wordCount": 486,
+          "title": "法国国民健康数据将从微软迁移至本土平台",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/7425d423d9d14a445f693a7c4cfee61612025766e5cdad96466942ae6c278dc4"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260424-8949937",
+          "author": null,
+          "description": "伊朗外长阿拉格齐说，他访问巴基斯坦、阿曼和俄罗斯是为了就双边事务密切协调，并就地区形势发展进行磋商。\n阿拉格齐星期五（4月24日）在社交媒体上说：“我们的邻国是我们的优先事项。”\n阿拉格齐预计将于星期五晚间或次日凌晨抵达巴首都伊斯兰堡，并与巴方就伊朗和美国谈判的先决条件进行讨论。\n新华社引述巴基斯坦军方消息人士说，相关议题包括解除对伊朗封锁、释放被扣押船只及船员、确保解除对伊朗制裁以及解冻伊朗被冻结资产等。伊朗方面希望美国先采取建立互信的举措，特别是在放松封锁和释放部分资产方面有所行动。\n消息人士说，如果取得进展，伊方预计将进一步同美方代表进行直接谈判。\n但是另据美国有线电视新闻网（CNN）引述美国消息人士的话说，伊朗代表团前往伊斯兰堡不会会见美国代表。CNN引述两名政府官员的话报道，美国总统特朗普将派遣威特科夫和库什纳前往巴基斯坦与伊朗外长举行会谈。\n在巴基斯坦官员预计美伊会谈将会举行之后，原油期货价格下跌，抹去了早前的涨幅。\n伦敦市场布伦特期货一度下跌1.6%，至每桶103.41美元（132.26新元）。WTI原油也出现下跌。",
+          "link": "https://www.zaobao.com/news/world/story20260424-8949937",
+          "publishedOn": "2026-04-24T15:40:31.000Z",
+          "wordCount": 630,
+          "title": "消息人士：伊朗将与巴基斯坦讨论美伊谈判先决条件",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/e5e5b9824667483d668670153d3923e20fdc54bdb86b00a532c688576530b942"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260424-8949777",
+          "author": null,
+          "description": "据美国广播公司（ABC）报道，美国司法部预计将停止对美国联邦储备局主席鲍威尔的调查。 \nABC引述知情人士消息称，司法部预计最早于星期五（4月24日）停止对鲍威尔的调查。\n彭博社此前报道，美国总统特朗普说，如果鲍威尔“不及时”卸任，就会解除他的职务。特朗普还坚称，司法部对这名央行领导人的调查将会继续。\n特朗普4月15日接受福克斯商业频道采访时说：“如果他不按时离开，我就只好解雇他。我一直忍着没有解除他的职务。我一直想解雇他，但我不想引起争议。”\n特朗普的盟友一直希望，鲍威尔在今年春季结束美联储主席职务时，也一并辞去理事会席位。但鲍威尔说，在特朗普政府通过司法部就一项楼宇翻修工程展开的调查“彻底结束之前”，他“无意”辞去理事会职务。",
+          "link": "https://www.zaobao.com/news/world/story20260424-8949777",
+          "publishedOn": "2026-04-24T14:56:58.000Z",
+          "wordCount": 608,
+          "title": "美媒：司法部将停止对美联储主席鲍威尔的调查",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/a46c0dd87a3b3b2f6d19f5d8cd6d2126c36ba6e2c3f44b39b533739ebbbad263"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260424-8949720",
+          "author": null,
+          "description": "德国商业前景恶化程度超出预期，加剧了市场对因伊朗冲突引发的能源成本上升将阻碍国家经济复苏的担忧。 \n德国慕尼黑莱布尼茨经济研究所（Ifo）发布的预期指数，从3月修正后的85.9降至4月的83.3，为2023年8月以来的最低水平，也明显低于彭博调查中85.5的预估中值。衡量当前状况的指标同样表现不及预期。\n彭博社引述Ifo总裁富斯特（Clemens Fuest）星期五（4月24日）发布的声明说：“企业对未来几个月的前景明显更加悲观。德国经济正受到伊朗危机的严重冲击。”\n这些数据为本周欧洲最大经济体带来了更多黯淡的消息。\n此前，标普全球月度商业调查显示，4月份私营部门活动出人意料地出现萎缩。德国政府还将2026年经济增长预测下调至0.5%。\n由战争引发的石油和天然气价格飙升，以及不确定性的加剧，正在拖累德国经济活动。原本市场预计，随着数千亿欧元的基础设施和国防支出逐步推进，德国经济将在年内获得增长动能。",
+          "link": "https://www.zaobao.com/news/world/story20260424-8949720",
+          "publishedOn": "2026-04-24T14:50:31.000Z",
+          "wordCount": 643,
+          "title": "战争重创 德国商业前景跌至2023年以来最差水平",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/7e80ae411db7555027c843dad04ab1f5136c515272bdc0aedb28184bc6b6cd41"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260424-8948739",
+          "author": null,
+          "description": "（华盛顿综合电）美国总统特朗普表明，不动用核武打击伊朗。但他急于从战争抽身的姿态，使观察家担忧美伊新一轮协议即便达成，在伊核问题上也会相对薄弱，甚至是2015年伊核协议的倒退。 \n特朗普星期四（4月23日）在白宫反问记者：“既然我们已通过常规手段将他们摧毁殆尽，为何还需动用核武器？”\n他称伊朗或已在两周停火期间“稍微”扩充了武器库，但美军只需一天就能将它们摧毁。 \n记者问他，愿意等上多长时间促成与伊朗长期的和平协议，特朗普答说：“别催我……我现在就能达成协议，但我不想那么做。我希望它能永久有效。” \n特朗普同日在社媒发文称，美国并不急于结束战争，但伊朗争取和平的机会已进入“倒数计时”。\n以色列防长卡茨星期四晚发表视频声明说，以军已准备好重启对伊朗的军事行动，现在“就等美国开绿灯”，彻底消灭哈梅内伊王朝，使伊朗退回黑暗的石器时代。 \n据美国中央司令部消息，第三艘航母布什号已于周四抵达中东。官员透露，五角大楼向中东增派部队，做好准备在谈判万一失败时为特朗普提供更多选项。 \n巴基斯坦政府消息人士透露，伊朗外长阿拉格齐料星期五晚间率团抵达伊斯兰堡，或与美国进行第二轮谈判。美国后勤和安全团队也已抵达伊斯兰堡，为可能的谈判做准备。 \n伊朗官方通讯社随后证实，阿拉格齐将于星期五访问巴基斯坦、卡塔尔和俄罗斯，但未透露是否安排与美方会谈。\n\n特朗普急于从战争抽身 新伊核协议恐更薄弱\n\n彭博社引述知情人士报道，特朗普急于从战争抽身，恐怕没耐性在谈判中坚持，要伊朗达成如2015年由前总统奥巴马促成的伊核协议般细致的核计划监察机制。最终协议可能只是表面宏大、实际难以执行的空壳。\n欧洲对外关系委员会高级政策研究员格拉纳梅耶（Ellie Geranmayeh）指出，2015年的伊核协议“纳入了伊朗进一步履行承诺”的条款，也加强核查力度。\n她认为，任何新协议都应该至少做到这点，让国际社会有更多机会实地监督伊朗。“这将是建立信任、使协议更持久的最佳途径。”\n然而，伊朗已公开表明，拒绝接受2015年协议中一些最严格的条件，包括移交铀库存。多名知情人士透露，目前伊朗对核监督行动比之前更加敏感。\n彭博经济研究首席经济师、前国务院官员肯尼迪（Chris Kennedy）说：“任何协议若不纳入联合国安理会与国际原子能机构，都会显得更加薄弱，因为根本无法执行。”\n欧盟外交与安全政策高级代表卡拉斯也认为，如果相关谈判只围绕核问题展开，且谈判桌旁少了核问题专家，最终达成的协议，很可能还不及2015年协议。\n特朗普星期四在社媒贴文中再次强调，只会与伊朗达成对美国“恰当且有利”的协议。伊朗外交部发言人则说，当前谈判与以往谈判本质不同，重心在于结束战争，而非伊核问题。 \n\n美伊继续在霍尔木兹海峡互相封锁\n\n美伊谈判陷入僵局之际，两军继续在霍尔木兹海峡互相封锁，紧张局势持续升温。\n美军星期四声称，拦截了两艘试图突破封锁线的伊朗油船。过后，一艘运载米粮的船只在伊朗革命卫队的护送下穿过阿曼海域，在伊朗靠岸。伊朗塔斯尼姆通讯社报道称，美军曾试图拦截这艘船。\n美国战争部长赫格塞斯星期五说，美对伊封锁“正走向全球”，美军迄今已在霍尔木兹海峡拦截了34艘船。 \n星期五公布的航运数据显示，过去24小时，有五艘船通过霍尔木兹海峡，包括一艘伊朗油轮。",
+          "link": "https://www.zaobao.com/news/world/story20260424-8948739",
+          "publishedOn": "2026-04-24T14:46:43.000Z",
+          "wordCount": 539,
+          "title": "特朗普排除用核武打伊 称伊朗求和机会进入“倒数计时”",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/c19af99fbbdbd59b2180627aafa5401d2a0c20d12f9f6387674b96a443ff54e2"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260424-8949677",
+          "author": null,
+          "description": "瑞士宣布，在经过风险评估并与伊朗和美国磋商后，决定逐步重新开放瑞士驻伊朗大使馆。\n瑞士外交部星期五（4月24日）发表声明说，一个由瑞士驻伊朗大使馆人员组成的小型团队已返回伊朗首都德黑兰，为使馆逐步恢复运作作准备，使馆其余人员将在使馆重开的评估完成后按计划返回。\n新华社引述声明说，瑞士正密切关注地区局势发展，并与各方保持紧密联系，愿为缓和地区局势提供支持。\n瑞士外交部3月11日发表声明说，鉴于中东局势和日益加剧的安全风险，瑞士决定暂时关闭驻伊朗大使馆。与此同时，瑞士将继续保持美伊之间的沟通渠道畅通。\n美国与伊朗1980年断绝外交关系，此后，美国在伊朗的事务由瑞士驻伊朗大使馆代理。",
+          "link": "https://www.zaobao.com/news/world/story20260424-8949677",
+          "publishedOn": "2026-04-24T14:22:45.000Z",
+          "wordCount": 669,
+          "title": "瑞士将逐步重新开放驻伊朗使馆",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/6c855c58fd3c0855f87a8d3e33e0aea11aea26f0a7d087777be80f773dbeca10"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260424-8949575",
+          "author": null,
+          "description": "美国总统特朗普政府将一项航运豁免延长90天，让石油、燃料和化肥更容易在美国境内运输。这是白宫为应对与伊朗战争相关供应中断所采取的最新举措。 \n这一决定在原定于5月17日到期的现有豁免基础上再增加约三个月，使悬挂外国国旗的船只得以在美国港口之间运输大宗货物，直至8月中旬。\n彭博社报道，通常情况下，根据1920年的《琼斯法》，经由水路在美国国内港口之间运输的货物，必须由悬挂美国国旗、在美国建造并由美国拥有的船舶承运。特朗普的豁免暂时取消了针对煤炭、原油、成品油、天然气、天然气液、化肥及其他能源衍生品的这些限制。\n最初的豁免适用于美国海关与边境保护局认定的约659种特定产品，此次延期并未缩减所涵盖的货物范围。\n白宫发言人罗杰斯说：“延长这项豁免为美国和全球经济提供了确定性和稳定性。特朗普政府已采取多项行动，以缓解能源市场的短期扰动，而此次延期将有助于确保关键能源产品、工业材料和农业必需品的供应得到维持。”",
+          "link": "https://www.zaobao.com/news/world/story20260424-8949575",
+          "publishedOn": "2026-04-24T14:06:42.000Z",
+          "wordCount": 493,
+          "title": "确保能源供应稳定 白宫延长航运豁免90天至8月中旬",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/4472af2c72cd5d146c95e9179e1ed4e3a652a74a5c86584cdd97e1e64e2f913c"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260424-8949557",
+          "author": null,
+          "description": "经济师上调了对美国通货膨胀的预期，并指出由于伊朗战争导致能源成本上涨，预计美国联邦储备局今年只会降息一次。\n根据彭博新闻社4月的经济师调查，第二季度个人消费支出（PCE）价格指数现在料将同比上升3.6%。相比之下，3月调查得到的预测升幅为3.3%。\n另外，预测人士认为，剔除了食品和能源成本的一项价格指标涨幅将超过此前预期，两项指标年内都将保持在3%或以上。他们对美联储降息时点的预测也推迟至2026年10月和2027年3月。\n彭博对90名经济师开展的这项调查，于4月17日至22日期间进行。",
+          "link": "https://www.zaobao.com/news/world/story20260424-8949557",
+          "publishedOn": "2026-04-24T14:01:07.000Z",
+          "wordCount": 623,
+          "title": "经济师上调美国通胀预期 料美联储今年只降息一次",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/fc5ccffc4762c7963d238079235f890dbf2cab46cacf04b0d8025caebd5f4f29"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260424-8949225",
+          "author": null,
+          "description": "日本三一一地震引发核灾难15年后，东京电力公司首次以光纤内窥镜对福岛第一核电站的受损反应堆压力容器进行内部调查，并揭露反应堆内部的辐射水平至今仍极高。\n这是2011年福岛核事故后，东电首次对发生堆芯熔毁的1至3号机组压力容器内部进行直接调查。\n日本广播协会（NHK）报道，调查人员于4月16日将光纤内窥镜通过管道插入反应堆内部进行观测，结果测出2号反应堆底部上方约5米处的辐射水平约为每小时4.7西弗，被评估为“极高”。\n这些高放射性物质构成重大风险，清除工作普遍被认为是福岛核电站退役过程中最艰巨的挑战。\n东电负责福岛核电站退役工作的负责人小野彰说：“在所拍摄的图像范围内，未发现包括环绕堆芯的圆柱形护罩在内的结构存在明显变形。我们希望利用取得的数据来探讨如何清除熔融核燃料的碎片。”\n东电指出，2号反应堆内部仍残留一定数量的核碎片，他们将进一步分析数据，并制定清除方案。\n《东京新闻》报道，东电曾于3月利用微型无人机拍摄3号机组安全壳内部，发现压力容器底部似乎已熔化，并存在碎片沉积。公司目前还在探讨如何进行大规模碎片清除，预计要到2037年才会启动相关工作。\n报道指出，退役工作的最大挑战是如何清除1至3号机组内约880吨熔化的核燃料。\n目前靠近3号机组的辐射剂量计最高时超过每小时200微西弗，远高于东京常年约0.05微西弗的水平，相当于高出约4000倍，这使得现场作业进度极为受限。\n专家估计，核电站的去污、补偿及退役总成本将达数万亿日元，整个退役过程可能持续至本世纪中叶。\n福岛核事故是全球最严重的核事故之一，震后统计有4100多人死亡，超过10万户房屋被毁，逾16万人被迫撤离家园。\nNHK报道，福岛县人口锐减。当地调查预计，若趋势不变，到了2050年，福岛县至少有5个市町村的29个住宅区无人居住。\n值得注意的是，核电站周边近年正被打造为旅游景点。在东电排放核污染水入海期间，福岛县政府与旅行社合作推出“希望之旅”，以“学习与反思”为名，组织访客进入核电站外围区域，2024年全年到访人数约2万人次。 \n东电今年1月刚重启柏崎刈羽核电站6号机组，是福岛事故后东电首次恢复运行核电站。在日本政府因电力供需紧张而重新转向核能的背景下，“希望之旅”项目预计将受到更多关注。",
+          "link": "https://www.zaobao.com/news/world/story20260424-8949225",
+          "publishedOn": "2026-04-24T13:55:26.000Z",
+          "wordCount": 652,
+          "title": "核灾难15年后 福岛第一核电站内部辐射水平仍极高",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/75505de5b9a901c12ccebb00e66c43a568f07d49d57d311c80036500122ded94"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260424-8949381",
+          "author": null,
+          "description": "美国战争部长赫格塞斯说，美国对伊朗的封锁正在走向全球；他也说，德黑兰有机会与华盛顿达成一项“好协议”。 \n赫格塞斯星期五（4月24日）对记者讲话时说：“我们的封锁正在扩大，并走向全球。”\n路透社引述他说：“未经美国海军许可，任何人不得从霍尔木兹海峡航行到世界任何地方。”\n他说，迄今为止，美国海军已在霍尔木兹海峡拦截了34艘船只。",
+          "link": "https://www.zaobao.com/news/world/story20260424-8949381",
+          "publishedOn": "2026-04-24T13:29:19.000Z",
+          "wordCount": 674,
+          "title": "赫格塞斯：美国在“全球”对伊朗进行封锁",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/9bdd616973824f12f565ec1b7f8abfccc7a6d7bc0a399fe418168cecb6bddb12"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260424-8947541",
+          "author": null,
+          "description": "（迪拜／华盛顿综合电）在美伊谈判陷入僵局之际，美国总统特朗普试图稳住以黎形势。他宣布，原定本星期天到期的以黎停火协议将延长三周，并已邀请两国首脑近期赴美会谈。 \n特朗普星期四（4月23日）在白宫接见以色列和黎巴嫩特使后，在社交媒体宣布停火延长的决定。他称，期待不久可在白宫接待以色列总理内坦亚胡与黎巴嫩总统奥恩。\n对于以黎谈判的前景，他表示乐观，还说他并不急于看到达成和平协议，而是希望协议能够“永久有效”。\n以黎就是在华盛顿举行谈判后达成目前的暂时停火协议。根据安排，双方4月17日进入为期10天的停火期，到本星期天（26日）期满。 \n然而，这项停火安排的基础薄弱，既没要求以色列军队撤离黎巴嫩，也未要求黎巴嫩真主党解除武装。\n这一纸协议重点在于将黎巴嫩政府和以色列重新拉回谈判桌，可是却把导致黎巴嫩卷入战事的真主党武装排除在对话框架之外。\n以色列驻华盛顿大使莱特说，以方希望与黎巴嫩政府达成和平协议，并认为在以色列打击伊朗后，真主党的实力已被削弱。他说，以黎两国政府都希望清除真主党这一“恶劣影响”。\n黎巴嫩则寻求更长期的停火保障。奥恩说，停火应包括停止摧毁房屋、停止袭击平民、宗教场所、记者、医疗和教育机构。\n黎巴嫩当局称，以军上月对黎巴嫩发动大规模攻击以来，已造成超过2450人死亡，100万人流离失所。\n\n停火延长 边境局势仍紧张\n\n以黎虽达成暂时停火，可是黎巴嫩南部仍未平静。以军没有停止打击真主党武装的目标；由伊朗支持的真主党武装也在以军每次发动袭击后发射火箭弹回击。\n真主党称，它星期三在黎南发动四次攻击，回应以方来袭。\n以黎两国长期处于战争状态，至今没有正式外交关系。一般认为，此次以黎停火谈判可为两国展开永久和平协议谈判创造空间，特朗普更希望借力推动结束美国、以色列与伊朗之间更广泛的战争。\n伊朗一直坚持，与美国达成的停战协议必须包括以色列停止袭击黎巴嫩。",
+          "link": "https://www.zaobao.com/news/world/story20260424-8947541",
+          "publishedOn": "2026-04-24T12:59:49.000Z",
+          "wordCount": 644,
+          "title": "以黎停火延长三周 特朗普邀两国首脑赴美会晤",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/6e1652164461d1ee32314ee348afd780a2b947b9892dcf274debde90fb4dfbf8"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260424-8949237",
+          "author": null,
+          "description": "据伊朗伊斯兰共和国通讯社星期五（4月24日）报道，伊朗外长阿拉格齐将赴巴基斯坦首都伊斯兰堡、阿曼首都马斯喀特和俄罗斯首都莫斯科进行访问。　\n另据巴基斯坦政府消息人士称，阿拉格齐预计将于星期五晚间率领一个小型代表团抵达伊斯兰堡，并可能与美国举行和平谈判。\n路透社引述消息人士说，美国后勤和安全团队已抵达伊斯兰堡，准备参与谈判。在伊朗代表团同巴方进行讨论后，伊朗与美国预计将举行第二轮谈判。\n上述消息传出后，原油期货价格下跌，抹去了早前的涨幅。 伦敦市场布伦特期货一度下跌1.6%，至每桶103.41美元；WTI原油也下跌。\n巴基斯坦副总理兼外交部长达尔星期五说，为尽快推进地区和平与稳定，美伊双方必须持续开展对话与接触，以解决悬而未决的问题。\n新华社引述巴基斯坦外交部的声明说，达尔是当天与阿拉格齐通电话时作出上述表态。双方就中东地区事态发展、美伊停火以及巴方外交努力等交换了意见。",
+          "link": "https://www.zaobao.com/news/world/story20260424-8949237",
+          "publishedOn": "2026-04-24T12:50:05.000Z",
+          "wordCount": 645,
+          "title": "伊媒证实伊朗外长将访问伊斯兰堡 消息：可能与美国举行和谈",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/da1d12c6ff0fd0b1cbcbd24689f60590a3af8b869155778a5dfdf90a271dc560"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260424-8948913",
+          "author": null,
+          "description": "（悉尼讯）法国建议设立“信任俱乐部”，让志同道合的国家共享有关稀土和其他关键矿产的信息，以提高供应链的可预测性。\n《日经亚洲》报道，在澳大利亚访问的法国对外贸易部长级代表弗里西耶星期四（4月23日）对媒体说，稀土不应被当成武器使用，因为这会引发剧烈冲击。“我们提议成立一个类似‘信任俱乐部’的组织，按矿物种类或类别划分，以便共享信息，甚至可能建立一些储备。”\n法国今年是七国集团（G7）轮值主席，关键矿产是G7议程上的主要议题之一。\n控制着全球70%稀土产量的中国正加强对稀土供应的控制。弗里西耶说：“所有志同道合的国家，未来都不应再像过去两年那样受制于人。”\n法国拥有众多依赖关键矿产资源的重要工业如汽车、可再生能源和国防。为了确保关键矿产资源供应稳定，法国正积极扩大与其他国家在这方面的合作。\n法国西南部目前在建造一座重稀土回收厂，这将是欧洲首个大型稀土回收设施。回收厂属于法日一个合作项目的一部分，每年将生产重稀土镝（dysprosium）和铽（terbium）共600公吨，占全球年产量的15%。\n法国私募基金InfraVia上月宣布，向澳洲北领地一个锂矿项目注资5000万美元（约6388万新元），这个项目由澳洲矿业公司Core Lithium牵头。\n法国已将“纠正失衡”列为G7议程的关键优先事项，其中包括对中国贸易顺差和工业产能过剩的担忧。\n弗里西耶称中国电动车获得中国政府补贴，破坏市场公平竞争。他说：“我们不应再对中国经济产能过剩抱有天真的想法。”\n他也呼吁对国际电商平台实施更严格管控。\n法国和澳洲上月签署自由贸易协定，弗里西耶形容这是个双赢的协议。他说：“澳洲志在实现多元化，与法国等志同道合的国家建立更紧密的伙伴关系。”",
+          "link": "https://www.zaobao.com/news/world/story20260424-8948913",
+          "publishedOn": "2026-04-24T12:08:23.000Z",
+          "wordCount": 647,
+          "title": "法国建议设“信任俱乐部” 共享关键矿产信息",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/f593b37edb3e6565b37985af93196252147648ea08809f80230c3cd39639578f"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260424-8947249",
+          "author": null,
+          "description": "（苏拉特路透电）自伊朗战争爆发以来，飙升的化石燃料价格不断挤压印度和孟加拉国的聚酯纤维（polyester）供应和服装制造业，可能推高Zara和H&M等快时尚零售商的成本。 \n亚洲是服装供应链领的主导力量，但近来受中东战事冲击，印度、孟加拉和中国的聚酯纤维价格都在上涨，给生产商带来压力。\n印度聚酯纱线生产巨头菲拉泰克斯（Filatex）的董事总经理巴格里亚说，由于中国供应商提价且中东供应中断，公司用于生产纱线的石油衍生原料——精对苯二甲酸（PTA）和单乙二醇（MEG）的采购成本已上涨近30%。\n位于印度西部纺织业中心苏拉特的宾达尔丝绸厂（Bindal Silk Mills），向H&M、Zara母公司Inditex、塔吉特（Target）、沃尔玛和宜家等零售商提供染色和印花聚酯纤维面料，现在却难以满足全球订单需求。\n苏拉特纺织商协会联合会主席哈基姆说，由于成本上涨，苏拉特的纺织印染厂现在被迫每周停工两天，此前仅为一天。“如果这种情况持续下去，原材料会出现短缺，工厂就不得不停产。”\n由石油衍生品制成的聚酯纤维是纺织业的关键材料。霍尔木兹海峡封锁后，精炼石油产品供应紧缩，直接冲击供应链依赖聚酯纤维的零售商。\nZara和H&M等零售商已转而主要使用由废弃塑料瓶制成的再生聚酯纤维。这或能缓解部分由油价上涨带来的成本压力，但全球范围内，再生聚酯纤维仅占聚酯总产量的12%。\n行业消息人士称，H&M预计，未来几周孟加拉供应商就会提价，不过目前还未发现生产出现重大中断或供应商因能源成本而要求调整订单的明显迹象。",
+          "link": "https://www.zaobao.com/news/world/story20260424-8947249",
+          "publishedOn": "2026-04-24T11:12:28.000Z",
+          "wordCount": 654,
+          "title": "伊朗战事冲击亚洲聚酯供应链 或推高全球快时尚成本",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/445a45c3317278752b9376263639468cf8b9f9afeb2fa03093a36fb7b38ace7f"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260424-8946940",
+          "author": null,
+          "description": "（日内瓦综合电）反核团体指出，金融机构正加大对核武器生产的投资，并警告在全球冲突日益增多之际，这一趋势可能进一步推高本已飙升的军费开支，助推新核军备竞赛。\n美国和俄罗斯的《新削减战略武器条约》（New START）已在今年2月5日到期失效。专家一直警告，随着核武国家卷入欧洲、亚洲和中东冲突之际，而长期以来为裁军和防止核武器扩散所做的努力似乎正在瓦解，一场新的核军备竞赛正在酝酿之中。 \n在星期五（4月24日）发布的一份新报告中，诺贝尔和平奖得主“国际废除核武器运动”（ICAN）和另一个反核武组织PAX指出，越来越多金融机构正在对参与核武器生产的公司进行投资，帮助全球九个拥核国扩充和现代化它们的核武库。\n根据这份年度报告，截至2025年9月，共有301家银行、养老基金、保险公司和其他金融机构对参与核武器生产的公司进行融资或投资。与去年同期相比，这一数字增长15%，扭转多年来的下滑趋势。\nICAN项目主管斯奈德在声明中指出：“多年来，试图从军备竞赛中获利的投资者数量首次出现上升趋势。”\n也是报告共同作者的斯奈德警告，这是一种短期且高风险的策略，只会加剧危险的局势升级，而“要从中获利，就不可能不助长军备竞赛”。\n\n拥核国对核武库进行现代化 推高核武器需求\n\n根据报告，俄罗斯、美国、中国、法国、英国、巴基斯坦、印度、以色列和朝鲜这九个拥核国目前正在对它们的核武库进行现代化改造，当中还有许多在扩充规模，“从而推动了对这些武器的需求”。\n报告列出25家参与核武器生产的公司，其中霍尼韦尔国际（Honeywell International）、通用动力（General Dynamics）和诺斯洛普·格鲁曼（Northrop Grumman）获利最多。其他主要生产商包括英国航空航天系统公司（BAE）、贝克特尔（Bechtel）和洛克希德·马丁（Lockheed Martin）。\n不过报告也强调，一些金融机构已证明，放弃与核武器相关的投资仍可获得可观利润。\n反核组织说，截至2025年底，明确避免投资核武公司的机构所管理的资产总规模已超过4万亿美元（约5.1万亿新元）。",
+          "link": "https://www.zaobao.com/news/world/story20260424-8946940",
+          "publishedOn": "2026-04-24T11:02:04.000Z",
+          "wordCount": 650,
+          "title": "金融机构加大核武投资 反核组织：或推高核军备竞赛",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/da2af21d25141a440fe199e5a38d7d0f9b00b226fec1b532c7a416edce90d445"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260424-8948550",
+          "author": null,
+          "description": "据日本媒体报道，日本首相高市早苗并未在靖国神社春季例行大祭期间前去参拜。 \n位于东京九段北的靖国神社春季例行大祭星期四（4月23日）晚间结束，高市早苗在此次大祭期间未参拜。高市在首日21日供奉了称为“真榊”的供品，22日自费献上“玉串料”（祭祀费）。\n日本共同社引述分析说，高市可能是顾及双边关系趋冷的中国和关系持续改善的韩国。此次例行大祭期间，高市内阁的阁僚中经济财政担当相城内实进行参拜。\n靖国神社内供奉着包括东条英机在内的14名二战甲级战犯。高市在担任阁僚期间也曾配合终战日和春秋例行大祭前往参拜，但在即将就任首相的去年10月秋季例行大祭时放弃了参拜。",
+          "link": "https://www.zaobao.com/news/world/story20260424-8948550",
+          "publishedOn": "2026-04-24T10:52:44.000Z",
+          "wordCount": 620,
+          "title": "日本靖国神社春季大祭结束 高市未参拜",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/9e808396ef0a5fdc2e263c2ac2a5d138fb294fc74d68b7ccc41a21b4963b2186"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260424-8948388",
+          "author": null,
+          "description": "联合国指出，上次导致全球气温创下历史新高的厄尔尼诺现象（El Nino）预计将于今年年中再次出现，最早可能在5月至7月这三个月内出现。\n总部位于日内瓦的世界气象组织（WMO）星期五（4月24日）发布的报告说，赤道太平洋地区的气候状况发生了明显变化。报告指出，海面温度正在迅速上升，“预示着厄尔尼诺现象最早可能在5月至7月再次出现”。\n报告指出，早期迹象表明，此次厄尔尼诺现象强度较大。\n厄尔尼诺是指赤道中东太平洋海水温度异常偏高从而影响大气环流的一种自然现象。厄尔尼诺往往引起太平洋周边多个地区气候异常，引起风、气压和降雨模式的变化。\n厄尔尼诺现象和拉尼娜现象（La Nina）交替出现，两种现象之间的气候则处于中性状态。\n厄尔尼诺现象通常每两年到七年发生一次，持续约九个月到12个月。\n气象组织此前发布的新闻公报显示，2025年是有记录以来最热的三个年份之一。上次厄尔尼诺现象导致2023年成为有记录以来第二热的年份，而2024年则是有记录以来最热的年份。 \n法新社引述气象组织气候预测主任奥基亚（Wilfran Moufouma Okia）说：“年初气候处于中性状态之后……我们高度确信厄尔尼诺现象即将到来，并会增强。\n“模型显示，这可能是一次强烈的厄尔尼诺事件……4月之后的预测将会更为可靠。”\n厄尔尼诺现象通常每两年到七年发生一次，持续约九个月到12个月。",
+          "link": "https://www.zaobao.com/news/world/story20260424-8948388",
+          "publishedOn": "2026-04-24T10:19:50.000Z",
+          "wordCount": 647,
+          "title": "气象组织：厄尔尼诺现象或将于2026年中来袭",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/98b045411ea4f21ae149b4506e2ab887c0a6e5773789fc51ffc9a8273bd810cb"
+        },
         {
           "id": "https://www.zaobao.com/news/world/story20260424-8944942",
           "author": null,
@@ -2864,6 +3144,272 @@
       "feedUrl": "https://basicsix-my-rsshub-hq.hf.space/1x",
       "siteUrl": "https://1x.com/gallery/latest/awarded",
       "articles": [
+        {
+          "id": "1x-3557214",
+          "author": "Stephanie Kleimann",
+          "description": "The bridge by Stephanie Kleimann",
+          "link": "https://1x.com/photo/3557214",
+          "publishedOn": "2026-04-25T02:22:42.751Z",
+          "wordCount": 335,
+          "title": "The bridge",
+          "enclosure": {
+            "url": "https://1x.com/images/user/2c7013b6aee353611a6488bcdb48b245-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/2c7013b6aee353611a6488bcdb48b245-hd4.jpg"
+        },
+        {
+          "id": "1x-3555214",
+          "author": "Liwen Tao",
+          "description": "Such a beauty! by Liwen Tao",
+          "link": "https://1x.com/photo/3555214",
+          "publishedOn": "2026-04-25T02:22:42.749Z",
+          "wordCount": 367,
+          "title": "Such a beauty!",
+          "enclosure": {
+            "url": "https://1x.com/images/user/f584aac5d048899b835c72e238769dec-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/f584aac5d048899b835c72e238769dec-hd2.jpg"
+        },
+        {
+          "id": "1x-3557386",
+          "author": "Luigi Greco",
+          "description": "Architecture 45 by Luigi Greco",
+          "link": "https://1x.com/photo/3557386",
+          "publishedOn": "2026-04-25T02:22:42.741Z",
+          "wordCount": 335,
+          "title": "Architecture 45",
+          "enclosure": {
+            "url": "https://1x.com/images/user/356f306bc9cf4f99de958e05c8d316c1-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/356f306bc9cf4f99de958e05c8d316c1-hd4.jpg"
+        },
+        {
+          "id": "1x-3550671",
+          "author": "Chen Xiao",
+          "description": "佛山南海 图书馆 by Chen Xiao",
+          "link": "https://1x.com/photo/3550671",
+          "publishedOn": "2026-04-25T02:22:42.739Z",
+          "wordCount": 335,
+          "title": "佛山南海 图书馆",
+          "enclosure": {
+            "url": "https://1x.com/images/user/264a5a560869953ed17d78464ad8bf11-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/264a5a560869953ed17d78464ad8bf11-hd4.jpg"
+        },
+        {
+          "id": "1x-3551983",
+          "author": "Farid Kazamil",
+          "description": "Ambassadors of Summer by Farid Kazamil",
+          "link": "https://1x.com/photo/3551983",
+          "publishedOn": "2026-04-25T02:22:42.730Z",
+          "wordCount": 367,
+          "title": "Ambassadors of Summer",
+          "enclosure": {
+            "url": "https://1x.com/images/user/a89c97c84f816cbbe86efeba6dbc0090-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/a89c97c84f816cbbe86efeba6dbc0090-hd4.jpg"
+        },
+        {
+          "id": "1x-3556315",
+          "author": "Jacob (Jian) Xu",
+          "description": "Spring Ornament by Jacob (Jian) Xu",
+          "link": "https://1x.com/photo/3556315",
+          "publishedOn": "2026-04-25T02:22:42.728Z",
+          "wordCount": 339,
+          "title": "Spring Ornament",
+          "enclosure": {
+            "url": "https://1x.com/images/user/833c5692938371f881d87ecf0a4c3a7d-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/833c5692938371f881d87ecf0a4c3a7d-hd4.jpg"
+        },
+        {
+          "id": "1x-3557204",
+          "author": "Allan Wallberg",
+          "description": "Red fox by Allan Wallberg",
+          "link": "https://1x.com/photo/3557204",
+          "publishedOn": "2026-04-25T02:22:42.726Z",
+          "wordCount": 335,
+          "title": "Red fox",
+          "enclosure": {
+            "url": "https://1x.com/images/user/56da4e8ba2405d4ea4932c7668671abd-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/56da4e8ba2405d4ea4932c7668671abd-hd4.jpg"
+        },
+        {
+          "id": "1x-3556914",
+          "author": "Raad Btoush",
+          "description": "Untitled by Raad Btoush",
+          "link": "https://1x.com/photo/3556914",
+          "publishedOn": "2026-04-25T02:22:42.724Z",
+          "wordCount": 332,
+          "title": "Untitled",
+          "enclosure": {
+            "url": "https://1x.com/images/user/f1d33183cab67c22b785b66fc440c82c-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/f1d33183cab67c22b785b66fc440c82c-hd4.jpg"
+        },
+        {
+          "id": "1x-3557337",
+          "author": "Kristjan Vuk",
+          "description": "Four roses #2 by Kristjan Vuk",
+          "link": "https://1x.com/photo/3557337",
+          "publishedOn": "2026-04-25T02:22:42.722Z",
+          "wordCount": 367,
+          "title": "Four roses #2",
+          "enclosure": {
+            "url": "https://1x.com/images/user/d3824288bcb2c0896d9d0f52d82c6458-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/d3824288bcb2c0896d9d0f52d82c6458-hd4.jpg"
+        },
+        {
+          "id": "1x-3557342",
+          "author": "Fangping Zhou",
+          "description": "Purple Tulips by Fangping Zhou",
+          "link": "https://1x.com/photo/3557342",
+          "publishedOn": "2026-04-25T02:22:42.720Z",
+          "wordCount": 335,
+          "title": "Purple Tulips",
+          "enclosure": {
+            "url": "https://1x.com/images/user/38fd117b3b772bd2cce7b70649d3075b-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/38fd117b3b772bd2cce7b70649d3075b-hd4.jpg"
+        },
+        {
+          "id": "1x-3556827",
+          "author": "Jure Kravanja",
+          "description": "Cerkev sv. Ožbalta v Unišah pri Ponikvi by Jure Kravanja",
+          "link": "https://1x.com/photo/3556827",
+          "publishedOn": "2026-04-25T02:22:42.718Z",
+          "wordCount": 350,
+          "title": "Cerkev sv. Ožbalta v Unišah pri Ponikvi",
+          "enclosure": {
+            "url": "https://1x.com/images/user/45ff102a94b54d5b38b0ed02165ca0fd-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/45ff102a94b54d5b38b0ed02165ca0fd-hd2.jpg"
+        },
+        {
+          "id": "1x-3557359",
+          "author": "Javier de la Torre",
+          "description": "Manhattan Bridge Blues by Javier de la Torre",
+          "link": "https://1x.com/photo/3557359",
+          "publishedOn": "2026-04-25T02:22:42.715Z",
+          "wordCount": 346,
+          "title": "Manhattan Bridge Blues",
+          "enclosure": {
+            "url": "https://1x.com/images/user/e2e25843395ce9ed474c11155cca41d3-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/e2e25843395ce9ed474c11155cca41d3-hd4.jpg"
+        },
+        {
+          "id": "1x-3557399",
+          "author": "Georg Scharf",
+          "description": "Schwarzstorch by Georg Scharf",
+          "link": "https://1x.com/photo/3557399",
+          "publishedOn": "2026-04-25T02:22:42.713Z",
+          "wordCount": 332,
+          "title": "Schwarzstorch",
+          "enclosure": {
+            "url": "https://1x.com/images/user/2aa4acea87460aa7eeb164464c1f76cd-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/2aa4acea87460aa7eeb164464c1f76cd-hd2.jpg"
+        },
+        {
+          "id": "1x-3557343",
+          "author": "Caterina Carrara",
+          "description": "Dentro un labirinto by Caterina Carrara",
+          "link": "https://1x.com/photo/3557343",
+          "publishedOn": "2026-04-25T02:22:42.529Z",
+          "wordCount": 367,
+          "title": "Dentro un labirinto",
+          "enclosure": {
+            "url": "https://1x.com/images/user/88cc3c80bff2bcaa3664a869f607e8c5-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/88cc3c80bff2bcaa3664a869f607e8c5-hd4.jpg"
+        },
+        {
+          "id": "1x-3557093",
+          "author": "Nico Pakvis",
+          "description": "Sam by Nico Pakvis",
+          "link": "https://1x.com/photo/3557093",
+          "publishedOn": "2026-04-25T02:22:42.527Z",
+          "wordCount": 332,
+          "title": "Sam",
+          "enclosure": {
+            "url": "https://1x.com/images/user/ef6b9dd62b7664e9b81bf0d6086897ce-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/ef6b9dd62b7664e9b81bf0d6086897ce-hd4.jpg"
+        },
+        {
+          "id": "1x-3556998",
+          "author": "Roland M Schwerdtfeger",
+          "description": "Panta Rhei by Roland M Schwerdtfeger",
+          "link": "https://1x.com/photo/3556998",
+          "publishedOn": "2026-04-25T02:22:42.523Z",
+          "wordCount": 368,
+          "title": "Panta Rhei",
+          "enclosure": {
+            "url": "https://1x.com/images/user/160ddbe8fe8c59189df898349635698c-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/160ddbe8fe8c59189df898349635698c-hd4.jpg"
+        },
+        {
+          "id": "1x-3557371",
+          "author": "Cami Marculescu",
+          "description": "Possession by Cami Marculescu",
+          "link": "https://1x.com/photo/3557371",
+          "publishedOn": "2026-04-25T02:22:42.520Z",
+          "wordCount": 332,
+          "title": "Possession",
+          "enclosure": {
+            "url": "https://1x.com/images/user/cc41503f10409ed2ca81c7639d7c6cf1-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/cc41503f10409ed2ca81c7639d7c6cf1-hd2.jpg"
+        },
+        {
+          "id": "1x-3557248",
+          "author": "Karin Kilb",
+          "description": "Sightseeing Barcelona by Karin Kilb",
+          "link": "https://1x.com/photo/3557248",
+          "publishedOn": "2026-04-25T02:22:42.498Z",
+          "wordCount": 364,
+          "title": "Sightseeing Barcelona",
+          "enclosure": {
+            "url": "https://1x.com/images/user/176d7cf94e2ff1d1f882b9834f1361ec-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/176d7cf94e2ff1d1f882b9834f1361ec-hd4.jpg"
+        },
+        {
+          "id": "1x-3557367",
+          "author": "Lucie Nermutova",
+          "description": "Family: Where hearts belog together by Lucie Nermutova",
+          "link": "https://1x.com/photo/3557367",
+          "publishedOn": "2026-04-25T02:22:42.476Z",
+          "wordCount": 373,
+          "title": "Family: Where hearts belog together",
+          "enclosure": {
+            "url": "https://1x.com/images/user/b149d29c62cb207d0211965a81946d06-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/b149d29c62cb207d0211965a81946d06-hd4.jpg"
+        },
         {
           "id": "1x-3555484",
           "author": "Van Der Smissen Jurgen",
@@ -5421,6 +5967,23 @@
       "siteUrl": "https://www.xiaoyuzhoufm.com/podcast/61358d971c5d56efe5bcb5d2",
       "articles": [
         {
+          "id": "https://www.xiaoyuzhoufm.com/episode/69eb6b2e1e94ae6921126ceb",
+          "author": null,
+          "description": "🎙【本期嘉宾】小万、舒队\n\n小万（@小万狠努力，跑外卖2年，美团骑手，做生意欠债百万，跑外卖还债）\n\n舒队（@外卖小哥舒队，跑外卖9年，美团骑士长，通过跑外卖在南京定居买房）\n\n主播：潘乱（「乱翻书」主理人）\n\n✍【乱翻书时刻】\n\n一个负债百万的骑手，两年还债40万，曾被平台防疲劳系统强制下线240余次，引发全网热议。据报道，在美团99.46%的骑手都未曾触发防疲劳系统而被强制下线，仅有0.54%的骑手会触发强制下线的系统保护。我们也看到有数据显示，多数骑手跑单时长集中在6至9小时，月收入在5000-10000元，月入3万也是少数中的少数。今天我们邀请到了两位骑手，一位是占比99.46%的平凡骑手中的一位——舒队，另外一位是0.54%里面的一位——小万，以小万代表的少数骑手为什么要这么“卷”，以舒队为代表的多数骑手又如何保持平常心，今天我们来聊聊骑手们的心声。\n\n⏰【时间线】\n\n一、钱与脸：最拧巴的蓝领工作\n\n03:24 为什么会选跑外卖？\n\n04:41 你们一个月赚多少钱？\n\n06:56 「单王就是没得选嘛，大家都是为了生活，上有老下有小，都是为了多挣一点钱。」\n\n08:21 从新手到入门，大概需要多长时间？\n\n12:54 真跑和假跑\n\n15:45 福利单和垃圾单\n\n二、谷底与出路：一个人走投无路的时候\n\n18:25 小万的谷底\n\n24:03「我当时我大概负债快100万了，唯有说去大胆尝试一下」\n\n25:06 亲朋好友的眼光\n\n26:15 舒队的逃离\n\n27:21 上岸\n\n28:06「把钱还的差不多，我就可能离开这个行业了」\n\n29:15「我觉得我以后也会跑下去，我感觉跑外卖比较自由」\n\n30:17 送外卖是给人打工吗？\n\n34:43 从跌到谷底，到再往上爬，整个人经历了怎样的心态历程？\n\n三、这活没你想的那么简单\n\n39:20 骑手们的画像\n\n40:03 社会蓄水池\n\n42:01 工厂和送外卖最大的区别是什么？\n\n44:22 单价降了怪谁\n\n45:35 困在系统里？\n\n47:03 骑手们真正关心什么样的问题？\n\n50:25 赚着高收入被人可怜\n\n52:31 社保\n\n54:34 其他福利\n\n56:17 防疲劳，骑手们怎么看？\n\n62:09 女骑士变多了，她们一般什么情况来的？\n\n68:43 加油，未来可期\n\n🎵【开场&结尾音乐】\n\n开场&结尾音乐：Mount Dreams - Wolfs\n\nℹ【关于「乱翻书」】\n\n「乱翻书」是一档关注商业、科技和互联网的圆桌对话节目。关心How和Why，以及少有人注意到的What。内容主要方向是科技考古、行业观察和前沿思考，研究公司的兴衰循环，希望能够为你带来信息增量。\n\n「乱翻书」主理人是潘乱，代表作品有《腾讯没有梦想》、字节跳动/快手早期关键节点的系列特写。\n\n【图】▲播客录制合影，左起：小万、舒队、潘乱\n\n本期编辑：怀杭",
+          "link": "https://www.xiaoyuzhoufm.com/episode/69eb6b2e1e94ae6921126ceb",
+          "publishedOn": "2026-04-24T13:20:40.000Z",
+          "wordCount": null,
+          "title": "265.卷王vs平常心：骑手的两种选择",
+          "itunes": {
+            "duration": "1:08:55"
+          },
+          "enclosure": {
+            "url": "https://media.xyzcdn.net/61358d971c5d56efe5bcb5d2/llBkEfKtAfmr7CuCyoqFIAVJTXLy.m4a",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://www.xiaoyuzhoufm.com/episode/69e9cc161d989496e752d932",
           "author": null,
           "description": "✍【乱翻书时刻】\n\n• Musical.ly和TikTok的合并不是一次简单的“大鱼吃小鱼”，而是两套组织文化和产品哲学的碰撞融合——Musical.ly带来了创作工具基因和海外用户直觉，字节带来了推荐引擎和组织执行力，最终“牛奶兑红茶”变成了一杯全新的奶茶。\n\n🎙本期主播：潘乱\n\n📄嘉宾：郦橙锦妖Vanessa（TikTok早期产品锦鲤，前字节Flow AI效果负责人，「鹿鹿鱼鱼」主播，2017年初–2024年底在Musical.ly/TikTok，全栈PM）\n\n🎬视频播客将同步上线于@潘乱的视频号、哔哩哔哩、微博、小红书、Youtube等平台。\n\n⏰【时间线】\n\n一、如何从多产品收敛到TikTok\n\n01:13 字节海外的“全家桶”时代\n\n• 2017年入职Musical.ly ，“字节一年，人间三年！”\n\n• 先行者不一定能撑到最后，就变成先烈了。\n\n• 主要竞品\n\n• Musical.ly与Tik Tok名字由来\n\n12:54 短视频市场海外争夺\n\n• 西瓜对标YouTube、火山对标快手、抖音对标Musical.ly\n\n• 白T与黑T\n\n• 2018 年8月，Musical.ly与Tik Tok正式合体\n\n23:36 为什么收购musical.ly？\n\n• 收购Flipagram对于字节跳动的全球化，意味着什么？\n\n• 推荐算法对musical.ly的改变\n\n• “没有你对我很重要”，不能让快手拿去。\n\n38:39 从“独立运营”到品牌消亡\n\n• 审核\n\n• 算法应该有价值观吗？\n\n• 数据作为唯一的真理的时候，它就可以少很多摩擦\n\n• A/B Test文化差异\n\n• 一夜之间musical.ly 变成 TikTok ，用户什么反应？团队什么感受？\n\n• 音轨复用，大幅降低了创作的门槛\n\n01:07:17 收购Musical.ly带来的负资产\n\n• 低年龄和…",
@@ -5594,6 +6157,24 @@
       "feedUrl": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96",
       "siteUrl": "https://www.ted.com",
       "articles": [
+        {
+          "id": "69eb82ed6eeb59e2ba2abbe4",
+          "author": null,
+          "description": "“Truth is the real oxygen for democracy,” says Vjosa Osmani Sadriu, the 6th President of the Republic of Kosovo. As a child of war, she once longed for someone to save her people. Now she’s been in the rooms where decisions are made — and she’s never forgotten what brought her there. In conversation with solutions journalist Angus Hervey, she reflects on what it takes to defend democracy in a world where truth itself is under threat. (Recorded on April 14, 2026)\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
+          "link": "http://go.ted.com/vjosaosmanisadriu",
+          "publishedOn": "2026-04-24T15:00:00.000Z",
+          "wordCount": null,
+          "title": "What Kosovo can teach the world about freedom | Vjosa Osmani Sadriu",
+          "itunes": {
+            "duration": "19:41"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69eb82ed6eeb59e2ba2abbe4/media.mp3",
+            "length": "18998639",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "69ea319e6e5b90839a73c5a2",
           "author": null,
@@ -6256,24 +6837,6 @@
           "enclosure": {
             "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69bdc2163bbfcfe8db8a8ace/media.mp3",
             "length": "12565871",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "69bdc1583bbfcfe8db8a64ef",
-          "author": null,
-          "description": "In this TED Talk gone wrong, comedian Mike Albo receives an unexpected call from his bank. The result: a hilariously uncomfortable tour of his purchase history, and a reminder that in the digital age, our data knows us a little too well.\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
-          "link": "http://go.ted.com/mikealbo",
-          "publishedOn": "2026-03-25T15:00:00.000Z",
-          "wordCount": null,
-          "title": "My bank called in the middle of my TED Talk | Mike Albo",
-          "itunes": {
-            "duration": "7:58"
-          },
-          "enclosure": {
-            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69bdc1583bbfcfe8db8a64ef/media.mp3",
-            "length": "7748591",
             "type": "audio/mpeg"
           },
           "imageUrl": null
