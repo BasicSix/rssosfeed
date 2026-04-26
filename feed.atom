@@ -2,10 +2,776 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BasicSix.github.io/rssosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-25T02:23:23.791Z</updated>
+    <updated>2026-04-26T02:38:34.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://BasicSix.github.io/rssosfeed/index.html"/>
     <link rel="self" href="https://BasicSix.github.io/rssosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Trip]]></title>
+        <id>1x-3558960</id>
+        <link href="https://1x.com/photo/3558960"/>
+        <updated>2026-04-26T02:37:53.338Z</updated>
+        <summary type="html"><![CDATA[Trip by Giovanni Cavalli]]></summary>
+        <author>
+            <name>Giovanni Cavalli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Golden kiss]]></title>
+        <id>1x-3545082</id>
+        <link href="https://1x.com/photo/3545082"/>
+        <updated>2026-04-26T02:37:53.335Z</updated>
+        <summary type="html"><![CDATA[Golden kiss by Cong Lin]]></summary>
+        <author>
+            <name>Cong Lin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outdoor Cat 4]]></title>
+        <id>1x-3557899</id>
+        <link href="https://1x.com/photo/3557899"/>
+        <updated>2026-04-26T02:37:53.333Z</updated>
+        <summary type="html"><![CDATA[Outdoor Cat 4 by Andy Wong]]></summary>
+        <author>
+            <name>Andy Wong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Split Second Duel]]></title>
+        <id>1x-3550921</id>
+        <link href="https://1x.com/photo/3550921"/>
+        <updated>2026-04-26T02:37:53.331Z</updated>
+        <summary type="html"><![CDATA[Split Second Duel by HuongHoang]]></summary>
+        <author>
+            <name>HuongHoang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Young Girl]]></title>
+        <id>1x-3548765</id>
+        <link href="https://1x.com/photo/3548765"/>
+        <updated>2026-04-26T02:37:53.329Z</updated>
+        <summary type="html"><![CDATA[Young Girl by Jürgen Wöhrle]]></summary>
+        <author>
+            <name>Jürgen Wöhrle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Lighthouse]]></title>
+        <id>1x-3557653</id>
+        <link href="https://1x.com/photo/3557653"/>
+        <updated>2026-04-26T02:37:53.327Z</updated>
+        <summary type="html"><![CDATA[The  Lighthouse by txules]]></summary>
+        <author>
+            <name>txules</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Midair Encounter - Short Eared Owls]]></title>
+        <id>1x-3557915</id>
+        <link href="https://1x.com/photo/3557915"/>
+        <updated>2026-04-26T02:37:53.325Z</updated>
+        <summary type="html"><![CDATA[Midair Encounter - Short Eared Owls by Victor Wang]]></summary>
+        <author>
+            <name>Victor Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roses]]></title>
+        <id>1x-3558793</id>
+        <link href="https://1x.com/photo/3558793"/>
+        <updated>2026-04-26T02:37:53.323Z</updated>
+        <summary type="html"><![CDATA[Roses by PETER BALANTIC]]></summary>
+        <author>
+            <name>PETER BALANTIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Star Trails Over Monument Valley]]></title>
+        <id>1x-3553870</id>
+        <link href="https://1x.com/photo/3553870"/>
+        <updated>2026-04-26T02:37:53.292Z</updated>
+        <summary type="html"><![CDATA[Star Trails Over Monument Valley by Catherine Wang]]></summary>
+        <author>
+            <name>Catherine Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Between Play and Lesson]]></title>
+        <id>1x-3558961</id>
+        <link href="https://1x.com/photo/3558961"/>
+        <updated>2026-04-26T02:37:53.290Z</updated>
+        <summary type="html"><![CDATA[Between Play and Lesson by Steven Zhou]]></summary>
+        <author>
+            <name>Steven Zhou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ah, whose is bigger]]></title>
+        <id>1x-3556069</id>
+        <link href="https://1x.com/photo/3556069"/>
+        <updated>2026-04-26T02:37:53.287Z</updated>
+        <summary type="html"><![CDATA[Ah, whose is bigger by Emma Zhao]]></summary>
+        <author>
+            <name>Emma Zhao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wood carver]]></title>
+        <id>1x-3559024</id>
+        <link href="https://1x.com/photo/3559024"/>
+        <updated>2026-04-26T02:37:53.284Z</updated>
+        <summary type="html"><![CDATA[Wood carver by Dennis Zhang]]></summary>
+        <author>
+            <name>Dennis Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Quiet Blush]]></title>
+        <id>1x-3557759</id>
+        <link href="https://1x.com/photo/3557759"/>
+        <updated>2026-04-26T02:37:53.194Z</updated>
+        <summary type="html"><![CDATA[A Quiet Blush by Nichole Chen]]></summary>
+        <author>
+            <name>Nichole Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yellow rumped warbler]]></title>
+        <id>1x-3548661</id>
+        <link href="https://1x.com/photo/3548661"/>
+        <updated>2026-04-26T02:37:53.181Z</updated>
+        <summary type="html"><![CDATA[Yellow rumped warbler by Steven Haddix]]></summary>
+        <author>
+            <name>Steven Haddix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalash boy]]></title>
+        <id>1x-3511379</id>
+        <link href="https://1x.com/photo/3511379"/>
+        <updated>2026-04-26T02:37:53.179Z</updated>
+        <summary type="html"><![CDATA[Kalash boy by Trevor Cole]]></summary>
+        <author>
+            <name>Trevor Cole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Where Time Pauses”]]></title>
+        <id>1x-3557544</id>
+        <link href="https://1x.com/photo/3557544"/>
+        <updated>2026-04-26T02:37:53.177Z</updated>
+        <summary type="html"><![CDATA[“Where Time Pauses” by Cristina Navarro]]></summary>
+        <author>
+            <name>Cristina Navarro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3554369</id>
+        <link href="https://1x.com/photo/3554369"/>
+        <updated>2026-04-26T02:37:52.985Z</updated>
+        <summary type="html"><![CDATA[Untitled by Bingo Z]]></summary>
+        <author>
+            <name>Bingo Z</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Osprey with fish in Florida]]></title>
+        <id>1x-3558950</id>
+        <link href="https://1x.com/photo/3558950"/>
+        <updated>2026-04-26T02:37:52.967Z</updated>
+        <summary type="html"><![CDATA[Osprey with fish in Florida by HJ Yang]]></summary>
+        <author>
+            <name>HJ Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dimba young Woman portrait, Angola]]></title>
+        <id>1x-3300834</id>
+        <link href="https://1x.com/photo/3300834"/>
+        <updated>2026-04-26T02:37:52.964Z</updated>
+        <summary type="html"><![CDATA[Dimba young Woman portrait, Angola by Francisco Mendoza Ruiz]]></summary>
+        <author>
+            <name>Francisco Mendoza Ruiz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊拉克库尔德自治区在美以伊冲突期间遭逾800次袭击]]></title>
+        <id>https://www.zaobao.com/news/world/story20260426-8954054</id>
+        <link href="https://www.zaobao.com/news/world/story20260426-8954054"/>
+        <updated>2026-04-26T02:30:23.000Z</updated>
+        <summary type="html"><![CDATA[伊拉克库尔德自治区政府说，自2月28日至4月20日，已遭受809次袭击，造成20名平民死亡、123人受伤。
+新华社报道，库区政府媒体与信息部门星期六（4月25日）发声明说，尽管库区在地区冲突中保持中立，但平民和私营部门仍遭受严重的人员伤亡和财产损失。
+其中，埃尔比勒省遭遇袭击次数高达477次，包括419次无人机袭击和58次导弹袭击，造成10名平民死亡、83人受伤。
+声明强调，这些袭击是在“毫无根据的借口”下针对民用区域实施的。库区政府已正式向伊拉克中央政府提出请求，追究肇事者责任。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【视频】白宫记者晚宴传出枪声 特朗普紧急撤离]]></title>
+        <id>https://www.zaobao.com/news/world/story20260426-8953790</id>
+        <link href="https://www.zaobao.com/news/world/story20260426-8953790"/>
+        <updated>2026-04-26T00:59:33.000Z</updated>
+        <summary type="html"><![CDATA[白宫记者协会晚宴发生安全事件，现场传出巨响，美国总统特朗普随后被特勤局特工带离现场，一名嫌疑人已被拘捕。
+白宫记者协会晚宴星期六（4月25日）晚上在华盛顿希尔顿酒店举行，特朗普与第一夫人梅拉尼娅都出席晚宴。然而，晚宴期间突然传出枪声，有人称现场传出四至六次枪声。
+
+              
+枪手开火后，与会者纷纷离开会场。（路透社）
+            
+特朗普被带离现场后在社媒发文说：“在华盛顿度过了一个不平凡的夜晚。特勤局和执法人员表现非常出色，他们行动迅速且勇敢。枪手已经被逮捕，我建议‘让活动继续进行’，但最终将完全遵循执法部门的建议。他们很快会作出决定。无论最终决定如何，这个夜晚都将与原先计划大不相同，我们可能不得不重新开始。”
+《纽约时报》报道，随总统出行的白宫记者团报告称，截至星期六（4月25日）当地时间晚上8时56分（新加坡时间星期天早上8时56分），特朗普仍在希尔顿酒店。
+事发后，警方迅速包围华盛顿希尔顿酒店，直升机在酒店上空盘旋。　　
+原本有消息称晚宴会继续进行，但一名发言人在会场说，活动将延期，并在30天内择日另行举行。
+特朗普当晚9时36分发文说：“执法部门要求我们按照规定离开，我们将立即离开会场。我将在30分钟后在白宫新闻发布室举行新闻发布会。第一夫人、副总统和所有内阁成员的身体状况良好。我们将在半小时后与大家见面。我已经与负责此次活动的所有代表沟通过，我们将在30天内重新安排活动。”
+美国特勤局发言人古列尔米在社媒发表声明称，该机构正在与华盛顿特区警察局合作，调查在安检区附近发生的枪击事件。
+联邦调查局在一份声明中正式确认，枪击案嫌疑人已被拘留。声明称，联邦调查局华盛顿外勤办事处的国家首都反应小组已赶赴希尔顿酒店。
+一名联邦调查局官员称，一名持霰弹枪的男子试图闯入晚宴安保区，他后来向一名特勤局特工开枪，不过这名特工没有受伤。
+这是特朗普去年就任以来首次参加这一年度政治新闻盛会。现场约有2600名与会者，总统内阁的多名成员和高级幕僚也出席了晚宴，包括副总统万斯、财政部长贝森特、国家情报总监加巴德、交通部长达菲、白宫新闻秘书卡莱维特以及联邦调查局局长帕特尔等。
+
+              
+4月25日，一年一度的白宫记者协会晚宴上，一名枪手开火，国民警卫队成员在会场奔跑。 （路透社）]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哥伦比亚考卡省爆炸袭击致14人死亡38人受伤]]></title>
+        <id>https://www.zaobao.com/news/world/story20260426-8953731</id>
+        <link href="https://www.zaobao.com/news/world/story20260426-8953731"/>
+        <updated>2026-04-26T00:38:23.000Z</updated>
+        <summary type="html"><![CDATA[距离5月31日总统选举仅剩一个多月，哥伦比亚西部考卡省卡希比奥市发生爆炸袭击，当局将事件归咎于武装组织。
+新华社报道，考卡省省长古斯曼证实，星期六（4月25日）的袭击事件造成14人死亡，另有38人受伤，其中包括五名未成年人。他向遇难者家属表示慰问，并称这起事件是一场令考卡民众深感悲痛的悲剧。
+据当地媒体报道，当天下午一辆行驶在泛美公路上的巴士遭袭，一枚据称为圆筒状的爆炸装置落在巴士上方，爆炸造成严重人员伤亡。网络流传视频显示，巴士车顶和窗户严重受损，公路也遭破坏。
+另据法新社报道，当局将这次袭击归咎于考卡省一个已解散的哥伦比亚革命武装力量（FARC）残余势力。这些异见分子一直在全国各地制造暴力事件。
+哥伦比亚总统佩特罗说：“发动这次袭击的人……是恐怖分子、法西斯分子和毒贩，我希望我们最精锐的士兵与他们对抗。”
+佩特罗也将爆炸事件归咎于莫迪斯科，他是哥伦比亚头号通缉犯，佩特罗甚至将他比作已故的可卡因大亨埃斯科瓦尔。
+此前，哥伦比亚第三大城市卡利的一个军事基地星期五（24日）遭到炸弹袭击，造成两人受伤，并引发考卡山谷省和考卡省的一系列袭击事件。
+军方首长洛佩斯称，过去两天，这两个省共记录在案的袭击事件达26起。
+哥伦比亚存在一些武装组织，他们通过贩毒、非法采矿和敲诈勒索等手段筹集资金，并试图通过暴力手段影响选举。
+拒绝接受2016年与政府达成的和平协议的哥伦比亚革命武装力量残余势力，一直在积极破坏与佩特罗陷入僵局的和平谈判。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[称真主党违反停火协议 以色列袭击黎巴嫩造成六死17伤]]></title>
+        <id>https://www.zaobao.com/news/world/story20260426-8953684</id>
+        <link href="https://www.zaobao.com/news/world/story20260426-8953684"/>
+        <updated>2026-04-25T23:59:27.000Z</updated>
+        <summary type="html"><![CDATA[以色列总理内坦亚胡称，黎巴嫩真主党违反停火协议，因此下令对黎巴嫩发动空袭。　　
+黎巴嫩国家媒体报道称，以色列星期六（4月25日）对黎巴嫩南部至少四处地点发动袭击。其中，宾特朱拜勒区一城镇遭到两次连续空袭，提尔区一城镇遭到另一次空袭，纳巴蒂耶区另外两座城镇也遭到袭击。
+据卫生部称，纳巴蒂耶和宾特朱拜勒的空袭已造成六人死亡、17人受伤。
+以色列军方称，六名死者都是真主党成员，包括“消灭”三名驾驶“装满武器的车辆”的真主党成员，以及一名骑电单车的真主党成员，并在其他地点击毙另外两名武装人员。
+美国总统特朗普星期四（23日）宣布以黎将停火延长三周，并在会见以色列和黎巴嫩特使后对和平表示乐观。
+不过，真主党敦促黎巴嫩退出谈判，并警告称任何协议都将缺乏全国共识。
+黎巴嫩卫生部星期六公布的数据显示，自3月2日黎以战火重燃以来，以色列对黎巴嫩发动的袭击已造成2496人死亡，以及7725人受伤。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗总统强调：不会在威胁或封锁下被迫谈判]]></title>
+        <id>https://www.zaobao.com/news/world/story20260426-8953662</id>
+        <link href="https://www.zaobao.com/news/world/story20260426-8953662"/>
+        <updated>2026-04-25T23:50:46.000Z</updated>
+        <summary type="html"><![CDATA[伊朗总统佩泽希齐扬与巴基斯坦总理谢里夫通话时强调，德黑兰不会在压力、威胁或封锁下被迫进行谈判。
+据伊朗伊斯兰共和国通讯社（IRNA）报道，佩泽希齐扬星期六（4月25日）与谢里夫通话时，解释了阻碍外交进程的因素。
+他强调，只要美国的敌对行动和军事压力持续存在，“重建信任和推进对话进程将面临巨大困难”。　
+他说，美方一边发出对话信号、一边持续强化封锁与敌对行动，两者之间存在根本矛盾，这加深了伊朗人民及政府对美国的不信任。
+佩泽希齐扬向美方提出明确建议：应首先消除封锁等障碍，为解决问题营造必要的环境，并强调伊，朗仅要求在国际法框架内维护本国合法权利，并未提出超出此框架的任何诉求。
+巴基斯坦总理办公室发布声明称，两国领导人当天通话，就当前地区局势以及为促进地区和平与稳定所作努力交换意见。
+根据声明，谢里夫重申巴基斯坦坚定致力于维护地区和平，并将继续努力促进地区和平与安全。
+声明说，佩泽希齐扬感谢谢里夫、巴陆军参谋长穆尼尔和巴副总理兼外交部长达尔为和平事业作出的重要贡献。
+佩泽希齐扬也表达伊朗向往和平的立场，并相信伊朗和巴基斯坦之间的兄弟情谊将在未来继续深化和拓展。
+另外，伊朗最高领袖穆杰塔巴星期六晚上在社交媒体发文，敦促“伊朗南边邻国”认清形势，作出正确判断，对“邪恶势力”的虚假承诺保持警惕。
+穆杰塔巴在官方社媒账号说：“我们仍在等待你们作出适当回应，以展现彼此间的兄弟情谊与善意。但这种情况只有在你们摆脱那些傲慢的强权时才会发生，他们从不放过任何羞辱你们、剥削你们的机会。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美军拦截遭制裁商船 押送油轮返伊朗]]></title>
+        <id>https://www.zaobao.com/news/world/story20260426-8953647</id>
+        <link href="https://www.zaobao.com/news/world/story20260426-8953647"/>
+        <updated>2026-04-25T23:29:44.000Z</updated>
+        <summary type="html"><![CDATA[美军中央司令部发声明称，美军在阿拉伯海拦截一艘遭制裁的商船，并迫使船只返回伊朗。
+新华社报道，美军中央司令部星期六（4月25日）发声明说，当天早些时候，美军平克尼号导弹驱逐舰出动直升机拦截这艘受到美国制裁的商船。目前，这艘商船正按照美军指令，在押送下返回伊朗。
+另据彭博社报道，这艘名为塞凡号（M/V Sevan）的油轮，是美国财政部星期五（24日）制裁的19艘与伊朗有关的“影子舰队”船只之一，制裁原因是这些船只涉嫌“向海外市场运输价值数十亿美元的伊朗能源、石油和天然气产品，包括丙烷和丁烷”。
+这是美国总统特朗普封锁伊朗能源出口行动的一部分措施。
+中央司令部指出，美军继续执行对进出伊朗港口船只的封锁。自封锁措施实施以来，已有37艘船只被迫改变航道。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗外长结束阿曼访问后 将再次访问巴基斯坦]]></title>
+        <id>https://www.zaobao.com/news/world/story20260426-8953630</id>
+        <link href="https://www.zaobao.com/news/world/story20260426-8953630"/>
+        <updated>2026-04-25T23:21:35.000Z</updated>
+        <summary type="html"><![CDATA[伊朗外交部长阿拉格齐在结束对阿曼的访问之后，前往俄罗斯之前，将再次访问巴基斯坦。
+伊朗伊斯兰共和国通讯社星期六（4月25日）报道说，伊朗外交部公布上述新计划。阿拉格齐此前于星期五（24日）至星期六到访巴基斯坦。
+据报道，阿拉格齐在巴基斯坦时转达了伊朗关于“全面结束战争、实现和平”的协议所需基本条件的立场和观点，并于星期六晚上抵达阿曼首都马斯喀特，继续他的对外访问行程。
+报道说，随同阿拉格齐访问巴基斯坦的部分代表团成员已返回德黑兰，就结束战争的相关议题进行商议，计划于星期天（26日）晚上再回到伊斯兰堡与阿拉格齐会合。
+阿拉格齐访问巴基斯坦后称，此行“成果丰硕”，但对华盛顿的意图表示怀疑。“我还没看到美国是否真的认真对待外交。”
+巴基斯坦外长达尔也在社媒发文称，总理谢里夫和其他高级领导人与阿拉格齐会晤了约两个小时。
+伊朗方面星期五宣布，阿拉格齐此行将出访巴基斯坦、阿曼和俄罗斯三国。访问期间，除了就双边事务协调、地区形势发展进行磋商外，伊方也将与三国就结束美国和以色列对伊朗的侵略战争、实现地区和平与稳定的最新进展交换意见。
+美国白宫星期五曾表示，美国总统特朗普的特使威特科夫和女婿库什纳将于星期六启程到巴基斯坦，但在阿拉格齐结束访问、离开巴基斯坦后，特朗普宣布取消美方代表前往伊斯兰堡“与伊朗方面会晤”的行程。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普取消巴基斯坦谈判 称“坐着空谈毫无意义”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260426-8953627</id>
+        <link href="https://www.zaobao.com/news/world/story20260426-8953627"/>
+        <updated>2026-04-25T23:06:19.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普取消了美国代表团访问巴基斯坦的行程。此前伊朗外长仅与巴基斯坦官员会谈后便离开伊斯兰堡，这无疑给和平前景带来了新的挫折。
+路透社报道，特朗普星期六（4月25日）在佛罗里达州告诉记者，他决定取消美国特使威特科夫和女婿库什纳的访问计划，因为在伊斯兰堡的会谈涉及过多的差旅和费用，而且伊朗最新的和平提议对他来说还不够好。
+他登上空军一号返回华盛顿之前说，在他宣布取消访问后，伊朗提交了一份修改后的方案，“但还不够”。
+另据法新社报道，特朗普告诉记者说：“他们（伊朗）给我们的那份文件本应更好，但有趣的是，在我取消访问后，不到10分钟，我们就收到了一份更好的新文件。”
+他也说：“我们掌握了所有筹码。他们（伊朗）随时可以联系我们，但你们不会再为了闲聊而飞18个小时了。”
+当被问及取消行程是否意味着战争将重燃时，特朗普回应说：“不，这并不意味着战争会再次爆发。我们还没有考虑过这个问题。”
+他后来在社媒发文说：“我刚刚取消代表团前往巴基斯坦伊斯兰堡与伊朗会面的行程。浪费在旅途上的时间太多了，工作量也太大了！此外，他们（伊朗）的‘领导层’内部纷争不断，一片混乱。没人知道谁说了算，包括他们自己。而且我们掌握着所有筹码，他们却一无所有！如果他们想谈，只需打个电话就行了！”
+此前不久，伊朗外长阿拉格齐结束对伊斯兰堡的访问，期间他会见了重要调解人巴基斯坦军方参谋长穆尼尔，以及总理谢里夫和外交部长达尔。
+阿拉格齐称，巴基斯坦之行“成果丰硕”，但他对华盛顿的意图表示怀疑。“我还没看到美国是否真的认真对待外交。”
+即便在特朗普采取行动之前，谈判前景也并不明朗。伊朗国家电视台称，阿拉格齐没有与美国官员会面的计划，伊斯兰堡将扮演传递提议的渠道角色。
+这场冲突始于2月28日美国和以色列对伊朗的空袭，目前已达成停火协议。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国际特稿：核电站沦为战场新标的 核能复兴前路危机四伏]]></title>
+        <id>https://www.zaobao.com/news/world/story20260426-8931410</id>
+        <link href="https://www.zaobao.com/news/world/story20260426-8931410"/>
+        <updated>2026-04-25T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1986年4月26日，位于乌克兰北部的切尔诺贝利核电站按预定计划关闭4号核反应堆，进行发电机能力测试。
+不料，反应堆在七秒后突然爆炸，强大的冲击力把重达1000吨、约相当于三架747客机总重量的反应堆钢盖炸飞，并向大气释放近520种危险的放射性核素。
+灾难所释放出的总辐射量超过第二次世界大战广岛原子弹爆炸的400倍，核污染扩散至苏联大部分地区。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[番外 14： 跟李诞聊聊播客、创作、AI 与中年]]></title>
+        <id>https://www.xiaoyuzhoufm.com/episode/69ece4fd1e94ae692124bfcf</id>
+        <link href="https://www.xiaoyuzhoufm.com/episode/69ece4fd1e94ae692124bfcf"/>
+        <updated>2026-04-25T16:26:31.000Z</updated>
+        <summary type="html"><![CDATA[这期节目有点特别，看标题估计就知道了。这是一次关于播客、创作、媒介、AI 和「中年」怀旧的闲聊。也是一次没有提纲更没有逐字稿的，「用嘴思考」的快乐体验。
+
+时间轴
+
+00:00｜半拿铁是怎么开始的
+07:32｜起点：俄罗斯经济和中国饮料简史
+09:13｜半拿铁的工作流
+14:52｜谁主导，谁写稿的工作方式
+20:22｜播客、电台和广告
+30:58｜声音为什么让人觉得亲近
+41:05｜做节目带来的关系与好奇心
+54:13｜AI、创作和未来工作
+01:04:53｜最后一代古代人]]></summary>
+        <author>
+            <name>半拿铁 | 商业沉浮录</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据报伊朗谈判立场更强硬 表明须采伊方条件才可结束战争]]></title>
+        <id>https://www.zaobao.com/news/world/story20260426-8953034</id>
+        <link href="https://www.zaobao.com/news/world/story20260426-8953034"/>
+        <updated>2026-04-25T16:05:47.000Z</updated>
+        <summary type="html"><![CDATA[（伊斯兰堡／华盛顿综合电）美国和伊朗星期六通过巴基斯坦展开间接谈判。据报道，德黑兰展示了比第一轮谈判更强硬的立场，宣称谈判必须按照它的而不是华盛顿的条件进行，战争才有望结束。
+有分析指，伊朗领导层对谈判条件有分歧，强硬派坚持不做出退让，或已使美伊更难推进谈判，通过外交途径结束战争。
+伊朗外长阿拉格齐星期六（4月25日）在伊斯兰堡同巴基斯坦总理谢里夫和陆军参谋长穆尼尔会谈。路透社报道，阿拉格齐向斡旋方传达了德黑兰的谈判条件，并对美方的条件持保留态度。
+新华社引述巴基斯坦消息来源报道，与第一轮谈判相比，伊朗此次立场更为强硬，强调任何停战方案都必须按照它的条件拟定，而不是依照美国总统特朗普的条件。
+白宫早前宣布，特朗普的总统特使威特科夫和女婿库什纳星期六会动身前往伊斯兰堡；但据福克斯新闻周六报道，特朗普已取消威特科夫和库什纳的巴基斯坦之行。 
+《华尔街日报》报道，阿拉格齐当天已离开巴基斯坦前往阿曼。不过巴基斯坦消息后来透露，如果相关接触进展顺利，阿拉格齐之后或返回伊斯兰堡。 
+
+伊朗恫言报复美军封锁伊朗海运
+
+伊朗军方也摆出强硬姿态，恫言对美军在霍尔木兹海峡封锁伊朗海运采取反制行动。伊朗武装部队中央总部发言人说：“如果美军继续在区域实施封锁、抢劫和海盗行为，必将面临伊朗强大武装力量的回应。”
+德黑兰也再度宣称完全掌控霍尔木兹海峡主权。新华社报道，伊朗伊斯兰议会议员赛义迪当天接受迈赫尔通讯社访问时说，德黑兰已就管理海峡拟定了综合方案，在那里航行的船只须有伊朗许可，若被认定为敌国船只则不得通过，以色列的船只更是绝对禁止。获准通过的船只须就安全、环境保护、航运管理、许可发放等付费。
+在雅典访问的法国总统马克龙则重申，法国与盟友专注于争取霍尔木兹海峡重开，显然试图安抚备受波斯湾原油阻断打击的全球能源市场。 
+马克龙在与希腊总理米佐塔基斯联合召开的记者会上说：“我们的目标是在未来几天和几周，让霍尔木兹海峡按照国际法保障航行自由，且不收费的情况下，获得全面重开。” 
+
+《华尔街日报》：伊朗内部分歧让美伊更难推进谈判
+
+《华尔街日报》星期五（24日）引述消息报道，伊朗领导人之间针对与美国谈判时应给予多大的让步空间看法不一，内部冲突已浮出台面。
+知情者说，伊朗的内部分歧早在4月初首轮会谈时已显露无遗，当美国追问伊朗愿意讨论的问题细节时，伊方含糊其辞。
+据报，强硬派领袖与更关注重建经济的其他高层就谈判问题陷入了拉锯。强硬派不断向谈判代表施压，力主不对美国妥协，这些内部分歧已让美伊谈判更难推进。
+极端保守派国会议员纳巴维安几天前就在媒体访问中，批评国会议长卡利巴夫在首轮会谈中犯下“战略失误”，不应当与美方探讨核问题，“导致敌人更大胆”。
+知情者还说，革命卫队新任总司令瓦希迪也反对向美方过于让步。
+美国田纳西大学的伊朗安全部队专家戈尔卡向《华尔街日报》分析，伊朗内部各个权力中心都试图在任何正式会谈举行前争取更有利的条件。“他们正在上演抗拒谈判，以增加谈判筹码。”
+不过，以色列国家安全研究所的伊朗问题研究主管齐米特认为，伊朗政权极不受民众欢迎，如果让内部分裂的印象定型，将打击它在国内的气势。
+齐米特说，伊朗如今缺乏一个强有力、能做艰难抉择并能承担风险的领袖，这不利于它的内部团结。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰：中东部遭俄袭击 数十人死伤]]></title>
+        <id>https://www.zaobao.com/news/world/story20260426-8953306</id>
+        <link href="https://www.zaobao.com/news/world/story20260426-8953306"/>
+        <updated>2026-04-25T16:01:50.000Z</updated>
+        <summary type="html"><![CDATA[乌克兰总统泽连斯基说，俄罗斯对乌克兰中东部第聂伯罗彼得罗夫斯克州发动多轮大规模空袭，导致数十人死伤。
+泽连斯基星期六（4月25日）在社交媒体发布消息称，俄军24日晚至25日白天使用导弹和无人机对第聂伯罗彼得罗夫斯克州多次发动大规模袭击，袭击目标包括能源设施和居民楼等民用目标，共导致五人死亡、40多人受伤，另有两人失踪。搜救行动仍在进行中。
+新华社引述第聂伯罗彼得罗夫斯克州军事管理局局长甘贾在社交媒体发布的消息说，俄军的大规模袭击导致五人死亡、46人受伤，其中五名伤者为儿童。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EP80《深度工作》：什么是AI时代最不能被取代的技能？]]></title>
+        <id>https://www.xiaoyuzhoufm.com/episode/69eb32bd1e94ae69210ebaeb</id>
+        <link href="https://www.xiaoyuzhoufm.com/episode/69eb32bd1e94ae69210ebaeb"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在这个AI能一秒写出及格文案，两秒画出精美PPT的时代，你有没有感到一种前所未有的“被贬值感”？又有没有想过，其实这种职业危机，背后推手不仅仅是AI？
+
+我们每天在无数个“收到”中切碎大脑，在多线程切换和会议消息轰炸中疲于奔命，在996和咖啡奶茶中消耗健康，然后在已经被无限压榨的“个人时间”箱子里，拼命塞进学习、爱好、生活、人际、公益……最后，在注定的一次次失败中自我苛责、自我怀疑。
+
+我常常觉得身不由己陷入这一切的现代人真是太可怜了😂。
+
+疲惫和忙碌让我们不再有心力去审视，这种模式是否有持续性，又是否真的“忙碌”能帮我们打造出这个时代的职业“诺亚方舟”。真相是，你越忙碌，价值越低；你消息回得越快，越容易被取代。
+
+本期我们一起拆解Cal Newport 的经典——《深度工作》，和他的新书《慢生产力》，聊聊为什么在这个“技术垄断”的时代，“深度”反而成了你最昂贵、最不可替代的职业资本。
+
+在这场4个多小时的“脑力重塑”中，我们也会深入聊聊如何接纳人生的有限性，如何彻底终结分心、拖延和畏难情绪、丹麦人的四点下班哲学，和职业规划的本质。
+
+准备好冰咖啡，关掉通知，我们要开始潜入深海了。
+
+---------------------------
+
+欢迎在以下平台关注我们：
+
+携隐Melody：小红书🍠 | 微博🧣 | 即刻🟡 | 公众号💚
+
+纵横四海：小红书🍠 | 微博🧣 | 即刻🟡
+
+---------------------------
+
+🎙️ 感谢本期赞助方「华夏基金」！
+
+在努力工作、体验当下的同时，也别忘了给未来的自己提前攒一份底气。作为拥有20余年丰富经验的老牌机构，华夏基金一直倡导「投给想要的未来」。
+
+如果你还在纠结个人养老金怎么买，不妨关注一下华夏基金的养老指数基金Y份额。主打低成本、高透明，轻松涵盖大盘、科创板等核心资产，帮你更简单地把握市场红利。
+
+💡 省钱小贴士： 新一年 1.2 万元的个人养老金缴存额度已经开放啦！现在搞定，不仅能给未来的自己存笔钱，还能享受最高 5400 元的个税抵扣。用确定的规划，换一个安心的未来！
+
+📝 时间轴
+
+AI时代的取代和共生
+
+00:06:15卡尔·荣格的“石头塔楼”与比尔·盖茨的“思考周”
+00:18:10简奥斯汀的故事新版本：《傲慢与偏见》真的是在客厅写出来的吗？
+00:26:36为什么说深度工作是AI时代最有价值的技能？
+00:34:10微软职场报告：AI真的在取代人类工作吗？
+00:46:24经历塑造大脑：你关注什么，你的世界就是什么样子
+00:58:19为什么深度工作在当下越来越稀缺？
+01:08:59职场度量黑洞：最小阻力原则 & 伪生产力（忙碌作为生产力）
+
+深度工作的几个原则
+
+01:35:22深度哲学：禁欲主义、双峰、节奏还是新闻记者？选一个适合你的
+01:52:08第一勺冰淇淋原则：如何确保最重要的事不被琐事挤掉
+02:05:44可视化计分板：让你的深度工作时长变成可见的复利
+
+面对人生的有限性
+
+02:26:19拖延、分心、畏难情绪：逃避的根源是什么？
+02:40:55直面痛苦：没有解决方案，就是解决方案
+02:49:35花足时间：只要你愿意忍受无知的不适，解决方案就会出现
+02:58:12聚焦当下：做接下来最必要的事，路自己会一步步铺开
+
+逃离注意力经济的牢笼
+
+03:06:18注意力经济的本质：我们如何成了硅谷之火的“燃料”
+03:17:54为什么说我们默认的“娱乐”其实不是真正的“娱乐”
+03:27:04重要活动清单：重新审视我们的顶层目标和底层活动
+
+职业规划：我们最需要积累的是什么？
+
+03:39:25激情和使命感公式：它们如何生长出来
+03:44:47相邻可能：为什么对专精的追求是职业规划最重要的一环
+03:50:20自主陷阱：离职博主们为什么注定失败？
+03:56:54职场资本：做出所有两难职业选择的依据
+
+愿景：主动保护我们的深度工作
+
+04:10:32丹麦，一个深度工作的国度
+04:17:44征集问题回答：英语学习的畏难情绪、KPI焦虑、完美主义等
+
+这一期我们会在评论区随机抽取听友留言，送出本期节目的专属徽章 🎁
+
+🎵 片头/尾曲：Graduate 666 - Fiona Huang]]></summary>
+        <author>
+            <name>纵横四海</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗外长离开伊斯兰堡 特朗普取消美国代表团行程]]></title>
+        <id>https://www.zaobao.com/news/world/story20260425-8953246</id>
+        <link href="https://www.zaobao.com/news/world/story20260425-8953246"/>
+        <updated>2026-04-25T15:33:04.000Z</updated>
+        <summary type="html"><![CDATA[伊朗外交部长阿拉格齐已经离开伊斯兰堡。他于星期五（4月24日）抵达，与巴基斯坦高级官员举行会谈，讨论与美国进行的和平谈判。
+法新社报道，两周前，华盛顿和德黑兰在巴基斯坦首都举行了首轮直接会谈，此前双方就美国和以色列对伊战争达成了临时停火协议。但双方尚未举行第二轮会谈。
+新华社引述巴基斯坦消息人士说，如果相关接触进展顺利，阿拉格齐或在未来率团返回巴首都伊斯兰堡。
+美国总统特使威特科夫和总统女婿库什纳原本预计将很快抵达伊斯兰堡。据美国媒体报道，美国总统特朗普称，已取消威特科夫和库什纳前往巴基斯坦与伊朗谈判的行程。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗议员：已拟定管理霍尔木兹海峡综合方案]]></title>
+        <id>https://www.zaobao.com/news/world/story20260425-8953213</id>
+        <link href="https://www.zaobao.com/news/world/story20260425-8953213"/>
+        <updated>2026-04-25T15:17:58.000Z</updated>
+        <summary type="html"><![CDATA[据伊朗迈赫尔通讯社报道，伊朗议会议员贝赫纳姆·赛义迪说，伊朗已就管理霍尔木兹海峡形成一个综合方案。
+伊朗迈赫尔通讯社星期六（4月25日）报道，赛义迪在接受通讯社采访时说，方案的一项重要内容是，在所有信函和商业文件中，仅承认“波斯湾”这个名称，不接受任何其他名称。区域内航行的船舶和舰艇必须获得伊朗的许可。霍尔木兹海峡的主权将完全掌握在伊朗手中。
+新华社引述报道说，赛义迪还说，伊最高国家安全委员会或武装部队总参谋部认定为敌对国家的船只不得通过霍尔木兹海峡，以色列船只绝对禁止通过该区域。通过该区域的船只须就安全、环境保护、航运管理、许可发放等事项缴纳相关费用，且优先以里亚尔支付。
+对于给伊朗造成损失的国家，赛义迪说，相关国家必须先与伊朗就赔偿方式达成协议，伊方才会向其船只发放通行许可。
+他透露，方案已提交伊朗伊斯兰议会国家安全委员会，一旦议会全体会议恢复，该方案将提交议长团，并在全体会议上进行审议。方案也可能通过最高国家安全委员会批准并发布。
+伊朗国防部：敌人试图体面逃离战争泥潭
+
+另据伊朗学生通讯社报道，伊朗国防部发言人指出，敌人正试图体面地逃离战争泥潭。
+发言人说，伊朗军队如今是主导力量，敌人正试图体面地从其深陷的战争泥潭中逃离，他们摧毁伊朗导弹和军事力量的企图已完全失败，霍尔木兹海峡已处于伊朗强大控制之下。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗外长与巴基斯坦总理会谈 重申伊朗停火原则]]></title>
+        <id>https://www.zaobao.com/news/world/story20260425-8953176</id>
+        <link href="https://www.zaobao.com/news/world/story20260425-8953176"/>
+        <updated>2026-04-25T15:00:39.000Z</updated>
+        <summary type="html"><![CDATA[伊朗外交部长阿拉格齐在巴基斯坦首都伊斯兰堡与巴基斯坦总理谢里夫举行会谈，再次阐明伊朗有关停火和彻底结束战事的原则立场。
+伊朗外交部星期六（4月25日）在社交媒体上发表声明说，双方讨论了各领域双边关系与合作以及地区和国际形势。阿拉格齐赞赏巴基斯坦为结束战争、促成停火所作辛勤努力，强调巴基斯坦在伊朗外交政策和关系中的特殊地位，并表示将进一步发展两国关系。
+新华社引述声明说，阿拉格齐还提及以色列在巴勒斯坦犯下的罪行以及对黎巴嫩领土和国家主权的侵犯。他赞赏巴基斯坦支持巴勒斯坦人民的立场，以及为落实黎以停火所作努力。
+谢里夫说，两国将继续加强双边关系，在多边层面和国际组织中加强协调与合作。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What you discover when you really listen | Hrishikesh Hirway (re-release and interview)]]></title>
+        <id>69ea33231e1e812364347bd7</id>
+        <link href="https://go.ted.com/6nSi"/>
+        <updated>2026-04-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“Every conversation has the potential to open up and reveal all the layers and layers within it, all those rooms within rooms," says musician and host of the beloved podcast Song Exploder, Hrishikesh Hirway. In this profoundly moving talk from 2022, he offers a guide to deep conversations and explores what you learn when you take that same kind of close listening we often give to music, and turn it toward people.
+
+A lot has changed for Hrishikesh since this popular talk was released, and after more than a decade helping other artists tell their stories and helping us think about listening in new ways, he's got a new solo album that just came out, called In the Last Hour of Light, which he describes as a memoir of sorts. Elise Hu, host of TED Talks Daily, caught up with him earlier this month to talk about his new album, how his ideas about listening have evolved since his talk, and what his own creative process looks like today. They also do a mini Song Exploder of sorts to take a peak into Hrishikesh's own songwriting process, breaking down one of the new songs on this album, "Things Change, Even Now," (co-written with Vagabond), which is shared in full at the end of the episode.
+
+This episode originally aired in 2022. The interview was recorded in April 2026.
+Learn more about our flagship conference happening this April at attend.ted.com/podcast
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本北部山火肆虐 3000余人撤离]]></title>
+        <id>https://www.zaobao.com/news/world/story20260425-8953077</id>
+        <link href="https://www.zaobao.com/news/world/story20260425-8953077"/>
+        <updated>2026-04-25T14:25:50.000Z</updated>
+        <summary type="html"><![CDATA[日本北部千余名消防员连续第四天奋力扑救两处山火，火势逼近居民区，迫使3000余名居民撤离。
+近年来日本森林火灾频发。路透社报道，此次山火过火面积累计达到日本有记录以来的第三大。
+第一处山火于星期三（4月22日）在山区燃起，随后附近第二处山火逼近岩手县大槌町（Otsuchi）的居民区。
+一名消防部门官员星期六（4月25日）告诉记者，丘陵地形、干燥天气和大风阻碍了灭火工作。
+截至星期六，火灾已烧毁约730公顷（1800英亩）土地，导致1541户家庭、3233人（约占大槌町人口的三分之一）紧急疏散。
+2011年3月，地震和海啸夺去了大槌町近十分之一人口的生命，给这座小镇留下了难以磨灭的伤痕。
+疏散工作星期五展开，曾是护士的76岁居民梶木妙子说：“即使在2011年的灾难中，这片区域也没有烧毁。当时发生了海啸，但我们这里没有发生火灾。”
+她说她整夜没睡，一直盯着熊熊燃烧的火焰，并把银行存折、医疗卡以及自2010年以来一直养着的宠物龟都打包带走了。
+地面消防员得到了来自多个县和日本自卫队的直升机支援，这些直升机进行了空中洒水作业，试图阻止火势蔓延。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泽连斯基访阿塞拜疆 签署安全与能源合作协议]]></title>
+        <id>https://www.zaobao.com/news/world/story20260425-8952987</id>
+        <link href="https://www.zaobao.com/news/world/story20260425-8952987"/>
+        <updated>2026-04-25T13:54:57.000Z</updated>
+        <summary type="html"><![CDATA[乌克兰总统泽连斯基同阿塞拜疆总统阿利耶夫签署了安全和能源合作协议。基辅方面希望它在抵御俄罗斯侵犯领空方面的经验能发挥作用。
+路透社报道，泽连斯基星期六（4月25日）在阿塞拜疆首都巴库说，两国签署了一项关于军事工业合作的协议。
+阿利耶夫说，两国之间的军事工业合作具有“广泛前景”，两位领导人讨论了联合国防生产。但他没有具体说明是否签署了任何协议。
+自2月底美国和以色列空袭伊朗以来，中东地区爆发了新一轮冲突。此后，多个国家寻求乌克兰的帮助和专业知识，以击落伊朗的远程无人机。
+乌克兰已与多个欧洲盟国达成协议或实施了联合武器生产计划。
+泽连斯基还寻求重启与俄罗斯的和平谈判。此前，这些谈判由美国斡旋，但随着美国将更多精力投入到对伊朗的军事行动中，谈判一度陷入停滞。
+这位乌克兰领导人说，他已与阿利耶夫讨论了在阿塞拜疆举行乌克兰与俄罗斯会晤的可能性。他说：“如果俄罗斯愿意进行外交斡旋，我们已准备好在阿塞拜疆举行下一轮会谈。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中东战火催生美出口盛世 石油危机催促能源转型]]></title>
+        <id>https://www.zaobao.com/news/world/story20260425-8952203</id>
+        <link href="https://www.zaobao.com/news/world/story20260425-8952203"/>
+        <updated>2026-04-25T13:05:52.000Z</updated>
+        <summary type="html"><![CDATA[（伦敦综合讯）中东战事导致霍尔木兹海峡航运阻断，严重影响波斯湾的石油运输，亚洲与欧洲国家纷纷转向美国寻找替代货源。这股抢购潮推动美国原油与石油产品出口创下历史新高，也巩固美国作为全球能源出口强国的地位。
+根据美国能源信息署的最新数据，美国上周原油和石油产品出口量攀升至每日近1290万桶。船舶追踪公司Kpler的数据显示，美国液化天然气出口上个月刷新纪录。
+目前，这股能源抢购潮尚无放缓迹象。截至本星期三（4月22日），有60多艘空舱超级油轮驶向美国的墨西哥湾沿岸，数量约为往常水平的两倍，显示美国能源出口在未来数月还会进一步上升。
+
+亚欧市场仍面临基建与政治挑战
+
+尽管需求炽热，但能源专家指出，美国要将这波“战时红利”转化为长期增长，仍面临瓶颈和局限。
+首先是基础设施错配。亚洲各国主要依赖中东石油，因此炼油厂大多为处理较稠重、含硫量较高的中东原油而设计，而不适合美国的轻质原油。不同类型原油需不同的加工设施，否则难以充分提炼出高价值燃料，也影响炼油效率和利润。
+牛津能源研究所研究员巴克希指出，为了匹配油种和设施，炼油厂须进行技术改造，但代价很高，“须数月做工程调整，数年才可能全面实施”。
+另一问题是，欧洲对于依赖美国能源的政治忧虑日益加深。随着美国总统特朗普与欧洲领导人的关系日益紧张，一些国家担心能源供应可能沦为外交谈判筹码。
+欧亚集团能源董事总经理格洛伊斯坦认为，欧洲国家担心美国会滥用这种供应依赖，在气候政策、北约事务、安全合作与关税议题上争取优势。
+
+美国能源缓解紧缺但难填满缺口
+
+目前，霍尔木兹海峡运输受阻导致每日超过1000万桶原油和石油产品滞留，占全球供应约一成。虽然美国能源出口增加有助于缓解航空燃料和民生燃料的供应紧缺，但还无法完全弥补海峡受阻造成的供应缺口。
+其实，美国的出口能力已接近瓶颈。得克萨斯州和路易斯安那州的主要出口设施已接近装载极限。墨西哥湾沿岸一个新的液化天然气码头虽然已在日前发出首批货物，但预计要到明年才能全面运作。
+然而，一旦中东局势回稳、霍尔木兹海峡重开，美国石油是否还能这么吃香就难说了。东京笹川和平基金会高级研究员渡边恒雄认为，到那时候，“美国的石油和天然气就不再那么有吸引力了”。
+
+国际能源署：石油危机加速能源转型
+
+另一方面，专家指出，这场由美伊战争触发的石油危机已永久改变化石燃料市场生态，促使各国为保障能源供应而逐步舍弃化石燃料。
+国际能源署署长比罗尔接受英国《卫报》采访时指出，各国对风险与供应可靠性的认知会改变，政府将重新审视能源战略。可再生能源、核能以及电气化发展预计将明显提速，这终究会侵蚀石油市场。
+他警告，若化石燃料价格持续高企，一些发展中国家可能转向煤炭。不过，随着太阳能成本竞争力上升、增长更快，可再生能源仍是更具吸引力的长期选择。他说，开发可再生能源是“我从未听说有人后悔”的选择。 
+包括英国、欧盟、各主要产油国和数十个发展中国家的50多个国家政府，下周将在哥伦比亚召开首个全球化石燃料转型国际会议，讨论如何应对石油危机与推动能源转型。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗军方：美军若继续封锁 必将面临强大回应]]></title>
+        <id>https://www.zaobao.com/news/world/story20260425-8952822</id>
+        <link href="https://www.zaobao.com/news/world/story20260425-8952822"/>
+        <updated>2026-04-25T13:02:32.000Z</updated>
+        <summary type="html"><![CDATA[伊朗军方指出，如果美军继续在地区内实施封锁、抢劫等“海盗行为”，必将面临伊朗强大武装力量的回应。
+伊朗塔斯尼姆通讯社引述武装部队哈塔姆安比亚中央总部发言人星期六（4月25日）的声明说：如果“入侵的美军继续在该地区进行封锁、匪夷所思举动和海盗行为，他们应该明白，他们将面临伊朗强大武装力量的回应”。
+法新社引述声明说：“我们已做好准备，决心采取行动，同时也在密切关注敌人的行为和动向。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【免费VPS】3分钟搞定两个免费VPS！新手也能轻松白嫖服务器 | Setup 2 Free VPS in 3 Mins! Beginner's Guide🚀]]></title>
+        <id>https://www.youtube.com/watch?v=6oarnmJ3BHY</id>
+        <link href="https://www.youtube.com/watch?v=6oarnmJ3BHY"/>
+        <updated>2026-04-25T12:55:09.000Z</updated>
+        <author>
+            <name>科技梦星云</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息人士：伊朗阐述停火立场 较第一轮谈判强硬]]></title>
+        <id>https://www.zaobao.com/news/world/story20260425-8952781</id>
+        <link href="https://www.zaobao.com/news/world/story20260425-8952781"/>
+        <updated>2026-04-25T12:51:12.000Z</updated>
+        <summary type="html"><![CDATA[巴基斯坦官方消息人士说，与第一轮谈判相比，伊朗这次的立场更加强硬，强调任何结束战争的方案都必须按照伊朗的条件执行，而不是按照美国总统特朗普提出的条件执行。
+新华社引述多名消息人士说，伊朗外长阿拉格齐星期五（4月24日）晚抵达巴基斯坦后即与巴军方围绕美伊谈判相关立场进行沟通。会上，伊方表达了自身观点，巴方向伊方转达了美方信息，伊方随后再次提出看法。
+消息人士说，自25日上午起，巴基斯坦与伊朗举行多场双边会谈。阿拉格齐上午在巴基斯坦首都伊斯兰堡与巴陆军参谋长穆尼尔举行会谈，阐述了伊朗在停火和结束战争问题上的立场和考量。
+伊朗外交部当天在社交媒体上发文说，双方在会谈中讨论了有关美以伊停火和结束战事的最新进展，以及加强西亚地区和平与稳定的合作。
+阿拉格齐赞赏巴基斯坦政府为促成停火和结束战事作出的努力，并阐述了伊朗在此问题上的立场和考量。
+穆尼尔感谢伊朗对巴基斯坦在推动外交进程方面给予的信任，并表示巴基斯坦将继续进行斡旋，直至取得最终成果。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[300对新人 加沙废墟上结连理]]></title>
+        <id>https://www.zaobao.com/news/world/story20260425-8952691</id>
+        <link href="https://www.zaobao.com/news/world/story20260425-8952691"/>
+        <updated>2026-04-25T12:40:18.000Z</updated>
+        <summary type="html"><![CDATA[巴勒斯坦加沙地带中部的代尔拜莱赫市（Deir el-Balah）战火稍歇，阿联酋在当地的救援组织法雷斯沙赫姆基金会星期五（4月24日）主办一场名为“欢乐之裳2”的大型婚礼。尽管代尔拜莱赫市在以色列的军事打击中遭受严重破坏，但仍阻挡不了人们对遵照传统仪式完婚以及追求新生活的渴望，约300对新人参加了婚礼，装饰简单甚至弹痕累累的新娘车挤满街道，还有新郎兴奋地站上车顶欢呼庆祝。（法新社）]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-5.5 正式发布！OpenAI 最强模型来了：这次强得有点离谱…]]></title>
+        <id>https://www.youtube.com/watch?v=aRkW4S5BWGo</id>
+        <link href="https://www.youtube.com/watch?v=aRkW4S5BWGo"/>
+        <updated>2026-04-25T12:29:51.000Z</updated>
+        <author>
+            <name>零度解说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以黎冲突：百万人流离失所 万余人死伤]]></title>
+        <id>https://www.zaobao.com/news/world/story20260425-8952619</id>
+        <link href="https://www.zaobao.com/news/world/story20260425-8952619"/>
+        <updated>2026-04-25T12:10:21.000Z</updated>
+        <summary type="html"><![CDATA[（贝鲁特／联合国／耶路撒冷综合电）黎巴嫩总统奥恩说，以色列的军事行动已导致黎巴嫩超过100万人流离失所，1万多人死伤，累计战争损失超过140亿美元（约178亿新元）。
+他周五（4月24日）在塞浦路斯举行的欧盟国家元首和政府首脑非正式会议上说，持续冲突和经济衰退已导致黎巴嫩如今面临生存危机，并呼吁欧盟召开国际重建会议。
+他说，尽管面临危机，黎巴嫩政府近几个月已采取果断措施加强主权，包括坚持一切关乎战争与和平以及军备问题的决定，必须完全掌握在黎巴嫩本国及其合法机构手中。
+他也说，黎巴嫩参与了由美国发起、欧盟和阿拉伯国家支持的外交谈判，以期达成可持续的解决方案，终结以色列的袭击，并确保以军完全撤离黎巴嫩领土。
+奥恩敦促欧盟增加人道主义援助资金，重启由法国倡议的支持黎巴嫩武装部队会议，并考虑在联合国驻黎巴嫩临时部队结束任务撤离后，由欧洲部队顶上。
+欧洲理事会主席科斯塔在同个会议上表明，希望黎巴嫩能实现长期停火，呼吁各方继续开展外交努力。欧盟委员会主席冯德莱恩则指出，如果黎巴嫩战火持续，中东和波斯湾地区就不可能实现稳定。她呼吁各方尊重黎巴嫩的主权和领土完整。
+不过，以色列总理内坦亚胡周五在视频声明中说，以色列在黎巴嫩保留“完全自由”的行动权，以应对任何威胁。他指出，以黎已开始实现历史性和平的进程，但以方很清楚真主党正试图进行破坏。他也说，以军周四和周五都发动打击，并决心让以色列北部地区居民恢复安全。
+美国总统特朗普周四宣布，以黎同意延长停火三周；但黎巴嫩卫生部周五说，以军当天对黎巴嫩南部发动空袭，导致六人丧命，两人受伤。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[糖尿病前期不是病人，也不是健康人：我自費戴兩次 CGM 後看懂的中間地帶]]></title>
+        <id>https://ducorn.com/cgm-prediabetes</id>
+        <link href="https://ducorn.com/cgm-prediabetes"/>
+        <updated>2026-04-25T11:27:47.000Z</updated>
+        <summary type="html"><![CDATA[家族有糖尿病史、醫師說飲食運動四個字接不住的糖前讀者該不該戴 CGM？自費戴兩次後，4 派專家分歧攤開來：73% 健康人飆升其實是 3 個來源混的數字、Means 跟 Attia 揭露對齊度反向、台灣健保不蓋糖前自費 NT$2,200，戴兩次後的判斷。]]></summary>
+        <author>
+            <name>讀角獸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本政府拟修改自卫队“官阶”名称引质疑]]></title>
+        <id>https://www.zaobao.com/news/world/story20260425-8952494</id>
+        <link href="https://www.zaobao.com/news/world/story20260425-8952494"/>
+        <updated>2026-04-25T11:00:27.000Z</updated>
+        <summary type="html"><![CDATA[据日本《读卖新闻》报道，日本政府已敲定修改自卫队“官阶”名称的方案，并计划于本年度内向国会提交相关修订草案。调整后的部分称呼与旧日本帝国军队存在重合。这一更名方案引发日本国内大量担忧和质疑声音。
+新华社引述《读卖新闻》星期六（4月25日）的报道说，政府拟将陆上、海上及航空自卫队各自的最高长官——幕僚长对应的将官等级改称为“大将”，其余将官统一为“中将”；将“一佐”改为“大佐”，整体参照国际通行的军衔体系进行调整。报道指出，这是自卫队1954年成立以来首次进行“官阶”名称调整，过去日本因“自卫队非军队”相关规定，长期使用区别于其他国家的官阶名称，而如今这一方针将迎来重大转折。
+日本立命馆大学亚洲与日本研究机构研究员角田燎指出，战后出于对战争责任的反省，陆上自卫队长期有意识地与旧日本帝国陆军划清界限。但对于此次更名，日本社会是否会如政府所称，仅将其视为“唤起对自卫队尊重”的一种方式，这一点令人怀疑。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马克龙：美俄中领导人“反对欧洲” 欧洲必须觉醒]]></title>
+        <id>https://www.zaobao.com/news/world/story20260425-8951781</id>
+        <link href="https://www.zaobao.com/news/world/story20260425-8951781"/>
+        <updated>2026-04-25T10:34:13.000Z</updated>
+        <summary type="html"><![CDATA[（雅典／尼科西亚综合电）法国总统马克龙星期五将美国总统特朗普、俄罗斯总统普京和中国国家主席习近平并列为“极力反对欧洲”的世界领导人，呼吁欧洲抓住当前局势变化，在国际舞台发挥更大影响力。
+正在希腊首都雅典访问的马克龙星期五（4月24日）指出，当前国际格局出现罕见局面：美国、俄罗斯和中国的领导人都与欧洲的立场相对立，这正是欧洲必须觉醒、加强战略自主的重要时刻。
+马克龙长期主张欧洲应加强自身安全与防务能力，减少对美国的安全依赖。
+马克龙也呼吁加强北约的欧洲支柱，并警告说，北约集体防御第五条款的可信度正受到质疑，削弱了联盟的整体力量。
+路透社日前引述美国官员报道，五角大楼一封内部电子邮件提出，华盛顿可考虑采取惩罚措施，对未支持美国打击伊朗的盟友施压。邮件指出，进入、驻扎和飞越权（Access, Basing and Overflight，简称ABO）是北约合作的基本条件。
+特朗普此前多次提出他可能不会履行北约第五条款，并批评北约盟友在美国对伊朗的战争中袖手旁观。法国、西班牙和意大利等国曾拒绝允许参与伊朗军事行动的美军战机飞越领空或使用基地，加剧了跨大西洋盟友之间的紧张关系。
+五角大楼电邮建议重新评估美国对欧洲海外领地的外交支持，例如美国在福克兰群岛（Falkland Islands）主权争议上的立场，作为对欧洲的报复。福克兰群岛是英国海外领土，阿根廷长期主张拥有主权。
+五角大楼发言人威尔逊接受英国广播公司（BBC）访问时说，尽管美国为北约盟友付出很多，“他们却没有支持我们”。她说，国防部将确保总统拥有可靠选项，以确保盟友不再只是“纸老虎”，而是切实履行他们的责任。
+
+西班牙重申是可靠盟友 北约无条款驱逐成员国
+
+西班牙首相桑切斯重申，西班牙始终履行义务，是北约可靠的成员国。
+特朗普2025年1月重返白宫以来，多次批评桑切斯。桑切斯拒绝同意按特朗普要求，把西班牙国防开支提高至国内生产总值（GDP）的5%，特朗普随后提出应把西班牙逐出北约。
+德国政府则明确表态，西班牙的成员国地位不存在问题。北约也回应说，《北大西洋公约》没有暂停或驱逐成员国的条款。
+北约下一次峰会将于7月7日至8日在土耳其举行。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马里多地传枪声 驻军城镇卡蒂疑遭袭击]]></title>
+        <id>https://www.zaobao.com/news/world/story20260425-8952124</id>
+        <link href="https://www.zaobao.com/news/world/story20260425-8952124"/>
+        <updated>2026-04-25T09:37:28.000Z</updated>
+        <summary type="html"><![CDATA[西非国家马里多个地区发生枪击事件，首都巴马科附近军政府统治者阿西米·戈伊塔的家乡卡蒂（Kati）也传出爆炸声和枪声。
+目击者和一名安全消息人士告诉法新社，星期六（4月25日）传出枪声的还包括北部主要城市加奥（Gao）和位于这个内陆国家中心的塞瓦雷（Sevare）。
+新华社报道，当天5时至5时30分之间，在巴马科听到卡蒂方向传出两声爆炸。另据当地多方消息，卡蒂疑似遭到袭击。
+卡蒂是马里重要驻军城镇，马里过渡总统戈伊塔（Assimi Goita）和国防部长、司法部长等官员的住所均位于卡蒂。
+马里已与圣战分子冲突十余年，军方分别于2020年和2021年通过两次政变夺取政权。
+自2012年以来，马里一直面临着安全危机，其主要威胁来自与卡伊达和伊斯兰国有关联的圣战组织、社区犯罪团伙以及分离主义分子的袭击。
+与邻国尼日尔和布基纳法索的军政府一样，马里军政府也断绝了与前殖民统治者法国等几个西方国家的关系，以便在政治和军事上更加接近俄罗斯。
+自2021年以来一直与马里军队并肩作战打击圣战分子的俄罗斯瓦格纳集团宣布将于2025年6月结束其在马里的任务，并已更名为“非洲军团”，成为俄罗斯国防部直接控制的机构。
+军政府镇压批评人士并解散了多个政党。军政府曾承诺在2024年3月前将权力移交给文职政府，但在2025年7月，军政府授予戈伊塔五年总统任期，并允许其“根据需要”连任，且无需举行选举。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The bridge]]></title>
         <id>1x-3557214</id>
@@ -9449,79 +10215,6 @@ Learn more about our flagship conference happening this April at attend.ted.com
         <link href="http://go.ted.com/virginiasanty"/>
         <updated>2026-03-27T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Design consultant Virginia Santy set out to create an office space built specifically for women, flipping the script on the subtle (and not-so-subtle) ways that workplaces and cities still fail them. The results were striking: greater productivity, deeper collaboration and an environment where women felt genuinely valued, leading her to ask a simple question: What would the world look like if we designed with women in mind?
-Learn more about our flagship conference happening this April at attend.ted.com/podcast
-
- Hosted on Acast. See acast.com/privacy for more information.]]></summary>
-        <author>
-            <name>TED Talks Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Agent 不安全。造出來的人親口說的。]]></title>
-        <id>https://ducorn.com/ai-agent-security</id>
-        <link href="https://ducorn.com/ai-agent-security"/>
-        <updated>2026-03-27T13:27:56.000Z</updated>
-        <summary type="html"><![CDATA[數百萬人把帳號密碼交給 AI Agent，但 OpenClaw 創造者自己承認 prompt injection「無解」、不敢推薦給家人用。CrowdStrike 說每一層都能被攻擊，Nature 研究說你越信任 AI 判斷力越差，而 Jensen Huang 說不用的代價更大。一個你今天就該做的事。]]></summary>
-        <author>
-            <name>讀角獸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw 爆了！黄仁勋一句话点破关键，英伟达紧急发布 NemoClaw｜零度解说]]></title>
-        <id>https://www.youtube.com/watch?v=Vt-yMk3cie4</id>
-        <link href="https://www.youtube.com/watch?v=Vt-yMk3cie4"/>
-        <updated>2026-03-27T11:15:00.000Z</updated>
-        <author>
-            <name>零度解说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的投資決策不是你的]]></title>
-        <id>https://ducorn.com/investment-psychology</id>
-        <link href="https://ducorn.com/investment-psychology"/>
-        <updated>2026-03-27T09:39:05.000Z</updated>
-        <summary type="html"><![CDATA[你花兩小時研究一檔股票，聽了 podcast，問了 AI，覺得這是獨立思考。但問題不在你的大腦，在你身處的資訊系統早就替你決定了。Crosby 說大腦有 bug，Hayes 說環境才是問題，Housel 說你抄的答案來自一張不同的考卷。四組矛盾，答案跟你想的不一樣。]]></summary>
-        <author>
-            <name>讀角獸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 390 期）：没有语料，大模型就是智障]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html"/>
-        <updated>2026-03-26T21:49:12.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
-本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
-封面图
-
-山东日照某住宅小区的彩色风雨连廊，入口处树林还设了咖啡馆。（via）
-没有语料，大模型就是智障
-如果现在做一个问卷调查，问大家"你觉得大模型是否具有智能？"
-我相信，大多数人会是肯定的回答。
-哪怕现在只是 AI 的初级阶段，大模型已经能够替代很多的人类智力劳动，确实非常神奇。
-但是，我们不要忘记真实情况，大模型不是魔法，更不是具有自主智能的"硅基智能体"，而是基于统计规律的语言模型，它的一切行为都基于数学计算。
-最好的证据就是，如果让它解决没有训练过的题目，也就是不存在统计规律的话，它根本解不出来。
-这就是我今天想分享的一个实验。
-
-两位国外的研究者找了五个主流的大模型：GPT-5.2、O4-mini、Gemini 3 Pro、Qwen3-235B、Kimi K2。
-他们让大模型使用五种小众的编程语言----Brainfuck、Befunge-98、Whitespace、Unlambda 和 Shakespeare----来编程解决各种问题。
-这些小众语言的共同特征是，网上很少有它们的资料，因此不能用来训练大模型。大家猜猜看，结果怎么样？
-实验结果用一句话总结，就是大模型的表现一塌糊涂。
-这五个大模型的平均答题正确率仅为3.8%，即100道题可以答对3.8道。相比之下，它们处理 Python 问题的正确率可以达到90%。
-更尴尬的是，仅有的那几道答对的题目，都是入门级。更难的级别（初级、中级、高级），所有五个大模型的正确率都为0。
-这个实验充分说明了，大模型的表现（智能程度）首先由训练材料决定：训练的语料越多，表现越好，比如 Python 的语料遍地都是，大模型因此极其擅长解决 Python 问…]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The magical, mesmerizing migration of monarch butterflies | Jaime Rojo (re-release)]]></title>
-        <id>69bdc2163bbfcfe8db8a8ace</id>
-        <link href="http://go.ted.com/jaimerojo"/>
-        <updated>2026-03-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When monarch butterflies migrate, they produce one of the most iconic wildlife spectacles in the world — and provide us with an important indicator of ecological health, says photographer Jaime Rojo. Telling a story about our relationship to the natural world, he shares his experience photographing these mesmerizing insects deep in their remote mountain habitats in Mexico, diving into the latest research into the mysteries of their multi-thousand-mile journey and sharing how each of us can join the growing movement to protect them.
-
-This episode originally aired on October 2024.
 Learn more about our flagship conference happening this April at attend.ted.com/podcast
 
  Hosted on Acast. See acast.com/privacy for more information.]]></summary>
