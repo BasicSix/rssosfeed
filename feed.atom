@@ -2,10 +2,621 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BasicSix.github.io/rssosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-30T02:48:43.854Z</updated>
+    <updated>2026-05-01T02:55:13.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://BasicSix.github.io/rssosfeed/index.html"/>
     <link rel="self" href="https://BasicSix.github.io/rssosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Flamingo 2026-4]]></title>
+        <id>1x-3565418</id>
+        <link href="https://1x.com/photo/3565418"/>
+        <updated>2026-05-01T02:54:27.931Z</updated>
+        <summary type="html"><![CDATA[Flamingo 2026-4 by Yuanwei Zuo APA]]></summary>
+        <author>
+            <name>Yuanwei Zuo APA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[scenery_10]]></title>
+        <id>1x-3546863</id>
+        <link href="https://1x.com/photo/3546863"/>
+        <updated>2026-05-01T02:54:27.927Z</updated>
+        <summary type="html"><![CDATA[scenery_10 by yein]]></summary>
+        <author>
+            <name>yein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Red Fox]]></title>
+        <id>1x-3565514</id>
+        <link href="https://1x.com/photo/3565514"/>
+        <updated>2026-05-01T02:54:27.924Z</updated>
+        <summary type="html"><![CDATA[A Red Fox by Gary Hu]]></summary>
+        <author>
+            <name>Gary Hu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nowhere for This Feeling to Go]]></title>
+        <id>1x-3565424</id>
+        <link href="https://1x.com/photo/3565424"/>
+        <updated>2026-05-01T02:54:27.921Z</updated>
+        <summary type="html"><![CDATA[Nowhere for This Feeling to Go by noriaki okawa]]></summary>
+        <author>
+            <name>noriaki okawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Gaze of the Owl 2]]></title>
+        <id>1x-3564368</id>
+        <link href="https://1x.com/photo/3564368"/>
+        <updated>2026-05-01T02:54:27.917Z</updated>
+        <summary type="html"><![CDATA[The Gaze of the Owl 2 by Steven Zhou]]></summary>
+        <author>
+            <name>Steven Zhou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Korimako]]></title>
+        <id>1x-3560917</id>
+        <link href="https://1x.com/photo/3560917"/>
+        <updated>2026-05-01T02:54:27.913Z</updated>
+        <summary type="html"><![CDATA[Korimako by Jarred Wilson]]></summary>
+        <author>
+            <name>Jarred Wilson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tension]]></title>
+        <id>1x-3565431</id>
+        <link href="https://1x.com/photo/3565431"/>
+        <updated>2026-05-01T02:54:27.910Z</updated>
+        <summary type="html"><![CDATA[Tension by Christopher Schlaf]]></summary>
+        <author>
+            <name>Christopher Schlaf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schwalbenschwanz]]></title>
+        <id>1x-3565471</id>
+        <link href="https://1x.com/photo/3565471"/>
+        <updated>2026-05-01T02:54:27.806Z</updated>
+        <summary type="html"><![CDATA[Schwalbenschwanz by Georg Scharf]]></summary>
+        <author>
+            <name>Georg Scharf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dancing House of MIT]]></title>
+        <id>1x-3564361</id>
+        <link href="https://1x.com/photo/3564361"/>
+        <updated>2026-05-01T02:54:27.788Z</updated>
+        <summary type="html"><![CDATA[The Dancing House of MIT by Jasmine Zhang]]></summary>
+        <author>
+            <name>Jasmine Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Central Crossing]]></title>
+        <id>1x-3555962</id>
+        <link href="https://1x.com/photo/3555962"/>
+        <updated>2026-05-01T02:54:27.785Z</updated>
+        <summary type="html"><![CDATA[The Central Crossing by Rafael L. Bardají]]></summary>
+        <author>
+            <name>Rafael L. Bardají</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stanford Arches]]></title>
+        <id>1x-3564536</id>
+        <link href="https://1x.com/photo/3564536"/>
+        <updated>2026-05-01T02:54:27.781Z</updated>
+        <summary type="html"><![CDATA[Stanford Arches by Lipinghu]]></summary>
+        <author>
+            <name>Lipinghu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whispers of the Forest Floor]]></title>
+        <id>1x-3564534</id>
+        <link href="https://1x.com/photo/3564534"/>
+        <updated>2026-05-01T02:54:27.776Z</updated>
+        <summary type="html"><![CDATA[Whispers of the Forest Floor by Leechee Z]]></summary>
+        <author>
+            <name>Leechee Z</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karo woman portrait, Ethiopia]]></title>
+        <id>1x-3563926</id>
+        <link href="https://1x.com/photo/3563926"/>
+        <updated>2026-05-01T02:54:27.773Z</updated>
+        <summary type="html"><![CDATA[Karo woman portrait, Ethiopia by Francisco Mendoza Ruiz]]></summary>
+        <author>
+            <name>Francisco Mendoza Ruiz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pulse of the Wetlands]]></title>
+        <id>1x-3552839</id>
+        <link href="https://1x.com/photo/3552839"/>
+        <updated>2026-05-01T02:54:27.768Z</updated>
+        <summary type="html"><![CDATA[The Pulse of the Wetlands by Cong Lin]]></summary>
+        <author>
+            <name>Cong Lin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surprise]]></title>
+        <id>1x-3555690</id>
+        <link href="https://1x.com/photo/3555690"/>
+        <updated>2026-05-01T02:54:27.614Z</updated>
+        <summary type="html"><![CDATA[Surprise by Kaisyakuji Yushi]]></summary>
+        <author>
+            <name>Kaisyakuji Yushi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mariya Sitting (Remastered)]]></title>
+        <id>1x-3565552</id>
+        <link href="https://1x.com/photo/3565552"/>
+        <updated>2026-05-01T02:54:27.602Z</updated>
+        <summary type="html"><![CDATA[Mariya Sitting (Remastered) by Takayuki Otsuka]]></summary>
+        <author>
+            <name>Takayuki Otsuka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Threshold]]></title>
+        <id>1x-3565593</id>
+        <link href="https://1x.com/photo/3565593"/>
+        <updated>2026-05-01T02:54:27.594Z</updated>
+        <summary type="html"><![CDATA[Threshold by B-STUDIO]]></summary>
+        <author>
+            <name>B-STUDIO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stony Shell, Cyaned Cell]]></title>
+        <id>1x-3564979</id>
+        <link href="https://1x.com/photo/3564979"/>
+        <updated>2026-05-01T02:54:27.567Z</updated>
+        <summary type="html"><![CDATA[Stony Shell, Cyaned Cell by Meiji Maruo]]></summary>
+        <author>
+            <name>Meiji Maruo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cuernos del Paine at Dawn]]></title>
+        <id>1x-3565624</id>
+        <link href="https://1x.com/photo/3565624"/>
+        <updated>2026-05-01T02:54:27.557Z</updated>
+        <summary type="html"><![CDATA[Cuernos del Paine at Dawn by Kathy（Jie Xiao）]]></summary>
+        <author>
+            <name>Kathy（Jie Xiao）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美众院通过拨款法案 国土安全部“停摆”结束]]></title>
+        <id>https://www.zaobao.com/news/world/story20260501-8982663</id>
+        <link href="https://www.zaobao.com/news/world/story20260501-8982663"/>
+        <updated>2026-05-01T02:35:05.000Z</updated>
+        <summary type="html"><![CDATA[美国众议院星期四（4月30日）以口头表决方式通过此前已获参议院批准的国土安全部拨款法案。总统特朗普随后予以签署生效。这意味着国土安全部结束持续两个多月的创纪录“停摆”。
+4月30日通过的法案将为国土安全部下辖的大部分机构提供资金，直至9月30日本财年结束，但不会为移民与海关执法局、边境巡逻队拨款。
+新华社报道，自今年1月两名美国公民在明尼苏达州遭打击非法移民的联邦执法人员枪杀以来，民主党人一直要求对移民与海关执法局运作进行重大改革，但共和党人予以拒绝，导致两党关于国土安全部拨款的谈判陷入僵局。在此背景下，国土安全部临时拨款2月13日到期，并于次日陷入“停摆”。 
+由于“停摆”持续，美国土安全部下辖的运输安全管理局、海岸警卫队、联邦紧急事务管理局等机构的运作受到严重影响，各地机场安检系统受冲击最为明显。联邦紧急事务管理局4月29日宣布，由于其灾害救助资金降至30亿美元（约38亿新元）以下，当局启动“紧急需求资金”机制，优先考虑将资金用于“拯救生命和维持生命”的工作。此前几日，国土安全部长马林说，国土安全部将在5月第一周耗尽资金，无法支付员工工资。
+3月下旬，美国参议院批准一项拨款法案，拟为国土安全部除移民与海关执法局、边境巡逻队以外的大部分机构提供资金。但法案在众议院迟迟未获通过。随后，参议院多数党领袖、共和党人图恩提出一项获特朗普支持的“双轨”策略：先与民主党达成两党协议，为国土安全部提供大部分资金拨款，然后利用所谓“预算协调程序”自行解决移民执法资金问题，确保移民与海关执法局、边境巡逻队的运作资金。该策略帮助破解了拨款法案无法获通过的僵局。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美政府官员：2月28日开始的“敌对行动已结束”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260501-8982562</id>
+        <link href="https://www.zaobao.com/news/world/story20260501-8982562"/>
+        <updated>2026-05-01T02:07:04.000Z</updated>
+        <summary type="html"><![CDATA[新华社引述美国媒体报道，一名不愿透露姓名的美国政府高级官员星期四（4月30日）说，根据《战争权力法》，“2月28日开始的伊朗敌对行动已结束”。
+这名官员称，美国和伊朗在4月7日达成的两周停火已经被延长，“自4月7日以来，美军和伊朗没有发生交火”。
+根据美国1973年通过的《战争权力法》，总统在首次通知国会动用军事力量后，应在60天内决定停止该军事行动或者寻求国会授权继续作战。特朗普政府3月2日正式告知国会已对伊朗发起军事行动，由此推算的60天法律期限将于5月1日到期。
+但美国战争部长赫格塞斯在此期限前夕说，60天期限已因美伊停火暂时中止。
+赫格塞斯4月30日在众议院军事委员会听证会作证时称，美国与伊朗停火4月8日生效，意味着特朗普对伊朗采取军事行动的60天法律期限已“暂停或中止”。
+他说，特朗普政府眼下无须就对伊朗的军事行动寻求国会授权。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普：只有少数人知晓美伊谈判实际进展]]></title>
+        <id>https://www.zaobao.com/news/world/story20260501-8982332</id>
+        <link href="https://www.zaobao.com/news/world/story20260501-8982332"/>
+        <updated>2026-05-01T00:49:35.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普称，除他本人和少数几人外，无人知晓目前美方同伊朗谈判的实际进展。
+综合路透社和新华社报道，特朗普星期四（4月30日）在白宫一场活动上回答媒体提问，对“谈判似乎已停滞，他是否开始不耐烦想打破停火”的提问作上述发言。他坚称不能让伊朗拥有核武器，并指伊朗方面“其实很想达成协议”。
+特朗普再次强调，美国对伊朗的海上封锁正在发挥作用，声称伊朗“经济正在崩溃，他们几乎拿不到石油收入”。他还说，只要同伊朗的战事结束，汽油和原油价格就会迅速回落。
+被问及美国是否可能削减驻意大利和西班牙的美军部队时，特朗普回答道：“是的，很可能。”
+他说，在美国对伊朗的军事行动中，“意大利根本没帮上什么忙，而西班牙的表现糟糕透顶”，并再次批评“德国表现也很糟糕”。
+特朗普29日在社交媒体发文说，美国正在研究削减驻德美军的可能性，相关决定将于近期作出。
+截至2025年12月31日，驻意大利的美军现役人数为1万2662人，驻西班牙美军为3814人，驻德国美军为3万6436人。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华盛顿一高中发生持刀伤人案 五人受伤嫌疑人被捕]]></title>
+        <id>https://www.zaobao.com/news/world/story20260501-8982301</id>
+        <link href="https://www.zaobao.com/news/world/story20260501-8982301"/>
+        <updated>2026-05-01T00:29:33.000Z</updated>
+        <summary type="html"><![CDATA[美国华盛顿州塔科马市一所高中发生疑似持刀伤人事件，造成五人受伤。嫌疑人是一名学生，已被警方控制。
+福克斯新闻在X平台贴文说，事发于星期四（4月30日）下午。
+据塔科马（Tacoma）消防部门和警方消息，消防员和警员于下午1时40分前赶到福斯高中（Foss High School），处置一起校园冲突或疑似持刀伤人事件。消防人员到达后发现四名学生和一名保安受伤，并将他们送往医院。
+警方说，嫌疑人为这所学校的学生，已被拘押。相关情况仍在调查中。
+事件发生后，福斯高中一度被封锁。警方说，现场已得到控制，执法人员正与校方合作，安排学生回家。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普取消苏格兰威士忌关税 致敬英国国王王后访美]]></title>
+        <id>https://www.zaobao.com/news/world/story20260501-8982266</id>
+        <link href="https://www.zaobao.com/news/world/story20260501-8982266"/>
+        <updated>2026-05-01T00:18:58.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普在英国国王查尔斯三世结束访美行程之际，宣布取消苏格兰威士忌关税。
+彭博社称，此举标志着特朗普政府给予英国的一项重大贸易让步。
+特朗普星期四（4月30日）在社交媒体Truth Social贴文说：“我将取消与苏格兰威士忌和肯塔基州波本威士忌相关的关税和限制，苏格兰威士忌和波本威士忌是苏格兰和肯塔基州非常重要的产业。”
+特朗普说，他这么做是为了“向即将返回他们美丽国家的英国国王和王后致敬”。
+特朗普说，查尔斯三世和王后卡米拉“几乎什么都没说，却让我做了一件别人都办不到的事。”
+美国取消苏格兰威士忌关税的具体细节尚未公布，但特朗普同日晚些时候在白宫的一场活动对记者说：“我刚刚取消了所有限制，这样苏格兰和肯塔基就可以重新开展贸易了。我这么做是为了向刚刚离开的国王和王后致敬。”
+美国对苏格兰威士忌征收关税一直是美英之间一个主要争议点。英国方面说，取消这项关税让美国波本威士忌行业收益，因为波本威士忌生产商向苏格兰威士忌生产商出口旧酒桶。苏格兰威士忌是在曾用于陈酿波本威士忌的二手酒桶中熟成的。
+4月30日傍晚，查尔斯三世与卡米拉结束为期四天的美国国事访问，从安德鲁斯空军基地乘专机离开。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI警告：中国黑客一旦离开本国就可能被捕]]></title>
+        <id>https://www.zaobao.com/news/world/story20260501-8982206</id>
+        <link href="https://www.zaobao.com/news/world/story20260501-8982206"/>
+        <updated>2026-04-30T23:25:34.000Z</updated>
+        <summary type="html"><![CDATA[美国联邦调查局（FBI）高级官员说，中国政府雇佣黑客的生态系统已经“失控”，并为网络犯罪分子提供了“某种合理推诿的借口”。
+路透社报道，FBI助理局长莱瑟曼（Brett Leatherman）星期四（4月30日）警告，中国黑客一旦离开本国就可能被捕。
+莱瑟曼说，中国黑客在中国境内获得的保护“一旦越过国界就不复存在”。
+在莱瑟曼发出警告的几天之前，34岁中国公民徐泽伟（音译）从意大利被引渡到美国。徐泽伟被指控在2020年至2021年为一家中国承包商工作期间，在中国政府的指示下参与了大规模的网络攻击活动。应美国当局要求，徐泽伟去年7月在米兰被捕，意大利法院裁定允许引渡后，被引渡到美国。
+中国驻华盛顿大使馆尚未回应置评请求。
+中国外交部发言人林剑4月27日回应意大利将中国公民引渡至美国受审的消息，指责美国“通过政治操弄捏造罪名”，并敦促意大利“不要成为美国的帮凶”。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美战争部长：美对伊战争60天期限因停火暂时中止]]></title>
+        <id>https://www.zaobao.com/news/world/story20260501-8982149</id>
+        <link href="https://www.zaobao.com/news/world/story20260501-8982149"/>
+        <updated>2026-04-30T22:54:41.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普在未经国会授权下向伊朗动武的60天期限星期五（5月1日）到期，美国战争部长赫格塞斯在此期限前夕说，60天期限已因美伊停火暂时中止。
+《纽约时报》报道，赫格塞斯星期四（4月30日）在众议院军事委员会听证会作证时称，美国与伊朗停火4月8日生效，意味着特朗普对伊朗采取军事行动的60天法律期限已“暂停或中止”。
+他说，特朗普政府眼下无须就对伊朗军事行动寻求国会授权。
+根据美国1973年通过的《战争权力法》，总统在首次通知国会动用军事力量后，应在60天内决定停止该军事行动或者寻求国会授权继续作战。
+特朗普政府于2月28日与以色列联手对伊朗发动大规模空袭，3月2日才正式告知国会已对伊朗发起军事行动，由此推算的60天法律期限将于5月1日到期。到时，特朗普若未获得授权，理论上必须撤回美军。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年5月推荐]]></title>
+        <id>/archives/2026nian-5yue-tui-jian</id>
+        <link href="https://haikuoshijie.cn/archives/2026nian-5yue-tui-jian"/>
+        <updated>2026-04-30T16:07:00.000Z</updated>
+        <summary type="html"><![CDATA[小棉袄自营👉：大流量手机卡 5月1日 硬核指南 亲测！电影、追剧、二次元、听歌、小说、游戏资源都能白嫖，真的很好用！ PlainApp 在网页上控制手机，免费且不限量。可在电脑上进行文件传输、发送短信和查看照片。无需注册，100%开源 以上网站、软件均收集于网络，其内容数据与本站点无关，其正确性、]]></summary>
+        <author>
+            <name>小棉袄</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国首次申请失业救济人数下降 至1969年以来最低水平]]></title>
+        <id>https://www.zaobao.com/news/world/story20260501-8981825</id>
+        <link href="https://www.zaobao.com/news/world/story20260501-8981825"/>
+        <updated>2026-04-30T16:05:03.000Z</updated>
+        <summary type="html"><![CDATA[美国申请失业救济人数降至数十年来最低水平，表明裁员公告尚未明显转化为实际裁员。
+美国劳工部星期四（4月30日）公布的数据显示，在截至4月25日当周，首次申领失业救济人数减少2.6万人，降至18.9万人。彭博对经济学家进行调查得出的预测中值为21.2万人。
+持续申领失业救济人数——也是领取救济人数的替代指标——在之前一周下降至179万人，为两年来的最低水平。
+彭博社报道，尽管Meta Platforms Inc.和耐克等知名公司宣布裁员，但申领失业救济人数仍维持在低位，这表明劳动力市场仍处于低裁员环境。美联储周三维持利率不变，美国联邦储备局主席杰罗姆·鲍威尔将劳动力市场显示出“越来越多稳定迹象”列为无需急于进一步降息的原因之一。
+在未经季节性因素调整之前，首次申领失业救济人数上周也有所下降。纽约州降幅居首，申领人数减少近1.1万人，抹去了此前两周的大幅增加。加利福尼亚州和康涅狄格州的申领人数也显著下降。
+星期四公布的另一份报告显示，受企业和消费者需求稳健推动，美国第一季度国内生产总值增长2%。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国一季度经济增长低于预期]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8981771</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8981771"/>
+        <updated>2026-04-30T15:39:16.000Z</updated>
+        <summary type="html"><![CDATA[美国商务部公布的初步数据显示，今年第一季度美国国内生产总值（GDP）环比按年率计算增长2%，低于市场预期。
+星期四（4月30日）发布的数据显示，当季占美国经济总量约70%的个人消费支出增长1.6%，低于前一季度的1.9%。个人消费支出、国内私人投资以及政府消费和支出对一季度经济增长的贡献分别为1.08个百分点、1.48个百分点和0.73个百分点，商品与服务净出口的贡献为负1.3个百分点。
+新华社引述数据说，受中东战事带来的能源价格大幅上涨影响，美国一季度个人消费支出价格指数上涨4.5%，显著高于前一季度的2.9%；同期扣除食品和能源后的核心消费支出价格指数上涨4.3%，高于前一季度的2.7%。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德国经济第一季度环比增长0.3%]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8981734</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8981734"/>
+        <updated>2026-04-30T15:29:58.000Z</updated>
+        <summary type="html"><![CDATA[德国联邦统计局公布的初步数据显示，经价格、季节和工作日调整后，今年第一季度德国国内生产总值环比增长0.3%。去年第四季度，德国经济环比增长0.2%。
+德国联邦统计局在星期四（4月30日）发布的公告中说，今年第一季度，私人和政府消费支出是经济增长的主要驱动力。此外，出口也有所增长。
+新华社引述德国基尔世界经济研究所发表的声明说，中东战事引发的能源及原材料价格急剧上涨已开始对经济形成压力。若冲突持续，不仅将继续削弱企业和消费者信心，还将扰乱国际供应链，可能导致第二季度经济产出下降。
+德国联邦政府日前在春季经济预测报告中指出，受中东战事冲击，德国经济复苏前景较为脆弱。报告预计，2026年德国经济仅增长0.5%，明显低于今年1月预测的1%；同时，持续存在的贸易保护主义措施也将拖累出口，对经济造成更大压力。
+中国新闻社引述德国中央合作银行经济分析师克里斯托夫·斯翁克说，当前德国经济表现虽令人欣慰，但可能难以持续。霍尔木兹海峡航运受阻推高通胀，并导致包括慕尼黑莱布尼茨经济研究所（Ifo）商业景气指数在内的重要信心指标大幅下降。他指出，只有结束冲突并尽快恢复霍尔木兹海峡通航，才能避免更大损失。
+德国工业联合会主席彼得·莱宾格认为，得益于政府在基础设施等领域的大规模投资，德国经济今年或有望避免衰退。但他强调，仅靠财政支出无法替代结构性改革，应对外部冲击的关键是打造具有竞争力的经济环境。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reimagining traditional architecture for modern needs | Riyad Joucka]]></title>
+        <id>69ef7dba4c8fca33687061e3</id>
+        <link href="http://go.ted.com/riyadjoucka"/>
+        <updated>2026-04-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Architect Riyad Joucka believes your home should be a mirror of who you are. Using 3D printing and ancient architectural wisdom, he's designing efficient, personal homes that respond to context, climate and culture without sacrificing character. He makes the case that we should start designing for people, not the market.
+Learn more about our flagship conference happening this April at attend.ted.com/podcast
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以色列海军扣押国际船队 巴勒斯坦组织与意大利谴责]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8981559</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8981559"/>
+        <updated>2026-04-30T14:44:37.000Z</updated>
+        <summary type="html"><![CDATA[巴勒斯坦伊斯兰抵抗运动（哈马斯）和巴勒斯坦伊斯兰圣战组织（杰哈德）发表声明，谴责以色列海军扣押驶往加沙地带的“全球坚韧船队”（Global Sumud Flotilla）船只及人员。
+哈马斯在星期四（4月30日）的声明中称以海军在希腊克里特岛附近海域对驶往加沙地带的船队发动袭击是“海盗行为”，呼吁国际社会采取行动，追究以方责任，促使释放被扣押的活动人士。
+杰哈德在声明中称，以色列军舰袭击了手无寸铁的活动人士船只，并用激光束照射他们，强迫他们下跪，以海军的行为是对国际法的践踏。
+新华社也引述意大利安莎社的报道说，“全球坚韧船队”上载有人道主义援助物资，试图突破以色列对加沙地带的海上封锁。船队方面说，以方拦截了22艘船，扣押人员中包括24名意大利人。意大利总理梅洛尼对以方行动表示谴责，要求以方“立即释放”相关人员。
+以色列外交部同日发表声明称，该船队的幕后推手是哈马斯，目的是为了阻挠加沙停火谈判推进、转移人们对哈马斯拒绝解除武装的注意力。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普号召各国加入新国际联盟 重开霍尔木兹海峡]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8981382</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8981382"/>
+        <updated>2026-04-30T14:34:15.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿／迪拜综合电）美国特朗普政府正在要求其他国家加入一个新国际联盟，通过分享信息、协调外交与落实制裁来推动霍尔木兹海峡恢复航运。美伊则仍毫无重启谈判的迹象，双方剑拔弩张，市场持续担忧导致油价一度创下四年来高位。
+《华尔街日报》周三（4月29日）报道，特朗普政府要求其他国家加入一个由美国主导、名为“海事自由建构”（Maritime Freedom Construct）的国际联盟。美国国务院周二已向各地使馆发送内部电讯，要求外交官们力推各国政府加入，显示特朗普政府需要其他国家共同参与海峡当前和未来的管理。但这似乎与特朗普总统此前屡次主张盟友尤其是欧洲的盟友，应该带头解决海峡封堵的立场相反。
+特朗普政府一名高级官员证实，这是提供给特朗普的许多外交和政策方案之一。根据美国国务院的内部电讯，国务院将扮演外交运作枢纽的角色，美军中央司令部则负责为商业船运提供即时海事讯息，以及协调伙伴国军方的信息分享。
+在这之前，欧洲各国已召开数次会议商讨对策，以在美伊战争结束后，确保船只能够继续在霍尔木兹海峡通行。英国和法国4月中旬就共同主持了一场有50多个国家参加的国际会议。美国国务院的内部电讯指出，“海事自由建构”将与其他海上安全行动联盟形成互补，这包括英法牵头的海事规划行动。
+伊朗最高领袖穆杰塔巴周四发声明称，自2月28日战争爆发以来，波斯湾和霍尔木兹海峡的局势已翻开了新的一页。他指美国遭遇了“耻辱性失败”，并称伊朗将确保波斯湾地区安全。他还说，以新的方式管理霍尔木兹海峡，今后将为所有地区国家带来和平、进步与经济利益。
+伊朗总统佩泽希齐扬同天说，美国对伊朗港口的海上封锁只是在加剧波斯湾地区的动荡，这么做既违反国际法，也无法实现美方的目标，最后注定失败。
+伊朗革命卫队一名高级官员周四称，美国对伊朗的任何攻击，即使规模有限，都将引来伊朗的长期反击。前一天，伊朗军方警告，如果美国继续封锁与伊朗有关的船只，伊朗将采取前所未有的军事反击。 
+特朗普已在周一指示官员准备对霍尔木兹海峡进行长期封锁，直到伊朗屈服并满足特朗普的要求。他周三接受美国新闻网站Axios的电话采访强调，在与伊朗针对核计划达成协议之前，他不会解除对伊朗港口的海上封锁，并称封锁比轰炸更有效。
+Axios周三也报道，美军中央司令部司令库珀周四会向特朗普汇报可对伊朗采取的新军事行动，以迫使伊方在核问题的谈判上让步。消息人士说，中央司令部已经制定一项针对伊朗的短期强力打击计划，可能打击包括伊朗的基础设施。
+另一项计划则是要控制霍尔木兹海峡的部分区域，以重新开放商业航运，此类行动可能需要地面部队参与。军事汇报可能提及的另一个选项是派出特种部队，确保伊朗高浓缩铀库存的安全。
+彭博社引述消息人士的话报道，美军中央司令部已经要求把陆军的“暗鹰”（Dark Eagle）高超音速导弹运到中东，以在必要时打击伊朗境内的弹道导弹发射阵地。如果这项要求获得批准，那将是美国首次部署高超音速导弹。暗鹰导弹的射程超过3500公里。美国政府问责局曾说，暗鹰系统包括导弹的造价高达27亿美元。 
+另一方面，白宫官员周三说，前一天特朗普与石油公司高官探讨如何减缓霍尔木兹海峡长期封锁，对美国消费者造成的冲击。
+国际油价在特朗普宣布长期封锁海峡后飙升超过7％，布伦特油价截至周四下午每桶报超过126美元，再创俄乌战争爆发以来最高，过后到了晚上稍微下跌。
+新西兰资源部长琼斯（Shane Jones）周四呼吁美国落实承诺，派船运石油到太平洋岛国地区。琼斯对华盛顿愿意协助他们应对燃油供应安全挑战表示赞许，但提醒美方应当付诸行动。
+本月初美国国务卿鲁比奥与新西兰外长彼得斯在华盛顿会面，讨论美国派油船到新西兰，援助太平洋岛国。彼得斯当时告诉新西兰媒体，美方非常积极表示，如有必要，他们可以向太平洋岛国提供支持。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[诺贝尔和平奖287人或组织获提名 特朗普或在名单上]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8981359</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8981359"/>
+        <updated>2026-04-30T13:54:34.000Z</updated>
+        <summary type="html"><![CDATA[挪威诺贝尔委员会秘书长克里斯蒂安·贝格·哈普维肯说，有约287名候选人角逐2026年诺贝尔和平奖，美国总统特朗普很可能位列其中。他说，今年的提名名单中，208位是个人，79位是组织，与去年相比，今年的提名人选有很多新面孔。
+哈普维肯（Kristian Berg Harpviken）星期四（4月30日）在接受采访时说：“我上任不久，让我感到有些意外的是，每年的提名名单都有如此多的新面孔。”他自2025年1月起担任秘书长。
+路透社引述他说，尽管全球冲突不断增加，国际合作面临压力，但诺贝尔和平奖仍然具有现实意义。
+哈普维肯指出：“在我们生活的这个时代，和平奖显得尤为重要。现在各界所投入的贡献，比起过去可谓是有增无减。”
+柬埔寨、巴基斯坦和以色列领导人表示，他们已提名特朗普角逐今年的和平奖。提名的截止日期为1月31日。
+由于提名名单必须保密50年，因此无法验证上述说法。哈普维肯拒绝透露特朗普是否已获得提名。
+除了委员会成员外，能递交提名的包括各国政府成员与国会议员、现任国家元首、大学的历史、社会科学、法律与哲学教授，以及往届诺贝尔和平奖得主等。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[澳洲小镇沿海街道爆红 过多游客“打卡”引居民不满]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8980071</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8980071"/>
+        <updated>2026-04-30T12:50:23.000Z</updated>
+        <summary type="html"><![CDATA[澳大利亚悉尼附近海滨小镇格林贡（Gerringong）的塔斯曼大道（Tasman Drive），被誉为“澳洲最美街道”，在全网爆红。各路游客纷纷“打卡”拍照，打破镇上的宁静，引起当地居民不满。
+格林贡只有4000多人口，有居民反映，一些游客在路中间摆拍，还有人乱扔垃圾，“大家已忍无可忍”。
+一些居民采取极端措施，打开花园洒水器，阻止游客在自家草坪上拍照。还有居民尝试组建委员会，要求将塔斯曼大道改为单行道，以防游客车辆为拍照而减速停车。（法新社）]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗总统：任何企图在海上封锁伊朗的行动注定失败]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8980807</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8980807"/>
+        <updated>2026-04-30T11:52:41.000Z</updated>
+        <summary type="html"><![CDATA[伊朗总统佩泽希齐扬说，任何企图对伊朗实施封锁和海上限制的行动都注定失败。
+伊朗国家电视台报道，佩泽希齐扬星期四（4月30日）在“国家波斯湾日”致辞时说：“波斯湾不是强加外国单方面意志的场所，只有沿海国家通力合作、互相尊重主权，才能确保这一区域的安全。”
+他说，这条战略水道是伊朗民族认同不可分割的一部分，也是伊朗主权的象征。
+新华社引述报道说，佩泽希齐扬称赞伊朗海军的英勇。
+他指出，敌对势力已将施压领域转向经济和海上，将海上封锁和限制海上贸易航线的战略提上日程，以此向伊朗政府和人民施压。但任何企图对波斯湾实施封锁和海上限制的行为都违反国际法，威胁到波斯湾地区各国利益以及全球和平与稳定。
+佩泽希齐扬警告，波斯湾地区的局势不安全都应由美国和以色列承担责任。伊朗继续坚持航行自由和海上安全原则，但对敌对国家除外。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗最高领袖：美国遭遇“耻辱性失败”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8980711</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8980711"/>
+        <updated>2026-04-30T11:36:03.000Z</updated>
+        <summary type="html"><![CDATA[伊朗最高领袖穆杰塔巴在“国家波斯湾日”发表书面声明称，美国遭遇“耻辱性失败”，伊朗将确保波斯湾地区安全，消除敌对势力的侵犯行为。 
+穆杰塔巴（Mojtaba Khamenei）星期四（4月30日）在声明中称，自2月28日伊朗与美国和以色列爆发战争以来，波斯湾和霍尔木兹海峡的局势已翻开了新的一页。 
+路透社引述他说，对霍尔木兹海峡进行新的管理将为所有波斯湾国家带来平静、进步和经济利益。目前，伊朗的波斯湾港口正处于美国的封锁之下。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不用部署 OpenClaw！Genspark Claw 實測：發一句話，AI 自己開電腦幫你幹活，網站、做簡報、自动刷職缺]]></title>
+        <id>https://www.youtube.com/watch?v=CDhXwnXLCgc</id>
+        <link href="https://www.youtube.com/watch?v=CDhXwnXLCgc"/>
+        <updated>2026-04-30T11:17:33.000Z</updated>
+        <author>
+            <name>七七行銷筆記</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩国京畿道一公寓起火 二死六伤]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8980069</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8980069"/>
+        <updated>2026-04-30T10:16:42.000Z</updated>
+        <summary type="html"><![CDATA[韩国媒体报道，韩国京畿道义王市一栋20层高的公寓楼发生火灾，目前已导致两人死亡、六人受伤 。
+新华社引述韩国联合通讯社的报道称，公寓第14层在星期四（4月30日）上午10时30分（新加坡时间9时30分）许发生火灾。住在这层楼的一名60多岁男子在坠落后身亡，他的妻子随后在屋内被发现死亡。
+另有六名居民因吸入烟雾等受轻伤，正在接受治疗。
+韩联社报道称，现场还发现一封疑似坠亡男子所留遗书，遗书提及因经济困难等原因，对个人处境感到悲观。
+据悉，当地时间中午12时35分左右，火完全扑灭。警方和消防部门正在就起火原因等进行调查。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美高院推翻保护少数种族选举权条文 共和党或重划选区增胜算]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8979785</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8979785"/>
+        <updated>2026-04-30T10:01:05.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿/纽约综合电）美国联邦最高法院星期三（4月29日）在一个指标性裁决中，以六票对三票推翻《选举权法令》的关键条文，让少数种族更难以种族歧视为由，挑战选区划分地图。
+这被认为是特朗普政府和路易斯安那州共和党人的胜利，提高了他们在11月中期选举的胜算。
+目前共和党在参众两院仅占微弱优势，黑人选民倾向于支持民主党。高院的裁决推翻了路州新增第二个黑人多数选区的地图，估计也可能促使其他共和党主政的州寻求重划选区地图，让民主党面临失去安全区的风险。
+特朗普听闻法院裁决后对记者说：“我很喜欢这个裁决”。他认为，共和党主导的各州现在会想要重划选区地图。
+《华盛顿邮报》引述消息报道，路州州长兰德里告知共和党众议院参选人，他计划延迟下月16日的初选，让州议会有时间通过新的选区地图。
+这起案件起因于2020年人口普查后，由共和党控制的路州州议会通过的选区地图仅有一个黑人多数选区。此举促使当地一群黑人选民提出诉讼，法官裁定这个选区地图具有歧视性，违反《选举权法令》第二条款。
+路州于是重新划设选区，新增第二个黑人多数选区。这张新图又引来路州12个非黑人选民提出诉讼，他们称第二个黑人占多数的选区非法削弱了非黑人选民的影响力。
+路州的人口以白人为主。由三名法官组成的合议庭后来裁定，新版选区地图过度依赖种族因素，违反了宪法规定的平等保护原则。最高法院星期三维持这一裁决。
+不过高院的自由派法官、民权组织、民主党议员和一些法律专家批评，裁决严重削弱《选举权法令》第二条款，这项条款旨在防止少数族群的选票影响力，在选区重划时遭到稀释。
+中期选举逼近，民主党和共和党正陷于一场激烈的选区重划恶斗。
+佛罗里达州议会星期三批准了共和党籍州长德桑蒂斯一份激进的选区重划提案，共和党将因此有望取得多达四个新的议席，提高它保住众议院控制权的概率。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗战事冲击显现 法国经济第一季度意外陷入停滞]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8979262</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8979262"/>
+        <updated>2026-04-30T09:05:38.000Z</updated>
+        <summary type="html"><![CDATA[法国经济第一季度未能实现增长，凸显出伊朗战争引发的滞胀风险带来冲击。
+法国国家统计与经济研究所（Insee）称，受贸易和内需疲软拖累，一季度国内生产总值（GDP）环比持平。彭博调查分析师的预估中值为增长0.2%，去年第四季度为增长0.2%。
+彭博社引述数据说，第一季度消费者支出下降0.1%，家庭投资下降0.7%，已对经济造成拖累。企业投资下降了0.2%。
+由于出口下滑3.8%，净贸易对GDP的拖累达到0.7%。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[争夺月球南极 中美登月背后的真正博弈 | 世界大解说]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8958902</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8958902"/>
+        <updated>2026-04-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年4月10日，美国阿耳忒弥斯2号降落在太平洋，于傍晚5时07分（太平洋夏令时间）完成历史性一刻。但这不是句点，而是拉开中美登月竞赛的一个序幕。
+“回到月球”是美国总统特朗普希望在任期内缔造的一个高光时刻，他要赶在太空竞赛劲敌——中国之前，于2028年完成登月。但美国的目的不仅仅是登月，而是计划在月球南极建设太空基地，插上美国国旗。
+这是因为人们不仅在月球南极发现了水冰迹象，也相信设立月球基地将有助于人类探索火星和其他星体。开采月球的水冰是否会引发各国争夺太空资源？中美博弈正如何改变太空探索的规则？商业资本的入场又对中美登月竞赛带来哪些变数？
+本期《世界大解说》，带你看中美新一轮太空竞赛，隐藏怎样的全球博弈与战略野心。
+
+视频内容：
+
+00:00 争夺月球南极  中美登月背后的真正博弈
+01:20 重返月球：美国为何要打造月球基地？
+04:37 月球水冰：资源争夺的焦点
+08:56 中美登月PK  谁先踏上月球？
+对月球“虎视眈眈”的除了美国，还有中国。过去近20年，中国都在积极部署登月计划。从2007年到2024年，中国完成了嫦娥1号至6号的探月任务；运行了“玉兔”探测车；实现了探测器在月球背面着陆；也完成了月壤的采样。
+
+              
+中国嫦娥工程1号至6号时间表（制图：陈乐彤）
+            
+嫦娥7号的探测器已经在今年4月抵达文昌航天发射场，它将会发射到月球的南极探测当地环境。这个区域也是美国登月计划看中的着陆点。
+美国接下来一系列阿耳忒弥斯任务，就是希望把载人着陆器发射到月球南极，完成载人登陆。目前这个着陆器分别由马斯克的SpaceX和贝索斯的Blue Origin负责研发。
+
+              
+分别由SpaceX（左）和Blue Origin研发的着陆器示意图（NASA）
+            
+自从人类在月球南极发现水冰迹象之后，美国2020年10月就与澳大利亚、加拿大、日本、卢森堡、阿联酋和英国的航天机构签署了《阿耳忒弥斯协定》，其中强调开采太空资源的行为不等同于将外层空间据为国家所有，只要目的在于支持安全和可持续的太空活动，最终造福人类。迄今为止，已有61个国家签署了这份协定，包括印度、日本、韩国和新加坡。
+但中国并没有签署这份协定。相反，中国计划在月球建立的国际月球科研站，主要合作方是俄罗斯、泰国、委内瑞拉、巴基斯坦等十几个国家。两方显然已经在登月之前形成了明显的竞争格局。
+
+              
+签订阿耳忒弥斯协定和参与国际月球科研站的国家列表（制图：陈乐彤）
+            
+中美双方都在构想如何在月球搭建自己的太空基地，哪一方能够率先登陆月球南极，就有支配月球资源的先机。
+受南洋理工大学之邀到本地出席“全球太空趋势”讲座的前NASA科学任务副局长泽布臣（Dr Thomas Zurbuchen）告诉《世界大解说》，目前人们还不清楚月球上的水资源是如何分布的。它可能聚集在山顶，又或者像沙漠里的水汽一样，“所以我们需要去钻探，去搞清楚”。
+不过，他担心月球资源会沦为各国争夺的目标。“任何一个国家都不应该垄断月球。我们应该有一种合理的方式，让全人类共同探索月球。如果你真的挖到一桶金，找到大量稀有资源，就一定会发生争执。我希望我们能在问题出现之前找到解决矛盾的方法。”
+美国原本计划在阿耳忒弥斯3号任务中完成登月，但目前已调整为先测试SpaceX和Blue Origin的着陆器，载人登月目标延迟至阿耳忒弥斯4号执行。
+外界开始关心，这会不会进一步缩短中美登月时间的差距。两方投入的巨额预算将推动人类探月走向商业化，还是让月球成为中美争夺资源与战略空间的新战场？如何避免这样的未来，或许是我们仰望月球时需要思考的问题。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩18名闯入法院滋事者终审被判有罪]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8978126</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8978126"/>
+        <updated>2026-04-30T07:05:41.000Z</updated>
+        <summary type="html"><![CDATA[曾闯入法院闹事、抗议对前总统尹锡悦签发逮捕令的相关人员在终审中被判有罪。
+韩国大法院（最高法院）第三庭星期四（4月30日）就18名被告涉嫌非法侵入特殊建筑罪一案维持原审判决，认定他们有罪。
+韩联社报道指，去年1月19日凌晨3时许，这些涉案人员曾在首尔西部地方法院针对尹锡悦签发逮捕令之后擅自闯入法院，砸碎内部设施和物品。
+检察机关于去年2月10日首次对闯入法院闹事的63人提起公诉，一审法院于同年8月1日认定其中49人有罪，判处他们有期徒刑、罚金、缓刑等不同刑罚。这49人中，除放弃或撤回上诉的人员外，大法院周四对其余18人维持有罪判决。
+今年1月16日，尹锡悦在一审中被判有期徒刑五年。
+4月29日，尹锡悦在二审中被判处有期徒刑七年，刑期较一审明显加重。裁决不仅是围绕“戒严事件”的首次二审判断，也是首尔高等法院内乱专责法庭成立以来的首个判决，多项一审无罪认定被推翻，具有标志性意义。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[报告：澳洲社媒禁令实施后 少年用户未显著远离社媒平台]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8977843</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8977843"/>
+        <updated>2026-04-30T06:27:02.000Z</updated>
+        <summary type="html"><![CDATA[（悉尼综合电）澳大利亚政府文件显示，自去年底禁止16岁以下青少年使用TikTok和Instagram等社交媒体后，用户“并未实现有意义的转移”，这些平台仍在应用下载量中占据前列。
+澳洲去年12月起禁止16岁以下青少年使用一系列主流社交媒体平台，旨在保护儿童免受网络欺凌和“恶意算法”的侵害。
+法新社通过信息自由法获取的政府文件，初步揭示了这些限制措施的实施效果。
+澳洲网络安全监管机构电子安全委员会在一份日期为2月2日的内部简报中指出，禁令实施首月，相关平台在应用商店下载量与排名仍居前列 ，用户整体并未明显转向其他应用；部分用户曾尝试使用未受限制的应用，但“大多仍回到主流平台”。 
+另一份文件则提醒，由于禁令实施时间尚短，仅凭应用下载数据难以得出确切结论。
+同时，文件还披露，被禁的社媒平台今年1月的网暴投诉个案比去年同期增加了26%，大多数来自TikTok。
+澳洲通讯部长韦尔斯早前批评大型科技公司未充分执行相关规定，并强调政府不会在儿童保护问题上让步。根据规定，违规企业最高可被罚约3390万澳元（约3100万新元）。目前，已有超过500万个未成年账户被删除。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国5月11日前后发放首批关税退款]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8977715</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8977715"/>
+        <updated>2026-04-30T06:11:03.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿综合电）美国政府提呈国际贸易法院的文件显示，特朗普政府预计将在5月11日左右发出第一单关税退款。
+负责审理案件和监督关税退款程序的法官伊顿在这份星期二（4月28日）提呈的文件中说，原本须支付《国际紧急经济权力法》（IEEPA）关税的进口报关单当中，约21％的关税撤销已被批准，约3％处于退款阶段，最终将获得财政部通过电子支付退款。
+超过33万名美国进口商要求政府退还关税税款，总额约1660亿美元（约2127亿新元）。但他们却在一个高度自动化的关税退款门户网站遇到困难。
+美国海关与边境保护局（CBP）执行主任洛德星期二稍早在向伊顿提交的文件中说，自4月20日门户网站上线以来，已有1330万份进口申报通过了初步审核。但截至4月26日，其中约15％的申报因未能通过“特定申报验证”而被拒绝。
+海关与边境保护局说，申报退款被拒的进口商，可在修正错误后重新提交申请。当局说，约174万份已获批准的申报，正在办理退税手续。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美军指挥官将向特朗普汇报针对伊朗新选项]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8977340</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8977340"/>
+        <updated>2026-04-30T05:01:14.000Z</updated>
+        <summary type="html"><![CDATA[美伊谈判陷入僵局，特朗普政府对伊朗的军事行动还剩多少选项？据报，特朗普将于美东时间星期四（4月30日）听取美国中央司令部司令库珀对伊行动计划的简报。
+美国新闻网站AXIOS星期三引述消息人士报道称，中央司令部已制定一项针对伊朗的“短期而强力”的打击计划，可能包括打击伊朗的基础设施目标。
+报道指，美国希望借此促使伊朗在核问题谈判上展现更大的灵活性。
+据报，预计向特朗普汇报的另一项计划是控制霍尔木兹海峡的部分区域，以重新开放商业航运，并称此类行动可能需要地面部队参与。
+简报中可能提及的另一个选项是派遣特种部队行动，以确保伊朗高浓缩铀库存的安全。
+据悉美军参谋长联席会议主席凯恩也将出席星期四的简报会。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tree tunnel]]></title>
         <id>1x-3563773</id>
@@ -404,6 +1015,15 @@ Learn more about our flagship conference happening this April at attend.ted.com
 伊朗驻埃及开罗利益代表处负责人菲尔多西普尔同日称，美国试图以海上封锁迫使伊朗接受美方单方面要求是徒劳的，伊朗可以利用与周边国家的陆地边界绕过封锁。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw 免费接入 GPT Images 2.0 最强AI图片模型！无需 API Key、不耗 Token，5 分钟搞定！ | 零度解说]]></title>
+        <id>https://www.youtube.com/watch?v=5g1AJwNNdwg</id>
+        <link href="https://www.youtube.com/watch?v=5g1AJwNNdwg"/>
+        <updated>2026-04-29T13:43:15.000Z</updated>
+        <author>
+            <name>零度解说</name>
         </author>
     </entry>
     <entry>
@@ -12193,199 +12813,6 @@ Learn more about our flagship conference happening this April at attend.ted.com
  Hosted on Acast. See acast.com/privacy for more information.]]></summary>
         <author>
             <name>TED Talks Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No.195 🚘️ 从牛鬼蛇神到摩托大王：重庆首富的造车之殇]]></title>
-        <id>https://www.xiaoyuzhoufm.com/episode/69c7419bb977fb2c476aaf81</id>
-        <link href="https://www.xiaoyuzhoufm.com/episode/69c7419bb977fb2c476aaf81"/>
-        <updated>2026-04-01T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[主播 | 潇磊 刘飞
-
-1938年出生的地主家少爷，在20年的特殊岁月中炼就了火眼金睛。他是重庆一中的数学天才，是自学英语并翻译著作的出版商，更是54岁才正式闯入摩托江湖的“轰达”教主。
-
-从卖掉3000万册“一角钱丛书”的二渠道书王，到问鼎重庆首富的摩托大王，尹明善的半生都在与时间赛跑。65岁高龄跨界造车，在准生证的夹缝中求生，在山寨争议与技术创新的泥潭中挣扎。他在足球场上豪掷8亿输血，在资本市场上ALL IN新能源，最终却在82岁时目睹了一生心血的重整与易主。
-
-是急功近利的焦虑拖垮了力帆，还是被“偷走”的20年注定了某种底色？晚年的他，如何通过一封《跟自己讲和》完成最后的人生救赎？坐吧，来杯半拿铁，我们边喝边唠。
-
-————
-
-半拿铁宇宙之：半拿铁·周刊 传送门，欢迎酌情收听
-
-半拿铁宇宙之：半拿铁·故事篇  传送门，欢迎酌情收听及购买
-
-📮听友投稿邮箱：bannatie@163.com
-
-☕️杭州特调「芝麻·半拿铁」的品尝地：西湖区华星路 01coffee
-
-👔半拿铁周边购买淘宝店：小羊商店Sheepedia  m.tb.cn
-
-📖 半拿铁周边之：《人工智能风云录》纸质书，可在各大电商平台购买
-
-————
-
-时间轴：
-
-1:32    尹明善早年经历
-
-6:50    尹明善重返求学路
-
-14:20   再遭变故苦作乐
-
-21:59   平反后的际遇与创业
-
-30:12   一角丛书的成功与影响
-
-34:54   出版业后的多次尝试
-
-38:44   摩托行业的草莽起步和技术探索
-
-49:38   改名力帆与冠名足球
-
-59:03   力帆的汽车转型与初期困境
-
-1:10:15  力帆上市与不断争议
-
-1:20:56  力帆的经营困境与资产处置
-
-1:37:06  读评论
-
-————
-
-尹明善：
-
-疑似尹喜地布加迪威龙机场高速视频：
-
-tv.sohu.com
-
-尹明善 1992 年成立的轰达车辆配件研究所：
-
-
-
-力帆第一款轿车力帆520：
-
-力帆320：
-
-尹明善2023 年入住泰康养老社区：
-
-主要参考资料：
-
-  
-《新「红顶商人」尹明善》 李今生 刘雯 湖南人民出版社
-  
-《62 岁的使命——商界封面报道》 李彬
-  
-《尹明善造车记》 韦黎兵 中国证券报
-  
-《重庆首富是如何倒下的？》 洪晗琪 AI 财经社
-  
-《力帆少东家坐拥2500万布加迪威龙 引起巨大震动》 张龑 成都商报
-  
-《17年输血重庆力帆8亿 坚守重庆足球的尹明善这次真要告别了》 界面新闻
-  
-《重庆首富被追债14亿背后：儿子斥巨资买豪车，谁能拯救力帆？》  界面新闻
-  
-《辉煌与落寞——记者手记“还原”真实的尹明善》 张小灰手记
-  
-《尹明善孙女登上前台，力帆断臂能否求生》 陈睿雅 中国企业家杂志
-  
-《从破产到市值超450亿元：重庆“摩托大王”做智驾，背靠吉利的千里科技能走多远？》 武凯 时代周报
-  
-《力帆集团创始人尹明善入住养老院，破产重整3年终于彻底退休》 吴丹若 红星资本局
-  
-《住进养老院，重庆前首富，彻底想开、放下了》 王又新 华商韬略
-
-
-————
-
-片尾曲：
-
-郭兰英《我的祖国》选段
-
-本期制作：
-
-张超辉]]></summary>
-        <author>
-            <name>半拿铁 | 商业沉浮录</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免费eu.cc域名 喂饭教程  6分钟搞定 注册只需一个邮箱 支持托管Cloudflare  搭建代理节点等项目  #cloudflare |小琳解说]]></title>
-        <id>https://www.youtube.com/watch?v=ZeIz0U21_Qc</id>
-        <link href="https://www.youtube.com/watch?v=ZeIz0U21_Qc"/>
-        <updated>2026-04-01T11:30:16.000Z</updated>
-        <author>
-            <name>小琳解说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw 内部视角：一线维护者看到的问题、风险和下一步 | 硅谷徐老师 S10E05]]></title>
-        <id>https://www.xiaoyuzhoufm.com/episode/69cce6b2302f387cfdfec37b</id>
-        <link href="https://www.xiaoyuzhoufm.com/episode/69cce6b2302f387cfdfec37b"/>
-        <updated>2026-04-01T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[春节之后，OpenClaw 毫无疑问是最出圈的开源项目。短短几周之内，它迅速吸引了大量开发者、创业者和大公司关注，也让更多人第一次直观感受到：Agent 不再只是一个“帮你聊天”或“帮你写几行代码”的工具，而是一个真的可以持续运行、替你执行任务的系统。与此同时，相关的安全问题开始变得更具体，也更难回避。比如，Agent 在获得更多权限之后，边界该怎么设定？Prompt Injection、恶意 skills、权限失控、误操作，或者企业内部的数据泄露，这些风险到底是怎么产生的？哪些是模型本身还没有解决的问题，哪些又是产品和系统设计可以提前防范的？
-这期节目，我们请到的嘉宾是 George Zhang，他是 OpenClaw 的 maintainer，也是这个开源项目中少数负责核心代码与方向维护的人之一。同时，我们也请来了徐老师，他长期从事安全相关工作，对企业和消费者场景下的安全问题都有很多一线观察。两位嘉宾分别从开源项目维护者和安全从业者的角度，帮助我们一起拆解：为什么 OpenClaw 会在这么短时间内爆火，也聊到了 Agent 安全最核心的风险到底在哪里，企业和个人用户现在最需要警惕什么，以及它把 Agent 推向下一阶段的同时，也带来了哪些新的挑战。
-
-本期人物 
-丁教 Diane，「声动活泼」联合创始人、「科技早知道」主播
-硅谷徐老师 Howie，硅谷高管、投资人、安全AI浏览器Norton Neo创始人。小红书：硅谷徐老师
-George Zhang，OpenClaw Maintainer，Stealth Startup Cofounder，X 账号：x.com
-
-主要话题
-04:39 OpenClaw 的起源：想用手机控制编程
-
-
-最初只是想解决一个痛点——出门吃饭时怎么用手机继续控制电脑上的 Claude Code
-
-没有宏大叙事，纯粹的 hacker 精神
-
-
-…]]></summary>
-        <author>
-            <name>What's Next｜科技早知道</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【免费VPN】三丰云+AdKyNet+Cloudflare 3免费VPN 9分钟搞定 | Free VPN Setup in 9 Minutes - Sanfengyun, AdKyNet&CF😎⚡]]></title>
-        <id>https://www.youtube.com/watch?v=07UHQ0a27OM</id>
-        <link href="https://www.youtube.com/watch?v=07UHQ0a27OM"/>
-        <updated>2026-04-01T04:00:01.000Z</updated>
-        <author>
-            <name>科技梦星云</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[副業到底值不值得做？專注派和多角化派吵了兩千頁，答案在你身上]]></title>
-        <id>https://ducorn.com/side-hustle</id>
-        <link href="https://ducorn.com/side-hustle"/>
-        <updated>2026-03-31T15:52:45.000Z</updated>
-        <summary type="html"><![CDATA[Cal Newport 說副業在浪費你的 career capital，David Epstein 拿數據證明通才贏面更大，MJ DeMarco 說同時做多件事是弱者遊戲，David Graeber 說整個薪資系統本身就有問題。答案不在哪本書比較有道理，在你做的是哪一種工作。]]></summary>
-        <author>
-            <name>讀角獸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why I must come out | Geena Rocero (re-release)]]></title>
-        <id>69cbde2dbfb99db0bc5f0dee</id>
-        <link href="http://go.ted.com/KxXl1Q"/>
-        <updated>2026-03-31T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When fashion model Geena Rocero first saw a photo of herself in a bikini, "I thought ... you have arrived!" As she reveals, that's because she was born with the gender assignment "boy." In this moving talk, Rocero tells the story of becoming who she always knew she was.
-
-This talk originally aired in 2014.
-Learn more about our flagship conference happening this April at attend.ted.com/podcast
-
- Hosted on Acast. See acast.com/privacy for more information.]]></summary>
-        <author>
-            <name>TED Talks Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw 装进手机！即装即用，旧手机秒变随身AI（无需服务器）省电又便捷！| 零度解说]]></title>
-        <id>https://www.youtube.com/watch?v=IYmMyPfKvM8</id>
-        <link href="https://www.youtube.com/watch?v=IYmMyPfKvM8"/>
-        <updated>2026-03-31T12:02:12.000Z</updated>
-        <author>
-            <name>零度解说</name>
         </author>
     </entry>
 </feed>
