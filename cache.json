@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nYJTxvrL9lk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nYJTxvrL9lk",
+          "publishedOn": "2026-05-01T12:43:03.000Z",
+          "wordCount": null,
+          "title": "最强语音转文字！免费开源、准确率高达99%！本地部署 + Google AI 两套最佳方案，上字幕就这么简单！| 零度解说",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5g1AJwNNdwg",
           "author": null,
           "description": "",
@@ -164,16 +174,6 @@
           "wordCount": null,
           "title": "Gemma 4 太猛了！谷歌最强开源模型，本地就能跑多模态（实测） | 零度解说",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=chcFg878840",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=chcFg878840",
-          "publishedOn": "2026-04-02T11:56:57.000Z",
-          "wordCount": null,
-          "title": "2026 最强 Cloudflare 免费VPN自建！无限复活、永久可用｜全球高速节点｜秒开4K8K | 零度解说",
-          "imageUrl": null
         }
       ]
     },
@@ -241,16 +241,6 @@
           "wordCount": null,
           "title": "【保姆級】長輩AI教學！一部手機讓中老年學會買機票、辨詐騙、修老照片，Gemini完整教學，免費好用",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WZcNLBtFsMA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WZcNLBtFsMA",
-          "publishedOn": "2026-04-02T06:53:03.000Z",
-          "wordCount": null,
-          "title": "Nano banana2 15種神級玩法實測，電商產品圖、遊戲場景擴充、漫畫生成、知識圖解，解決中文亂碼問題，免費使用",
-          "imageUrl": null
         }
       ]
     },
@@ -259,6 +249,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCefuY8ao6vYFRqbTNcuj3aA",
       "siteUrl": "https://www.youtube.com/channel/UCefuY8ao6vYFRqbTNcuj3aA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/_eaxu_auPes",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/_eaxu_auPes",
+          "publishedOn": "2026-05-02T23:40:19.000Z",
+          "wordCount": 2109,
+          "title": "【免费AI剪辑】弃用剪映！Kdenlive+Whisper 免费AI字幕 安装与配置 | Bye CapCut — Kdenlive + Whisper Just Saved My Sanity✨",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=j1Sd6RIbeMA",
           "author": null,
@@ -398,16 +398,6 @@
           "wordCount": null,
           "title": "【AI资讯】4分钟搞定！跨区充值省大钱与白嫖LTX AI视频剪辑 | 4 Mins to Save Big on AI & Get a Free AI Video Editor LTX!😎⚡",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/f7NzWy30ZyY",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/f7NzWy30ZyY",
-          "publishedOn": "2026-04-03T04:00:41.000Z",
-          "wordCount": 2204,
-          "title": "【AI音乐】AIVA+Stable Audio 2分钟免费实现自主版权乐曲自由 | Cook Royalty‑Free Bangers in 2 Mins—AIVA+Stable Audio stl✨",
-          "imageUrl": null
         }
       ]
     },
@@ -462,16 +452,6 @@
           "wordCount": null,
           "title": "科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n上海某餐厅的墙壁装饰。（via monana3838@Threads）\nAI 的贫富分化\n我越来越觉得，AI 跟其他技术不一样，不仅带来技术变革，还会带来社会变革。\n简单说，AI 会带来贫富分化。\n其他技术实际上会消灭贫富分化，实现\"消费者平等\"，即穷人和富人消费的东西是一样的。\n比如，大家喝一样的可口可乐，用一样的苹果手机，开一样的特斯拉。甚至互联网也是如此，世界首富马斯克和你用一样的网站、一样的手机 App。\n但是，AI 模型不是这样。在大模型面前，穷人和富人是不平等的。\n在未来，普通人肯定用不起顶级的大模型。其实，现在就是如此了，最贵的 AI 编程套餐是 Claude Code 的 Max 套餐，月费200美元，很多人已经用不起了。\nOpenAI 曾经设想过月费2万美元的套餐，提供最顶级、无限量的大模型服务。\n\n要是真的推出，只有富豪才用得起。\n这反映了一个简单的事实：费用越贵，模型效果越好。因为模型的效果与算力相关，更多的算力、更大的上下文、更多的参数，都需要钱。\n这跟工业品完全相反。工业品有规模效应，产量越高，单位成本越低。一旦大规模生产，价格就会越来越便宜。\n但是，大模型不存在规模效应，模型的大规模生产需要更多的服务器，这并不会让单位成本降低，反而可能因为扩建机房，改造电路和水路，而变得更贵。\n未来社会大概是这样的：富人和穷人用不同的模型。最顶级模型的服务----规划、咨询、生成内容、自动化......----需要支付高昂的使用费，而普通人就使用免费模型，效果当然也很普通。\n不过，我也看到马斯克最近说，未来还有另一种可能。\n\n他的意思是，算力本质上是能源转化的一种形式。人类最终会实现…",
-          "link": "http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html",
-          "publishedOn": "2026-04-03T00:08:02.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 391 期）：AI 的贫富分化",
-          "imageUrl": null
         }
       ]
     },
@@ -480,6 +460,246 @@
       "feedUrl": "https://basicsix-my-rsshub-hq.hf.space/zaobao/realtime/world",
       "siteUrl": "https://www.zaobao.com/realtime/world",
       "articles": [
+        {
+          "id": "https://www.zaobao.com/news/world/story20260503-8989484",
+          "author": null,
+          "description": "阿拉伯联合酋长国宣布空域航行恢复正常，近期实施的各项临时预防措施均已解除。\n新华社报道，阿联酋民用航空总局星期六（5月2日）发布声明说，经过与相关部门协调，以及对运行状况和安全形势作出全面评估，决定恢复阿联酋空域航行。\n声明强调，相关部门会持续开展实时监测，确保航空运行保持最高安全水平。\n美国和以色列2月28日对伊朗发动大规模军事打击后，伊朗对以色列以及美国在中东地区的军事基地等目标实施导弹和无人机打击，波斯湾国家受到波及，阿联酋受影响最为严重。\n冲突发生后，阿联酋采取预防措施关闭部分空域，区域和国际航空运输受到影响，部分航线一度暂停。",
+          "link": "https://www.zaobao.com/news/world/story20260503-8989484",
+          "publishedOn": "2026-05-03T02:18:19.000Z",
+          "wordCount": 661,
+          "title": "阿联酋空域航行恢复正常",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/40e84bc46ef66f8ac44680a97a1c872596a85a4acdba05a06911bd1509ec2f37"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260503-8989418",
+          "author": null,
+          "description": "以色列媒体报道，以色列总理内坦亚胡计划与安全内阁讨论伊朗战争和加沙局势；以方正加紧在这两条战线的准备安排。\n《以色列时报》于当地时间星期六（5月2日）引述一名以色列内阁成员报道，内坦亚胡会在星期天（3日）与安全内阁成员开会。\n他上次与安全内阁成员会面是在星期三（4月29日），与会官员包括外交部长萨尔、国防部长卡茨、财政部长斯莫特里奇、国家安全部长本-格维尔、沙斯党主席德里等。\n这次会议正值美国与伊朗谈判陷入僵局之际。美国总统特朗普早前表明，对伊朗提交的最新谈判方案不满意。一名伊朗高级官员随后警告，“很有可能”与美国再次开战。\n以色列第12频道星期六报道，以军总参谋长扎米尔近日与美军中央司令部司令库珀通话，协调“可能发生的各种情况”。\n报道说，对伊朗任何规模的袭击都会招致德黑兰对以色列的报复。以军近日接收大量军事装备，已为战火重燃做好准备。\n另据以色列公共广播公司（Kan）报道，拟在星期天举行的安全内阁会议还会讨论加沙可能再次爆发冲突的问题。\n一名以色列消息人士说：“哈马斯没有遵守解除武装协议，我们正在与调解方沟通。”\n《以色列时报》在另一篇报道中称，据两名熟悉谈判情况的阿拉伯外交官透露，哈马斯星期六对美国主导“和平委员会”提出的加沙20点和平方案予以回应，基本拒绝交出所有武器的要求。\n“和平委员会”一直敦促哈马斯接受分阶段归还武器。但哈马斯在回应中要求就巴勒斯坦实现独立建国作出更明确的保证，主张把哈马斯解除武装纳入实现巴勒斯坦建国的框架，还要求以色列停止违反加沙停火协议。",
+          "link": "https://www.zaobao.com/news/world/story20260503-8989418",
+          "publishedOn": "2026-05-03T01:33:02.000Z",
+          "wordCount": 677,
+          "title": "以色列或加紧备战：内阁将讨论伊朗加沙",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/efc761b65a7ed55e82f4e416cf8a6438583a5489fdfcd085a4be9064c4e84c89"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260503-8989288",
+          "author": null,
+          "description": "美国总统特朗普说，计划大幅削减驻德国美军人数，超过此前宣布的5000人。\n彭博社报道，特朗普星期六（5月2日）在佛罗里达州迈阿密登上总统专机“空军一号”时说：“我们会大幅削减（驻德美军）兵力，而且削减人数远不止5000人。”他并未提供更多细节。\n特朗普对欧洲国家愈发不满，指责它们无视他提出的协助对伊朗战争和重开霍尔木兹海峡的请求。\n五角大楼星期五（1日）宣布，会在未来一年内从德国撤出约5000名士兵。这个消息引发欧洲国家和美国共和党人的广泛担忧。\n美军在德国驻扎约3万5000人，几乎占美国驻欧部队总数的一半；美国在欧洲的司令部也设在德国。\n德国总理默茨4月27日批评美国在没有制定任何战略的情况下攻打伊朗，导致进退两难，遭受伊朗羞辱。特朗普过后发文指默茨“根本不知道自己在说什么”，并恫言从德国撤军。\n特朗普曾在首个总统任期内试图从德国撤军，但遭到立法阻挠。最新的命令很可能在国会遭遇类似反对。",
+          "link": "https://www.zaobao.com/news/world/story20260503-8989288",
+          "publishedOn": "2026-05-03T01:03:51.000Z",
+          "wordCount": 685,
+          "title": "特朗普：驻德美军拟撤员不止5000人",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/3f1916a1cbee41e63edae4921cf8ea002c4f5c2262aec90cad79a431103ff207"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260503-8989312",
+          "author": null,
+          "description": "美国总统特朗普说，他会审阅伊朗最新提交的谈判方案，但估计很难接受；如果伊朗政权“行为不端”，他不排除重启对德黑兰军事目标的打击。\n特朗普星期六（5月2日）在社媒平台Truth Social发文说：“我很快就会审阅伊朗刚刚发给我们的提案，但我认为无法接受，因为伊朗还没为过去47年来对人类和世界犯下的罪行付出足够沉重的代价。”\n他同日在佛罗里达州迈阿密机场告诉记者，他已听取关于伊朗“协议概念”的简报。\n伊朗媒体当天早些时候报道，德黑兰已通过巴基斯坦调解人，向美方提交一份14点谈判方案，旨在回应美国提出的九点计划，重点在于结束战争。\n白宫尚未披露伊朗新提案的相关细节，但特朗普星期五（1日）告诉记者，他对伊朗方案不满意。\n特朗普在迈阿密机场还被问及会否重启对伊朗的打击。他回答：“我不想这么说。我的意思是，我不能跟记者这么说。如果他们行为不端、做了什么坏事——我们拭目以待——这确实有可能发生。”",
+          "link": "https://www.zaobao.com/news/world/story20260503-8989312",
+          "publishedOn": "2026-05-03T00:06:45.000Z",
+          "wordCount": 684,
+          "title": "伊朗提交新方案 特朗普对谈判前景持悲观态度",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/a6d898bf004a3d58e71dbfd8b70dd9c6ddff323583aa4a5374f530da0dfdc9f0"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260503-8989258",
+          "author": null,
+          "description": "美国主要堕胎药生产商向最高法院提出请求，希望恢复最常用堕胎药米非司酮的邮寄供应。此前一家下级法院暂停了这款药物的邮寄配送。\n法新社报道，美国大多数堕胎手术都使用米非司酮（Mifepristone），这款药物获准用于妊娠10周以内的堕胎。\n米非司酮通常与米索前列醇（Misoprostol）配合使用，后者用于清空子宫。\n丹科实验室（Danco Laboratories）是美国唯二分销米非司酮的公司之一，也是这款药物的生产商。\n美国第五巡回上诉法院星期五（5月1日）发布裁决，要求暂时禁止堕胎服务机构在全美范围内开具和运送米非司酮；需要堕胎的女性必须前往诊所获取这款药物。\n丹科实验室星期六（2日）在提交给最高法院的文件中表明，这项裁决立刻给高度紧急的医疗决策带来混乱和动荡。\n“由此给患者、医疗服务机构、药房和药品监管系统造成的混乱是无法弥补的，凸显最高法院提供紧急救济的必要。”\n反堕胎人士对米非司酮的安全性提出质疑，一些人引用一项由保守派智库开展的研究，但相关研究从未经过正式同行评审。\n最高法院2024年驳回限制米非司酮的请求。当时的裁决认为，反堕胎团体和主张进一步限制米非司酮的医生，缺乏提起诉讼的法律资格。\n最高法院2022年推翻全国范围内的堕胎权，此后已有约20个州禁止或限制堕胎。民调显示，尽管一些活动人士反对堕胎，但大多数美国人仍然支持合法堕胎。",
+          "link": "https://www.zaobao.com/news/world/story20260503-8989258",
+          "publishedOn": "2026-05-02T23:39:48.000Z",
+          "wordCount": 683,
+          "title": "美国堕胎药争议再起：药厂求最高法院恢复邮寄米非司酮",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/cf442d8b1aa2679000e61128145c4ef2ef8c5c1804d94ebaa1a92ddd79e85b5c"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260503-8989226",
+          "author": null,
+          "description": "朝鲜官方媒体报道，最高领导人金正恩会见社会主义爱国青年同盟代表。朝鲜政府再次强调，青年在朝鲜国内动员和在俄乌战争中发挥军事作用方面，都至关重要。\n朝中社星期天（5月3日）报道，金正恩前一天在平壤会见参加社会主义爱国青年同盟第11次代表大会的代表。大会每五年召开一次，旨在动员14至30岁的朝鲜公民。\n金正恩告诉参会代表，青年是推动朝鲜国家目标的“先锋队”，社会主义爱国青年同盟是执行劳动党内决策的关键力量。\n他也敦促参会代表加强组织和思想纪律，并嘱咐要办好同盟工作的每一件事，教育好、培养好所有青年。\n执政的劳动党在星期五（1日）发表的信中，明确将青年的忠诚与平壤参与俄乌战争联系起来，称派往海外作战的年轻士兵在捍卫国家荣誉方面“化身为炸弹和火焰”。\n路透社报道，韩国、乌克兰和西方官员估计，朝鲜向库尔斯克地区派遣约1万4000名士兵，与俄罗斯军队并肩作战，其中超过6000名朝鲜士兵阵亡。金正恩4月在平壤为阵亡士兵揭幕新的纪念碑。\n金正恩将青少年政策视为社会稳定的支柱。朝鲜当局日益加强对外国文化影响的压制，对青少年管控也越发凸显。接触韩国音乐、电影和俚语被视为严重政治罪行。",
+          "link": "https://www.zaobao.com/news/world/story20260503-8989226",
+          "publishedOn": "2026-05-02T23:18:08.000Z",
+          "wordCount": 684,
+          "title": "金正恩会见青年同盟代表 称青年是推动朝鲜国家目标“先锋队”",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/ddca24ee98147744d714cd9aae5a2adac410fc6002b271516f9c1389f52f1a7a"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260503-8989197",
+          "author": null,
+          "description": "伊朗媒体披露，伊朗已通过巴基斯坦调解人向美方提交一份14点方案，回应美国提出的结束战争提议。相关条款要求美方从伊朗周边地区撤军和解除海上封锁及制裁。\n半官方的塔斯尼姆通讯社星期六（5月2日）报道，伊朗方面提交的这份提案，旨在回应美国提出的九点提议，重点在于结束战争。德黑兰正在等待美国对这份方案的回应。\n据报道，美方提议停火两个月，伊朗则强调问题应在30天内解决，而且努力的重点应该放在结束战争上，而不是延长停火期限。\n报道称，伊朗的提议包括保证不采取军事行动、美军从伊朗周边地区撤军、解除海上封锁和制裁、解冻伊朗资产、支付赔偿金，以及结束包括黎巴嫩在内多条战线上的敌对行动。\n方案还包括涉及霍尔木兹海峡的框架。\n伊媒报道，伊朗4月30日通过巴基斯坦向美国转交最新谈判方案。美国尚未透露伊朗方案的细节，但美国总统特朗普星期六早些时候说，他对伊朗提交的新方案不满意。\n不过他也强调，战争局面不能一直继续下去，他更倾向于不再打仗。\n伊朗外交部长阿拉格齐则称，如果美国改变方式，不提出过多要求、停止威胁言论和挑衅，伊朗仍愿同美国进行外交对话。",
+          "link": "https://www.zaobao.com/news/world/story20260503-8989197",
+          "publishedOn": "2026-05-02T23:00:55.000Z",
+          "wordCount": 690,
+          "title": "伊媒称德黑兰提交14点谈判计划 回应美方提案",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/6f3a1443f1dc49f4bb60af6fa9e60a5c85610c1b9e6ef15f3dee410cba5cb589"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260503-8988988",
+          "author": null,
+          "description": "诺贝尔和平奖委员会主席约尔根·瓦特内·弗里德内斯说，伊朗当局必须将诺贝尔和平奖得主纳尔吉斯·穆罕默迪移交给她的医疗团队，以便她能尽快接受治疗，因为她的生命仍然受到威胁。\n路透社报道，伊朗著名女权捍卫者穆罕默迪（Narges Mohammadi）因在伊朗争取人权的努力而荣获2023年诺贝尔和平奖。弗里德内斯星期六（5月2日）引述穆罕默迪的家人和律师的话说，穆罕默迪的健康状况“严重恶化”。\n穆罕默迪家人管理的穆罕默迪基金会星期五在官方网站发布声明说，穆罕默迪因健康状况灾难性恶化，包括发生过两次完全失去意识和一次严重心脏危机，已紧急送往位于桑扬（Zanjan）的一所医院。\n穆罕默迪因推动伊朗女权及废除死刑，在狱中获得诺贝尔奖殊荣。她去年12月再因在律师阿里科迪（Khosrow Alikordi）的追悼会上就其死因发言，被控发表煽动性言论而在12月遭到逮捕。\n穆罕默迪基金会2月说，她再判刑七年半，数周后，美国和以色列对伊朗发动战争。当时挪威诺贝尔委员会呼吁立即释放她。",
+          "link": "https://www.zaobao.com/news/world/story20260503-8988988",
+          "publishedOn": "2026-05-02T16:02:04.000Z",
+          "wordCount": 540,
+          "title": "诺贝尔委员会：伊朗须让和平奖得主穆罕默迪接受治疗",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/b4edc7c828ec05ff977d65c8782dc85894e7ffcf26a14902927426546b97daa5"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260502-8988968",
+          "author": null,
+          "description": "一个多月前在德国沿岸搁浅的座头鲸顺利由驳船运送至丹麦附近的北海，回归辽阔的海洋。\n这头鲸鱼的遭遇曾牵动无数人的心，德国人昵称它为“蒂米”（Timmy）。资助此次救援行动的富商之一卡琳·沃尔特-莫默特（Karin Walter-Mommert）介绍，“蒂米”从驳船中出来后，从喷水孔喷出空气，游向远方。\n法新社引述沃尔特-莫默特说，“蒂米”现在已经能自由地游动，至少看来，是朝着正确的方向前进。\n她还说，蒂米“身上有一些小伤——可能是由于在波涛汹涌的海面上运输造成的——但都是皮外伤”。\n这位靠赛马发家的女企业家补充说，它“现在应该会沿着挪威海岸向北极游去”。\n这头鲸鱼于3月23日首次被发现搁浅在德国波罗的海沿岸吕贝克市（Luebeck）附近的一处沙洲上，之后它曾多次脱困，但又多次再次搁浅。\n德国官员4月初时认为救援无望，决定放弃拯救“蒂米”，引发群众强烈抗议，德国当局最后批淮了沃尔特-莫默特和另一名女企业商提出的私人资助救援计划。\n她们想出了一个在许多人看来希望渺茫的计划：将鲸鱼引诱到一艘特制驳船的注水船舱中，将它拖回其自然栖息地。\n一些专家批评了这项私人资助的救援计划，认为它只会给鲸鱼带来更大的痛苦。但这个救援计划取得了成功，组织者说，鲸鱼于星期六（5月2日）上午8时45分左右（新加坡时间14时45分）从波罗的海沿岸的维斯马湾（Wismar Bay）离开了驳船。\n据德国通讯社（DPA）报道，“蒂米”身上已经安装了全球卫星定位系统（GPS）发射器，以便追踪它未来的行踪。",
+          "link": "https://www.zaobao.com/news/world/story20260502-8988968",
+          "publishedOn": "2026-05-02T15:52:07.000Z",
+          "wordCount": 557,
+          "title": "搁浅一个多月 座头鲸“蒂米”回归北海",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/d92883967e69f5e60c586ce265e4c12b90e3e10ea2d6f396a3786fbe62c3fc9b"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260502-8988884",
+          "author": null,
+          "description": "也门海岸警卫队说，一伙身份不明的武装分子在舍卜瓦省（Shabwa）海岸附近登上并劫持了一艘油轮，这艘油轮已驶向索马里海岸。\n也门海岸警卫队星期六（5月2日）发表声明说，他们在当天接到报告，一艘名为“尤里卡”号（M/T EUREKA）的油轮在也门南部海域遭袭，武装分子控制了这艘油轮并改变其航向。\n新华社引述声明说，也门海岸警卫队立即启动响应程序，从亚丁港派出两艘巡逻艇，并从舍卜瓦港派出小型船只进行搜寻和追踪。\n英国海上贸易行动办公室此前多次就也门南部海域的海上安全形势发出警告。",
+          "link": "https://www.zaobao.com/news/world/story20260502-8988884",
+          "publishedOn": "2026-05-02T14:53:42.000Z",
+          "wordCount": 671,
+          "title": "一艘油轮在也门南部海域遭劫持",
+          "imageUrl": "https://www.zaobao.com.sg/_web2/assets/social-share.png"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260502-8988698",
+          "author": null,
+          "description": "（华盛顿／德黑兰综合电）美国总统特朗普周五（5月1日）致函国会参众两院议长，称美国与伊朗的敌对行动已经结束。这一说法旨在规避他未经国会授权动用部队的60天期限，他同时称，这场战事可能远未结束。 \n特朗普在信中说：“自4月7日以来，美伊没再发生交火，从2026年2月28日开始的敌对行动已经结束”。不过，他指出伊朗仍显著威胁美国安全，国防部因此继续调整在美军中央司令部责任区相关国家的军事部署态势，以应对伊朗及其代理人的威胁。\n美国媒体认为，特朗普的说法实际上规避5月1日这一法律最后期限。1973年生效的《战争权力法》规定，总统如果未获国会批准而动武，必须在60天内终止行动。从特朗普3月2日正式通知国会向伊朗开战算起，5月1日就是第60天。到期后，若特朗普不获国会批准继续作战，须在30天内撤军。\n特朗普周五在白宫对记者说，美国不会提前结束与伊朗的对抗，然后让问题在三年后再次出现。\n他称伊朗希望达成协议，但他不满意伊朗提出的新方案，并把谈判陷入僵局归咎伊朗领导层内部的巨大分歧。\n对于记者问及政府的选项，特朗普称，战争局面不能一直继续下去，从人道主义角度来说，他更倾向于不继续打仗。\n\n美特使据报将伊核计划重新纳入谈判\n\n白宫拒绝提供伊朗方案的细节，不过美国新闻网站Axios报道称，特朗普的特使威特科夫已提交修正案，重新把伊朗核计划纳入谈判。这些修改包括要伊朗在谈判期间，不得从被轰炸的地点转移浓缩铀或在那里恢复浓缩铀活动。\n伊朗媒体周六报道，伊朗外交部长阿拉格齐称，如果美国改变方式，不要提出过多要求、停止威胁的言论和挑衅，伊朗仍愿同美国进行外交对话。\n前一天，伊朗最高领袖穆杰塔巴发书面声明，呼吁伊朗人民争取经济和文化斗争的胜利，让敌人失望并击败敌人。\n穆杰塔巴也呼吁人民优先消费国产商品，并提醒企业经营者，应尽可能避免裁员和解散员工。\n货币追踪机构称，本周伊朗货币对美元汇率暴跌至历史新低。劳工部一名官员说，由于战争的影响，已有超过19万人失业，申请失业救济金。\n\n伊朗态度强硬  欧洲多国预计僵局持续\n\n路透社的分析指出，美伊战争持续两个多月，却未能让美国在军事或外交取得决定性的胜利，这让特朗普面临与伊朗的对峙可能无限期拖延的风险，最终给美国和全球留下比开战前更棘手的问题。\n分析说，冲突若迟迟无法解决，全球经济冲击可能持续，对支持率下滑的特朗普构成更大压力，这也会削弱共和党在11月中期选举的胜算。\n欧洲多名外交官员透露，欧洲各国政府预计美国与伊朗的僵局将持续下去。一名外交官说：“很难想象这种情况会很快结束”，伊朗的态度仍然强硬。\n有分析认为，在被美国狠狠打击后，伊朗仍幸存下来，德黑兰会将此解读为自身的战略胜利。\n华盛顿智库战略与国际研究中心的中东项目主任奥尔特曼也说，经过这场战争，“伊朗已经意识到，即使在国力衰弱的情况下，它也能随意封锁霍尔木兹海峡。这种认知，使伊朗比战前更加强大”。\n\n美驻中东基地设施受损严重  战争支出或逾四百亿美元\n\n另一方面，美国这次军事行动蒙受的损失，也受关注。美国有线电视新闻网（CNN）周五发布的调查报道指出，自2月28日攻打伊朗以来，美国分布在中东地区八个国家的至少16处军事设施，在伊朗的袭击中受损，其中一些设施已无法使用。\n卫星图像显示，伊朗主要打击目标包括美国的先进雷达系统、通信系统和飞机，许多是价格高昂且难以替换的。\n一名熟悉受损情况评估的美国国会助理透露，伊朗把这些设施当成是“最划算的攻击目标”。在中东地区，雷达系统不仅造价最为昂贵，也是美方最稀缺的资源。 \n五角大楼代理总会计师赫斯特周三在众议院军事委员会听证会说，美国至今的战事支出达250亿美元（约320亿新元）。随后，一名消息人士向CNN透露，实际支出可能是400亿至500亿美元。",
+          "link": "https://www.zaobao.com/news/world/story20260502-8988698",
+          "publishedOn": "2026-05-02T14:41:49.000Z",
+          "wordCount": 567,
+          "title": "特朗普称伊朗行动已结束 但不满意伊朗新方案",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/fcdc473e9794c34676de7c59ecceecb854e2f76d7b6ae74f28993cfab8c25e3e"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260502-8988852",
+          "author": null,
+          "description": "据两名熟悉石油输出国组织+（OPEC+）内部想法的消息人士透露，尽管阿拉伯联合酋长国退出，七个OPEC+成员已原则上同意在6月份将石油日产量目标提高约18.8万桶，并继续推进计划。\n就在几天前，阿联酋意外宣布计划于5月1日退出油盟（OPEC），对油盟及领导国沙特阿拉伯无疑构成打击，石油行业正努力应对伊朗战争造成的供应中断。\n路透社引述消息人士称，此次增产幅度将与4月的每日20.6万桶幅度大致相当，但不包括阿联酋的份额。目前来看，此次增产在很大程度上只是象征性的，因为受美国和以色列对伊朗战争的影响，霍尔木兹海峡的大部分航运已经中断，对OPEC+造成重大冲击。\n两名消息人士均要求匿名。七个成员国计划于星期天举行线上会议。一名消息人士此前说，OPEC+的这一决定表明，它采取运作如常的策略。\n2月28日爆发的伊朗战争以及由此导致的霍尔木兹海峡封锁，严重打击了油盟成员沙特阿拉伯、伊拉克、科威特以及阿联酋的石油出口。冲突爆发前，这些产油国是组织中能够增产的国家。\n伊朗也是油盟成员，但并未参加星期天举行的七国会议。自4月美国实施封锁以来，伊朗的石油出口也大幅下降。\n油盟上个月发布的一份报告显示，3月份OPEC+所有成员国的原油日均产量为3506万桶，较2月份下降770万桶。其中，伊拉克和沙特阿拉伯因出口受限而减产幅度最大。除波斯湾地区外，俄罗斯在基础设施遭到乌克兰无人机袭击后也削减了产量。\n参加星期天会议的七个成员国分别是沙特阿拉伯、伊拉克、科威特、阿尔及利亚、哈萨克斯坦、俄罗斯和阿曼。随着阿联酋的退出，OPEC+目前包含伊朗等21个成员国，但近年来只有这七个国家加上阿联酋参与每月产量决策。",
+          "link": "https://www.zaobao.com/news/world/story20260502-8988852",
+          "publishedOn": "2026-05-02T14:29:45.000Z",
+          "wordCount": 690,
+          "title": "阿联酋退出 OPEC+原则上同意小幅增产",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/b94d148eaa119542f23e7ae62ec9b156cc24a17df1db6b1c0b361ff5e3629a30"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260502-8988658",
+          "author": null,
+          "description": "乌克兰总统泽连斯基说，乌克兰在与白罗斯的边境地区发现了“异常活动”。此前几周，他曾敦促明斯克政府不要进一步卷入俄罗斯的战争。\n泽连斯基星期六（5月2日）在每日向全国发表的讲话中说：“昨天，在乌克兰与白罗斯边境的白罗斯一侧出现了一些相当异常的活动。”\n路透社引述他说：“我们正在密切关注局势，一切尽在掌控之中，如有必要，我们将做出回应。”\n泽连斯基没有提供细节。乌克兰空军和边防部队尚未对此置评。",
+          "link": "https://www.zaobao.com/news/world/story20260502-8988658",
+          "publishedOn": "2026-05-02T13:03:17.000Z",
+          "wordCount": 673,
+          "title": "泽连斯基：乌克兰与白罗斯边境出现“异常活动”",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/194d52eece1fe5ea44a11d0737989961a676191a03cad0314a4f855db20e1ab2"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260502-8988339",
+          "author": null,
+          "description": "（华盛顿综合电）美国加大力度打击德黑兰政府的石油收入命脉，对伊朗三家外汇兑换公司和中国的青岛海业油码头公司实施制裁，并警告海运业者若向伊朗支付“买路钱”换取在霍尔木兹海峡安全通行，等于抵触美国的制裁。\n美国财政部星期五（5月1日）宣布制裁三家伊朗外汇兑换商，指它们协助德黑兰政府将外汇收入洗白，包括将人民币结算的石油收入兑换成其他外汇。\n财政部声明称，德黑兰“通过影子银行网络，每年处理数百亿美元的贸易金流，许多都是从海外贩售石油和石化产品而来”。\n财长贝森特说：“我们将坚持不懈地打击这个政权获取、调动和汇回资金的能力，并向帮助德黑兰规避制裁的任何人追究责任。”\n\n              \n美国财政部周五宣布制裁三家伊朗外汇兑换商，指它们协助德黑兰政府将外汇收入洗白，包括将人民币结算的石油收入兑换汇回伊朗。法新社最新照片显示，美伊停火后，德黑兰街头恢复平静，一名市民到银行自动提款机提取现金。（法新社）\n            \n财政部属下的外国资产控制办公室也发声明警告，美国和海外航运业者若向伊朗当局支付通行霍尔木兹海峡的费用，不论是以通用货币、数码资产、非正式互换交易或向伊朗红十字会捐款的方式，都是触犯美国的制裁。　　\n据伊朗国营广播机构星期五报道，伊朗革命卫队海军司令部宣称，将针对“波斯湾的管理发布新的条例准则”，霍尔木兹海峡也将继续是“伊朗人民维持生计的来源”。\n\n美国务院：青岛油港掩人耳目进口数千万桶伊朗原油\n\n同一天，美国国务院以涉及伊朗石油贸易为由，宣布制裁中国的青岛海业油码头有限公司，称它“使用掩人耳目的船运手法，进口数千万桶被制裁的伊朗原油”。\n国务院声明说：“只要伊朗意图继续赚取石油收入来资助破坏稳定的活动，美国将会对它和所有帮助它规避制裁的伙伴追究责任。”\n对青岛海业油码头的制裁意味着，美国业者若与这家公司进行任何交易，都属违法。美国去年也对当地另一家业者、青岛港海业董家口油品公司实施类似制裁。 \n美国财政部本周早前也警告各国银行，若协助中国炼油业者购买伊朗石油，将面对处以二级制裁的风险。\n\n              \n美国国务院周五以涉及进口伊朗石油为由，宣布制裁中国的青岛海业油码头有限公司。图为一艘油轮在青岛港口卸油的资料照片。（法新社）\n            \n根据海运贸易信息公司Kpler的数据，美军封锁霍尔木兹海峡已扼制伊朗的原油出口，断绝德黑兰一笔主要的收入来源。原油无法出海也导致伊朗的储油设施即将满载，面对大量减产的风险。\n特朗普政府如今再针对伊朗最大石油买家中国推出新一轮制裁，试图进一步勒紧伊朗的石油收入命脉。\n\n中国商务部发禁令反制美国制裁\n\n中国商务部星期六（2日）根据《阻断外国法律与措施不当域外适用办法》发布禁令，阻断自去年以来，美国以涉及伊朗石油贸易为由，对五家中国油企包括恒力石化（大连）炼化、山东寿光鲁清石化等实施的制裁，规定不得承认、执行及遵守美国对这五家公司的制裁。\n商务部新闻发言人当天回复记者提问时说，中国政府一贯反对缺乏联合国授权和国际法依据的单边制裁。为了维护国家主权、安全、发展利益，保护中国公民、法人或其他组织的合法权益，因而发布禁令，阻断美国的制裁。",
+          "link": "https://www.zaobao.com/news/world/story20260502-8988339",
+          "publishedOn": "2026-05-02T12:54:04.000Z",
+          "wordCount": 1062,
+          "title": "美国制裁伊朗外汇商与中国油港业者 加码打击德黑兰石油收入",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/c78cd04ccdf258cb11611f1348847cc6f569ae2b8ae4c00826627e9483d0c1b1"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260502-8988256",
+          "author": null,
+          "description": "（华盛顿综合电）美国五角大楼宣布与七家公司达成协议，将这些公司的先进人工智能（AI）技术部署到战争部的机密网络中，用于合法的作战行动。\n五角大楼星期五（5月1日）发声明说，这将加快美军向以AI优先的作战力量转型的步伐，并将增强作战人员在所有作战领域保持决策优势的能力。\n这七家公司包括太空探索技术公司（SpaceX）、OpenAI、谷歌、英伟达、Reflection、微软和亚马逊云科技。他们的技术将融入五角大楼最机密的系统，用于任务规划、武器目标定位和其他用途。\n声明并未提及美国另一家主要AI企业Anthropic公司。这家公司此前因反对五角大楼将其AI技术用于大规模国内监视以及部署在全自主武器系统，而被五角大楼列入供应链风险黑名单。Anthropic的Claude AI模型此前是唯一获准用于美国机密军事行动的模型，目前仍在使用中。\n美国战争部首席技术官迈克尔周五说，仅依赖一个AI合作伙伴来满足五角大楼的需求是“不负责任的”。他指出，新协议涵盖了闭源和开源两种模型。开源模型无需持续支付许可费或供应商访问权限即可运行，为五角大楼提供了更大的操作灵活性，并减少对单一商业供应商的依赖。\n不过，这一安排引发谷歌内部反对。600多名谷歌员工周一（4月27日）联署要求公司拒绝与五角大楼的合作协议，理由是担心谷歌的AI系统用于大规模监控和杀伤性自主武器等有害用途。\n2018年的一次员工抗议行动成功迫使谷歌退出五角大楼的“Maven计划”，该项目旨在将AI融入无人机作战。近年来，谷歌开始进行战略转型，着重于重建军事业务，争夺国防合同。",
+          "link": "https://www.zaobao.com/news/world/story20260502-8988256",
+          "publishedOn": "2026-05-02T12:51:17.000Z",
+          "wordCount": 694,
+          "title": "五角大楼与七公司合作 推动AI优先作战战略",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/ce4e03a5c882f216255bbceac85b7dfab8ae166b2e335f07000d7158a5cb976a"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260502-8988608",
+          "author": null,
+          "description": "德国国防部长皮斯托里乌斯说，美国计划从德国撤军，欧洲国家应该加强自身防务。\n五角大楼星期五（5月1日）宣布，美国将从它在欧洲最大的军事基地德国撤出5000名士兵，预计在半年至一年内完成。伊朗战争和关税紧张局势使得欧美关系更为紧张。德国总理默茨曾质疑华盛顿在中东的战略。\n皮斯托里乌斯5月2日在接受媒体采访时说，美国从德国撤出约5000名美军人员的计划“可以预见”，路透社引述他说，此次部分撤军将影响目前驻德近4万名美军士兵的驻扎情况。其他估计认为，现役部队人数为3.5万人。\n皮斯托里乌斯说：“我们欧洲人必须承担更多自身安全责任。”他还补充说，德国通过扩充军力、加快军事采购和建设基础设施，“正走在正确的道路上”。德国希望将联邦国防军现役士兵人数从目前的18.5万人增加到26万人。\n新华社引述皮斯托里乌斯说，美国士兵在欧洲、特别是在德国的驻扎，“既符合我们的利益，也符合美国的利益”。\n在谈及北约的未来时，他说，北约必须更加“欧洲化”，才能维系其跨大西洋的属性。欧洲人必须为自身的安全承担起更多责任。\n他说，德国接下来将就未来的防务任务与欧洲盟国展开进一步磋商与协调。\n北约成员国已承诺承担更多自身防务责任，但由于预算紧张和军事能力存在巨大差距，该地区需要数年时间才能满足自身的安全需求。",
+          "link": "https://www.zaobao.com/news/world/story20260502-8988608",
+          "publishedOn": "2026-05-02T12:47:56.000Z",
+          "wordCount": 691,
+          "title": "德国防长：美军撤离 欧洲国家应加强自身防务",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/96f12f67b21e7eadb9ba4960973553c691d953fafdbe28ad9b3a36468472efd9"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260502-8988330",
+          "author": null,
+          "description": "北大西洋公约组织发言人说，北约正与美国合作，了解美国计划从德国撤军的细节。\n北约发言人艾莉森·哈特星期六（5月2日）在社交媒体X网站上写道：“我们正与美国合作，了解关于驻德兵力部署的决定细节。这一调整凸显了欧洲需要继续加大国防投入，并承担更多维护共同安全的责任——自去年在海牙举行的北约峰会上，盟国同意将国内生产总值的5%用于国防以来，我们已经看到这方面取得了进展。”\n路透社引述她说：“随着欧洲向更强大的北约迈进，我们仍然有信心履行我们的威慑和防御职责。”",
+          "link": "https://www.zaobao.com/news/world/story20260502-8988330",
+          "publishedOn": "2026-05-02T11:02:39.000Z",
+          "wordCount": 540,
+          "title": "北约：与美国合作 了解驻德美军撤离细节",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/5eb9112da047009ac2724f1faac59998fbf46b8eceaac5c45bcedbbf35d7781d"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260502-8988265",
+          "author": null,
+          "description": "据日本气象厅消息，日本奈良县（Nara Prefecture）发生5.7级地震。\n日本气象厅说，地震发生于星期六（5月2日）18时28分（新加坡时间17时28分）许，震中位于北纬34.1度、东经135.6度，震源深度约70千米，震级为5.7级。\n新华社引述日本放松协会电视台播出的画面报道，当地晃动较为明显。\n目前暂无人员伤亡报告。日本气象厅说，无需担心地震引发海啸。",
+          "link": "https://www.zaobao.com/news/world/story20260502-8988265",
+          "publishedOn": "2026-05-02T10:32:46.000Z",
+          "wordCount": 672,
+          "title": "日本奈良发生5.7级地震",
+          "imageUrl": "https://www.zaobao.com.sg/_web2/assets/social-share.png"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260502-8988190",
+          "author": null,
+          "description": "美国总统特朗普说，美国海军的行为“如同海盗”，他以此形容在美伊港口对峙的封锁期间，美国海军扣押一艘船只的行动。\n特朗普星期五（5月1日）在佛罗里达州的一次集会上说：“我们……登陆了那艘船，我们接管了它。我们接管了货物，接管了石油。这是一项非常有利可图的生意，”\n“我们就像海盗，”他补充道，现场响起一片欢呼声。“我们有点像海盗。但我们不是在玩游戏。”\n特朗普将美国海军的行动比作海盗行为之际，法律专家们正对伊朗封锁至关重要的霍尔木兹海峡及其计划对过境船只收取费用表示担忧。\n自2月28日美国与以色列对伊朗发动空袭以来，德黑兰实际上已经封锁了这条水道——石油和天然气运输的关键通道。\n上个月，在巴基斯坦举行的和平谈判未能取得突破后，美国宣布封锁伊朗港口。\n法新社引述负责中东军务的美国中央司令部说，截至星期五，已调派45艘船只“确保”其封锁措施得到执行。\n美国战争部长赫格塞斯4月份告诉记者，封锁将持续“直到达成协议为止”。参谋长联席会议主席凯恩则说，封锁“适用于所有进出伊朗港口的船只，无论其国籍”。\n与此同时，伊朗誓言，只要华盛顿继续封锁其港口，伊朗就会继续控制海峡。\n特朗普对美国与伊朗进行的谈判表示不满意，但说“我们不能让这种局面继续下去”。之前，记者星期五在白宫问及政府的选项时，特朗普说，“从人道主义角度来说，我更倾向于不”重启这场始于2月底美国和以色列对伊朗发动空袭的战争。这场战争已在中东地区造成数千人死亡，其中大部分发生在伊朗和黎巴嫩，由于至关重要的霍尔木兹海峡封锁，能源价格飙升。\n伊朗外长阿拉格齐说，如果美国改变策略，避免“过分的要求、威胁性的言辞和挑衅性的行动”，德黑兰准备继续进行外交努力。他也说，伊朗军队仍保持“高度警惕”。",
+          "link": "https://www.zaobao.com/news/world/story20260502-8988190",
+          "publishedOn": "2026-05-02T10:31:34.000Z",
+          "wordCount": 685,
+          "title": "特朗普：美国海军封锁伊朗扣船 行为如同“海盗”",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/0360e01446bead8cf1f820184e7f00cf729feb11bbbd945b94a855fa6cab8395"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260502-8987826",
+          "author": null,
+          "description": "（纽约彭博电）经济不稳定加上人工智能（AI）带来的冲击，美国和欧洲各地的雇主越来越依赖临时工来维持业务运转，并推迟正式员工的招聘。\n人力资源服务公司指出，企业在评估AI会如何影响人力需求时，更倾向于招聘合同工。全球地缘政治和经济前景的不确定性，也让企业在考量所需员工数量及用工时长时更为犹豫。\n总部位于阿姆斯特丹的任仕达（Randstad）首席财务官瓦斯奎兹最近在公司财报电话会议上说：“我们并不知道，企业客户什么时候才会更有信心和能力开始让人才重新流动，或开始招募更多永久岗位。”\n整体而言，企业招聘依然疲弱，但临时岗位的招聘情况好于永久岗位。人力资源顾问公司罗致恒富（Robert Half）说，3月份的临时工业务收入较去年同期下降5%，较本季度7%的跌幅有所收窄，4月初仅微降1%，而协助企业招聘正式员工的收入，则在3月份下降6%，4月初也下降了7%。\n最新的美国就业数据则显示，自12月以来，临时工人数总体呈小幅上升趋势，每月的环比表现也优于整体非农就业市场。",
+          "link": "https://www.zaobao.com/news/world/story20260502-8987826",
+          "publishedOn": "2026-05-02T09:42:26.000Z",
+          "wordCount": 679,
+          "title": "经济不稳叠加AI冲击 美欧企业转向招聘临时工",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/6890f7381d150ec92e1b058373312f98bfc1bd29170d5b7ab39ec8724018c098"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260502-8987952",
+          "author": null,
+          "description": "破产的美国大型廉价航空公司精神航空（Spirit Airlines）停止运营，成为伊朗战争中首家倒闭的航空公司。此前，公司未能获得债权人对美国政府救助计划的支持。\n持续两个月的伊朗战争导致航空燃油价格翻番，精神航空星期六（5月2日）凌晨3时起（新加坡时间下午3时）正式停运，数千人将因此失业。这对美国总统特朗普来说是一个打击，他曾提议拨款5亿美元（6.40亿新元）拯救精神航空，但遭到亲密的顾问和国会许多共和党人的反对。\n精神航空公司的声明宣布“有序停止运营”，并说：“不幸的是，尽管公司已尽力，但近期油价大幅上涨以及其他业务压力严重影响了精神航空的财务前景。”\n2月底爆发的伊朗战争导致航空燃油价格飙升，精神航空的燃油负担每周增加1000万至1500万美元，并彻底打乱航空公司摆脱破产困境的计划。\n精神航空的重组计划假设2026年航空燃油价格约为每加仑2.24美元，2027年约为每加仑2.14美元，但到4月底，油价已攀升至每加仑约4.51美元，导致公司若无新的融资将难以生存。\n据一名知情人士星期五晚间向路透社透露，精神航空董事会会议结束，但未能就拯救该公司达成任何协议。\n在过去的二十年里，没有一家像精神航空这样规模的美国航空公司倒闭，精神航空一度占据美国航班总量的5%。公司上一次获利是在2019年，公司面临着来自大型航空公司的激烈竞争以及沉重的债务负担。在过去一年半里，公司多次申请破产保护。\n精神航空公司此前与美国政府已就5亿美元的纾困方案达成共识。作为交换，美国政府将获得该公司90%的股权。\n特朗普告诉记者：“如果我们能帮到他们，我们会尽力，但我们自己必须优先考虑。如果我们能做到，我们会去做，但前提是这是一项划算的协议。”\n交通部长肖恩·达菲告诉路透社，他曾试图说服多家航空公司收购精神航空，但无人问津。\n精神航空公司的债权人则认为，与其接受政府的条件，不如让精神航空公司清算机队。债权人于星期四（4月30日）晚致函精神航空董事会成员，敦促对方采取有序清算并立即停止营运。一名债权人说：“特朗普政府为拯救精神航空做出了巨大的努力，但无人能让一具尸体起死回生。鉴于此，为了客户和员工的利益，公司应该明确意图。”",
+          "link": "https://www.zaobao.com/news/world/story20260502-8987952",
+          "publishedOn": "2026-05-02T09:11:40.000Z",
+          "wordCount": 695,
+          "title": "伊朗战争致油价暴涨打乱计划 美国廉航精神航空停运",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/f78bae393c42cc1f1be158d78325fd1f51546571acd5fcc6d4f00a4a65c8cce7"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260502-8987608",
+          "author": null,
+          "description": "（华盛顿彭博电）美国多家石油巨头近日发出严正警告，随着全球商业库存和战略储备油的持续消耗，全球原油市场正逼近危险的临界点。霍尔木兹海峡关闭时间越长，全球原油市场恐将面临价格进一步飙升的严峻挑战。\n埃克森美孚（Exxon Mobil）、雪佛龙（Chevron）和康菲石油（ConocoPhillips）指出，霍尔木兹海峡多关闭一天，全球就会进一步消耗商业库存、战略储备以及在美以伊战争前储存在油轮中的原油。\n埃克森美孚首席执行官伍兹星期五（5月1日）在与分析员的电话会议上说，这些供应在3月和4月协助缓解了油价压力，但这无法长期维持。\n他说：“显而易见的是，如果看看这场前所未有的干扰以及全球石油和天然气的供应状况，市场尚未完全反映其影响……如果海峡继续关闭，后续还会有更大的冲击。”\n伊朗封锁霍尔木兹海峡长期以来被视为能源市场的噩梦，因为全球五分之一的石油和液化天然气每天都要经过这一战略要道。\n自两个月前伊朗封锁霍尔木兹海峡以来，全球油价已上涨逾50%，目前处于每桶100美元左右的水平，仍远低于纪录高点。\n伍兹说，随着库存逐渐耗尽，这种情况可能很快改变。“当商业库存降至最低运作水平时，这一供应来源将不复存在……如果这种情况发生而海峡仍然封锁，我们预计市场价格将继续上升。”\n康菲石油首席财务官奥布莱恩星期四（4月30日）向分析师指出，战争爆发前装载的油气已陆续抵达目的地，补给链已基本耗尽，“进入6月至7月，一些依赖进口的国家可能开始面临严重的供应短缺”。",
+          "link": "https://www.zaobao.com/news/world/story20260502-8987608",
+          "publishedOn": "2026-05-02T08:55:27.000Z",
+          "wordCount": 693,
+          "title": "美石油巨头警告：霍尔木兹海峡关闭越久 油价冲击越大",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/45589c5d49e0accec9b3fa7dde36e8ba0ec6c062a4e44c1681fc99518316eef4"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260502-8987276",
+          "author": null,
+          "description": "古巴国家主席迪亚斯-卡内尔说，美国政府宣布新一轮强制措施，进一步强化对古巴“残酷的种族灭绝式封锁”，这充分暴露美国道德匮乏，也无视美国民众及国际社会的良知与常识。 \n新华社报道，迪亚斯-卡内尔星期五（5月1日）在社媒平台说，任何正直之人都无法认同“古巴对美国构成威胁”的说辞。他指全球头号军事大国以恐吓方式与傲慢态度对待古巴，其不断加码的封锁政策已造成巨大伤害。\n美国白宫1日发布公告称，美总统特朗普当天签署行政令，以“威胁美国国家安全和对外政策”为由，加大对古巴制裁。\n根据行政令，美国将冻结涉及古巴能源、国防、矿产、金融等领域的个人和实体资产。同时，美国禁止本国个人及机构与受制裁对象进行资金、商品或服务往来。\n此外，相关人员将被限制入境美国，关联的外国金融机构也将面临制裁。\n另据福克斯新闻报道，特朗普1日在佛罗里达州棕榈滩论坛俱乐部发表讲话时半开玩笑说，美国将“几乎立刻接管”古巴。他称“古巴有很多问题，办完伊朗的事，我们就派一艘大型航母，航母一靠岸，古巴就会投降。” \n美国长期对古巴实施经济、金融封锁和贸易禁运。美国今年年初对委内瑞拉发动大规模军事打击后，进一步加大对古巴施压，包括实施新一轮石油限制措施。特朗普还多次威胁称，完成对委内瑞拉、伊朗的军事行动后，“下一个就是古巴”。",
+          "link": "https://www.zaobao.com/news/world/story20260502-8987276",
+          "publishedOn": "2026-05-02T06:48:34.000Z",
+          "wordCount": 686,
+          "title": "古巴国家主席：美国对古巴实施“种族灭绝式封锁”",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/0156ec710f19f06c6dc2e8b642d6b1aac156fe5d53ca447bc8a740f1c50318c7"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260502-8987205",
+          "author": null,
+          "description": "美国批准向以色列、阿拉伯联合酋长国、卡塔尔、科威特，提供价值总额超过86亿美元（约110亿新元）的军售，且不需国会审查。\n新华社报道，美国国务院星期五（5月1日）发布多条消息，公布相关军售合同。其中，以色列将购买1万套“先进精确杀伤武器系统”及相关设备，预计9亿9240万美元。\n此外，科威特将购买“综合战争指挥系统”及相关设备，预计25亿美元；卡塔尔将购买1万套“先进精确杀伤武器系统”及相关设备，以及“爱国者”导弹防御系统的补给服务及相关设备，预计共约50亿美元；阿联酋将购买“先进精确杀伤武器系统”及相关设备，预计1亿4760万美元。\n美国国务院说，美国务卿鲁比奥认定存在紧急情况，必须立即向上述四国出售防务物资和服务，这符合美国国家安全利益，根据经修订的《武器出口管制法》，相关交易可豁免国会审查。",
+          "link": "https://www.zaobao.com/news/world/story20260502-8987205",
+          "publishedOn": "2026-05-02T06:18:54.000Z",
+          "wordCount": 668,
+          "title": "美国批准对以色列等四国超86亿美元军售",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/4b53e0cd3256165866c7f771870e56e4248ac3127f79ee75f22468cf1bfd5b5a"
+        },
         {
           "id": "https://www.zaobao.com/news/world/story20260502-8986492",
           "author": null,
@@ -4676,16 +4896,6 @@
           "wordCount": 1035,
           "title": "退休金存到死，還是花到零？連 Morgan Housel 都跟自己矛盾了。",
           "imageUrl": "https://ducorn.com/images/og/die-with-zero.webp"
-        },
-        {
-          "id": "https://ducorn.com/glp1-after-stopping",
-          "author": null,
-          "description": "Cleveland Clinic 8,000 人真實數據：停打瘦瘦筆後平均只復胖 0.5%。但 STEP 1 臨床試驗說三分之二會回來。差了 130 倍的原因不在誰說謊。是「停藥」的定義完全不同。加上 WashU 33 萬人研究發現，停藥後心臟保護在六個月內就開始消退。",
-          "link": "https://ducorn.com/glp1-after-stopping",
-          "publishedOn": "2026-04-02T16:09:21.000Z",
-          "wordCount": 1016,
-          "title": "瘦瘦筆停藥後會怎樣？復胖 0.5% 和三分之二，為什麼差了 130 倍",
-          "imageUrl": "https://ducorn.com/images/og/glp1-after-stopping.webp"
         }
       ]
     },
@@ -4694,6 +4904,272 @@
       "feedUrl": "https://basicsix-my-rsshub-hq.hf.space/1x",
       "siteUrl": "https://1x.com/gallery/latest/awarded",
       "articles": [
+        {
+          "id": "1x-3567633",
+          "author": "Cesar Alvarez Osorio",
+          "description": "From the top of the fjord by Cesar Alvarez Osorio",
+          "link": "https://1x.com/photo/3567633",
+          "publishedOn": "2026-05-03T02:47:25.899Z",
+          "wordCount": 380,
+          "title": "From the top of the fjord",
+          "enclosure": {
+            "url": "https://1x.com/images/user/c5fb043d88332cae1852036783530b17-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/c5fb043d88332cae1852036783530b17-hd2.jpg"
+        },
+        {
+          "id": "1x-3567605",
+          "author": "meix",
+          "description": "Whisper under the milkyway by meix",
+          "link": "https://1x.com/photo/3567605",
+          "publishedOn": "2026-05-03T02:47:25.876Z",
+          "wordCount": 337,
+          "title": "Whisper under the milkyway",
+          "enclosure": {
+            "url": "https://1x.com/images/user/9ac5371c0298ecab27645b048cb11b1c-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/9ac5371c0298ecab27645b048cb11b1c-hd4.jpg"
+        },
+        {
+          "id": "1x-3567494",
+          "author": "Petra van der Zande",
+          "description": "Bear in Finland by Petra van der Zande",
+          "link": "https://1x.com/photo/3567494",
+          "publishedOn": "2026-05-03T02:47:25.873Z",
+          "wordCount": 375,
+          "title": "Bear in Finland",
+          "enclosure": {
+            "url": "https://1x.com/images/user/5e42866fa94f925d48c8a7d477054a68-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/5e42866fa94f925d48c8a7d477054a68-hd4.jpg"
+        },
+        {
+          "id": "1x-3567747",
+          "author": "jordiegeatorrent",
+          "description": "Silvertum. Frankfurt by jordiegeatorrent",
+          "link": "https://1x.com/photo/3567747",
+          "publishedOn": "2026-05-03T02:47:25.871Z",
+          "wordCount": 360,
+          "title": "Silvertum. Frankfurt",
+          "enclosure": {
+            "url": "https://1x.com/images/user/9d193e42f4737312ad27b479bb263b2c-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/9d193e42f4737312ad27b479bb263b2c-hd4.jpg"
+        },
+        {
+          "id": "1x-3566965",
+          "author": "GAGIK VAGRAMYAN",
+          "description": "ADELAIDA PORTRAIT by GAGIK  VAGRAMYAN",
+          "link": "https://1x.com/photo/3566965",
+          "publishedOn": "2026-05-03T02:47:25.870Z",
+          "wordCount": 335,
+          "title": "ADELAIDA PORTRAIT",
+          "enclosure": {
+            "url": "https://1x.com/images/user/cd5f6f38f968d3e463f527f16984c78f-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/cd5f6f38f968d3e463f527f16984c78f-hd4.jpg"
+        },
+        {
+          "id": "1x-3567651",
+          "author": "Setsuna Kurouzu",
+          "description": "Dots by Setsuna Kurouzu",
+          "link": "https://1x.com/photo/3567651",
+          "publishedOn": "2026-05-03T02:47:25.867Z",
+          "wordCount": 361,
+          "title": "Dots",
+          "enclosure": {
+            "url": "https://1x.com/images/user/eb4b8ccd44d182512899cfb972657f15-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/eb4b8ccd44d182512899cfb972657f15-hd4.jpg"
+        },
+        {
+          "id": "1x-3567496",
+          "author": "Tamirlav",
+          "description": "Dentelle by Tamirlav",
+          "link": "https://1x.com/photo/3567496",
+          "publishedOn": "2026-05-03T02:47:25.866Z",
+          "wordCount": 328,
+          "title": "Dentelle",
+          "enclosure": {
+            "url": "https://1x.com/images/user/7c12c2c3f76a0d91993a6d3dfd1d7f69-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/7c12c2c3f76a0d91993a6d3dfd1d7f69-hd2.jpg"
+        },
+        {
+          "id": "1x-3567626",
+          "author": "Stefano Caccia",
+          "description": "MOONLIGHT SERENADE by Stefano Caccia",
+          "link": "https://1x.com/photo/3567626",
+          "publishedOn": "2026-05-03T02:47:25.863Z",
+          "wordCount": 335,
+          "title": "MOONLIGHT SERENADE",
+          "enclosure": {
+            "url": "https://1x.com/images/user/ffca014dd3d49515facc02867410c044-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/ffca014dd3d49515facc02867410c044-hd2.jpg"
+        },
+        {
+          "id": "1x-3567490",
+          "author": "Greetje van Son",
+          "description": "Seine view by Greetje van Son",
+          "link": "https://1x.com/photo/3567490",
+          "publishedOn": "2026-05-03T02:47:25.860Z",
+          "wordCount": 368,
+          "title": "Seine view",
+          "enclosure": {
+            "url": "https://1x.com/images/user/8ba094593962068bc6f884b950b0bf9d-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/8ba094593962068bc6f884b950b0bf9d-hd4.jpg"
+        },
+        {
+          "id": "1x-3567685",
+          "author": "Qing Zhao",
+          "description": "Spring by Qing Zhao",
+          "link": "https://1x.com/photo/3567685",
+          "publishedOn": "2026-05-03T02:47:25.858Z",
+          "wordCount": 332,
+          "title": "Spring",
+          "enclosure": {
+            "url": "https://1x.com/images/user/94d5a8e8709467ffffbcc6b68437c2f7-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/94d5a8e8709467ffffbcc6b68437c2f7-hd4.jpg"
+        },
+        {
+          "id": "1x-3567665",
+          "author": "Nico Pakvis",
+          "description": "Doroteja by Nico Pakvis",
+          "link": "https://1x.com/photo/3567665",
+          "publishedOn": "2026-05-03T02:47:25.856Z",
+          "wordCount": 332,
+          "title": "Doroteja",
+          "enclosure": {
+            "url": "https://1x.com/images/user/619cc340999a0ad82096595b630ca2b2-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/619cc340999a0ad82096595b630ca2b2-hd4.jpg"
+        },
+        {
+          "id": "1x-3567499",
+          "author": "Tore Johansson",
+          "description": "Fisherman by Tore Johansson",
+          "link": "https://1x.com/photo/3567499",
+          "publishedOn": "2026-05-03T02:47:25.854Z",
+          "wordCount": 361,
+          "title": "Fisherman",
+          "enclosure": {
+            "url": "https://1x.com/images/user/55fba890f53ab755ed999aae613a5fab-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/55fba890f53ab755ed999aae613a5fab-hd4.jpg"
+        },
+        {
+          "id": "1x-3567551",
+          "author": "Karl-Heinz Bitter",
+          "description": "double vision by Karl-Heinz Bitter",
+          "link": "https://1x.com/photo/3567551",
+          "publishedOn": "2026-05-03T02:47:25.852Z",
+          "wordCount": 364,
+          "title": "double vision",
+          "enclosure": {
+            "url": "https://1x.com/images/user/ba7d2a6b115f62f09bb63e941f9c4cb4-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/ba7d2a6b115f62f09bb63e941f9c4cb4-hd4.jpg"
+        },
+        {
+          "id": "1x-3542036",
+          "author": "Þorsteinn H. Ingibergsson",
+          "description": "Old Hut by Þorsteinn H. Ingibergsson",
+          "link": "https://1x.com/photo/3542036",
+          "publishedOn": "2026-05-03T02:47:25.850Z",
+          "wordCount": 368,
+          "title": "Old Hut",
+          "enclosure": {
+            "url": "https://1x.com/images/user/47896a830a2b6ddf6419052e32d27361-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/47896a830a2b6ddf6419052e32d27361-hd2.jpg"
+        },
+        {
+          "id": "1x-3567727",
+          "author": "Raimondo Restelli",
+          "description": "JAPAN, HOKKAIDO - SHIRETOKO PENINSULA-14331 by Raimondo Restelli",
+          "link": "https://1x.com/photo/3567727",
+          "publishedOn": "2026-05-03T02:47:25.828Z",
+          "wordCount": 344,
+          "title": "JAPAN, HOKKAIDO - SHIRETOKO PENINSULA-14331",
+          "enclosure": {
+            "url": "https://1x.com/images/user/332558a499c36858ab77c6568ffd194a-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/332558a499c36858ab77c6568ffd194a-hd4.jpg"
+        },
+        {
+          "id": "1x-3560479",
+          "author": "Lydia Jacobs",
+          "description": "Flames in the Night by Lydia Jacobs",
+          "link": "https://1x.com/photo/3560479",
+          "publishedOn": "2026-05-03T02:47:25.826Z",
+          "wordCount": 370,
+          "title": "Flames in the Night",
+          "enclosure": {
+            "url": "https://1x.com/images/user/54f45768fcf67ae600030c571c127cda-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/54f45768fcf67ae600030c571c127cda-hd4.jpg"
+        },
+        {
+          "id": "1x-3567773",
+          "author": "Robert Buergisser",
+          "description": "The Fog by Robert Buergisser",
+          "link": "https://1x.com/photo/3567773",
+          "publishedOn": "2026-05-03T02:47:25.824Z",
+          "wordCount": 364,
+          "title": "The Fog",
+          "enclosure": {
+            "url": "https://1x.com/images/user/76904a568a7c30e48051141d3524d7d3-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/76904a568a7c30e48051141d3524d7d3-hd2.jpg"
+        },
+        {
+          "id": "1x-3540849",
+          "author": "Anna Cseresnjes",
+          "description": "Untitled by Anna Cseresnjes",
+          "link": "https://1x.com/photo/3540849",
+          "publishedOn": "2026-05-03T02:47:25.524Z",
+          "wordCount": 361,
+          "title": "Untitled",
+          "enclosure": {
+            "url": "https://1x.com/images/user/d8df8afb643793505d36533c04a12a39-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/d8df8afb643793505d36533c04a12a39-hd2.jpg"
+        },
+        {
+          "id": "1x-3567753",
+          "author": "Doron Margulies",
+          "description": "Spring by Doron Margulies",
+          "link": "https://1x.com/photo/3567753",
+          "publishedOn": "2026-05-03T02:47:25.521Z",
+          "wordCount": 332,
+          "title": "Spring",
+          "enclosure": {
+            "url": "https://1x.com/images/user/387625ba05f946b7d91aefec25ccc8db-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/387625ba05f946b7d91aefec25ccc8db-hd4.jpg"
+        },
         {
           "id": "1x-3548721",
           "author": "Lydia Jacobs",
@@ -9570,6 +10046,24 @@
       "siteUrl": "https://www.ted.com",
       "articles": [
         {
+          "id": "69f36eb69dcd58edd9717d41",
+          "author": null,
+          "description": "What do you hear when you sit in silence? For artist Rose B. Simpson, that question is the beginning of all art. She comes from a line of ceramic artists stretching back generations and, as part of her multidisciplinary work, she also builds custom lowrider cars. (If that sounds like a contradiction, that's kind of the point.) In conversation with \"Design Matters\" podcast host Debbie Millman, Simpson invites you to find your own aesthetic — not by searching, but by listening.\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
+          "link": "http://go.ted.com/rosebsimpson",
+          "publishedOn": "2026-05-02T15:00:00.000Z",
+          "wordCount": null,
+          "title": "How to invite creativity into your life | Rose B. Simpson, Debbie Millman",
+          "itunes": {
+            "duration": "20:05"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69f36eb69dcd58edd9717d41/media.mp3",
+            "length": "19392239",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "69f36e419dcd58edd9713bfd",
           "author": null,
           "description": "We see consciousness in AI the same way we see faces in clouds, says neuroscientist Anil Seth. He explores the all-too-human tendency to project inner life onto machines that are brilliant mimics, not sentient beings, and gives a definitive answer to the urgent question: Will AI ever gain consciousness?\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
@@ -10213,24 +10707,6 @@
           "enclosure": {
             "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69cbe0fa92d007a76577a379/media.mp3",
             "length": "9779934",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "69ce87c1ac25e4bf66166691",
-          "author": null,
-          "description": "As the world races toward digital perfection, tech humanist Stephen Remedios tried to optimize the messiest and most imperfect of all human work: parenting. He shares the story of DaddyGPT, a digital version of himself built to help raise his kids — until they began to prefer it over him. What unfolds is a personal look at the limits of AI, and a reminder that what matters most isn't getting it right every time but showing up with the authentic imperfection only humans have.\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
-          "link": "https://go.ted.com/stephenremedios",
-          "publishedOn": "2026-04-02T15:00:00.000Z",
-          "wordCount": null,
-          "title": "I let DaddyGPT parent my kids. Here's what I learned | Stephen Remedios",
-          "itunes": {
-            "duration": "13:19"
-          },
-          "enclosure": {
-            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ce87c1ac25e4bf66166691/media.mp3",
-            "length": "12885743",
             "type": "audio/mpeg"
           },
           "imageUrl": null
